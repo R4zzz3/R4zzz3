@@ -119,12 +119,12 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
 #map:active { cursor: grabbing; }
 .land path { fill: var(--surface); stroke: var(--line); stroke-width: .7; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
 .land path.fi { fill: var(--surface-2); stroke: var(--ink-2); }
-.route { fill: none; vector-effect: non-scaling-stroke; opacity: .6; stroke-linecap: round; transition: opacity .2s; }
+.route { fill: none; vector-effect: non-scaling-stroke; opacity: .75; stroke-linecap: round; transition: opacity .2s; }
 .route.s-fast { stroke: var(--fast); stroke-width: 2.5; }
-.route.s-mid { stroke: var(--mid); stroke-width: 2; stroke-dasharray: 7 4; stroke-linecap: butt; }
+.route.s-mid { stroke: var(--mid); stroke-width: 1.75; stroke-dasharray: 7 4; stroke-linecap: butt; }
 .route.s-slow { stroke: var(--slow); stroke-width: 2; stroke-dasharray: .1 4.5; }
-.route.s-unknown { stroke: var(--ink-2); stroke-width: 1.5; stroke-dasharray: 2 6; opacity: .6; }
-#map.has-sel .route { opacity: .2; }
+.route.s-unknown { stroke: var(--ink-2); stroke-width: 1.25; stroke-dasharray: 2 5; opacity: .55; }
+#map.has-sel .route { opacity: .15; }
 #map.has-sel .route.sel { opacity: 1; }
 .dot { cursor: pointer; outline: none; }
 .dot .hit { fill: transparent; }
@@ -133,22 +133,27 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
 .dot .n { font: 700 10px/1 var(--f-body); fill: var(--ink); text-anchor: middle; font-variant-numeric: tabular-nums; pointer-events: none; }
 .dot:hover .pin, .dot.sel .pin { stroke-width: 3; }
 .dot:focus-visible .pin { stroke: var(--focus); stroke-width: 3; }
+.dot:focus-visible .hit { r: 14px; stroke: var(--focus); stroke-width: 2; }
 #dest .ring { fill: none; stroke: var(--ink); stroke-width: 1.5; }
 #dest .core { fill: var(--ink); }
 #dest text { font: 600 12px/1 var(--f-body); fill: var(--ink); }
 .map-ui { position: absolute; left: max(16px, env(safe-area-inset-left, 0px)); bottom: 16px; display: flex; flex-direction: column; gap: 10px; pointer-events: none; }
-.legend { pointer-events: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; display: grid; gap: 4px; font-size: .8125rem; }
-.legend p { margin: 0 0 2px; color: var(--ink-2); }
+.legend { pointer-events: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px 10px; display: grid; grid-template-columns: auto auto; gap: 4px 16px; font-size: .8125rem; }
+.legend p { margin: 0 0 2px; color: var(--ink-2); grid-column: 1 / -1; }
 .legend span { display: flex; align-items: center; gap: 8px; font-variant-numeric: tabular-nums; }
 .stitch { width: 24px; height: 8px; flex: none; display: inline-block; vertical-align: middle; }
 .stitch line { stroke-width: 2; }
 .stitch.s-fast line { stroke: var(--fast); stroke-width: 2.5; }
 .stitch.s-mid line { stroke: var(--mid); stroke-dasharray: 7 4; }
 .stitch.s-slow line { stroke: var(--slow); stroke-dasharray: .1 4.5; stroke-linecap: round; stroke-width: 2.4; }
-.stitch.s-unknown line { stroke: var(--ink-2); stroke-dasharray: 2 4; }
+.stitch.s-unknown line { stroke: var(--ink-2); stroke-dasharray: 2 5; }
+/* an unknown time gets no stitch outside the legend: a grey dotted line reads as "7+ pv" */
+.stitch.s-unknown { display: none; }
+.legend .stitch.s-unknown { display: inline-block; }
 .zoom { position: absolute; right: max(16px, env(safe-area-inset-right, 0px)); bottom: 16px; display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
 .zoom button { width: 44px; height: 44px; border: 0; background: var(--surface); display: grid; place-items: center; }
 .zoom button:hover { background: var(--surface-2); }
+@media (min-width: 900px) { body:has(#sheet:not([hidden])) .zoom { right: 396px; } }
 .map-count { margin: 0; font-size: .8125rem; color: var(--ink-2); }
 
 /* feed */
@@ -206,14 +211,14 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
   --fast: #1F6B45; --mid: #8F5B00; --slow: #A3263A; --ink-2: #48546D;
   background: var(--label); color: var(--label-ink); border: 1px solid var(--line); border-radius: 2px;
   padding: 14px 12px 10px; position: relative; max-width: 16rem;
-  font-family: var(--f-label); font-stretch: 75%; font-weight: 500; font-size: .875rem; line-height: 1.35;
+  font-family: var(--f-label); font-stretch: 75%; font-weight: 500; font-size: .9375rem; line-height: 1.35;
   display: grid; gap: 1px; font-variant-numeric: tabular-nums;
 }
 .care::before { content: ""; position: absolute; left: 6px; right: 6px; top: 5px; border-top: 1px dashed color-mix(in oklab, #48546D 45%, transparent); }
 .care span { display: flex; align-items: center; gap: 6px; }
 .care b { font-weight: 700; }
-.care.compact { padding: 12px 10px 8px; font-size: .8125rem; flex: none; }
-.coupon { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: .9375rem; min-width: 0; }
+.care.compact { padding: 12px 10px 8px; font-size: .875rem; flex: none; justify-self: start; min-width: min(100%, 15rem); }
+.coupon { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: .875rem; min-width: 0; }
 .coupon .deal { min-width: 0; }
 .code {
   font-family: var(--f-mono); font-weight: 500; font-size: .875rem; border: 1px dashed var(--ink-2); background: var(--surface);
@@ -221,7 +226,8 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
 }
 .code em { font-family: var(--f-body); font-style: normal; font-size: .8125rem; color: var(--ink-2); letter-spacing: 0; }
 .cp-line { margin: 0; font-size: .875rem; color: var(--ink); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-.cp-line .code { min-height: 30px; padding: 3px 8px; font-size: .8125rem; }
+.cp-line .code { min-height: 30px; padding: 3px 8px; font-size: .8125rem; position: relative; }
+.cp-line .code::after { content: ""; position: absolute; inset: -7px -2px; }
 
 /* list */
 .pane-list { overflow-y: auto; }
@@ -235,12 +241,14 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
 .list td { padding: 10px 12px; border-top: 1px solid var(--line); vertical-align: top; font-size: .9375rem; }
 .list td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .list tr.row { cursor: pointer; }
+.list tr.row:focus-visible { outline-offset: -2px; }
 .list tr.row:hover td { background: color-mix(in oklab, var(--surface) 70%, var(--surface-2)); }
 .list .bname { font-weight: 600; display: block; }
 .list .sub { display: block; color: var(--ink-2); font-size: .8125rem; }
 .cc { display: inline-block; border: 1px solid var(--ink-2); border-radius: 3px; padding: 0 4px; font-size: .6875rem; line-height: 1.4; margin-left: 6px; vertical-align: 1px; color: var(--ink-2); font-weight: 600; }
 .days { display: inline-flex; align-items: center; gap: 6px; }
-.list tr.open-detail td { border-top: 0; padding-top: 0; padding-bottom: 16px; background: var(--surface); }
+.list tr.row[aria-expanded="true"] td, .list tr.open-detail td { background: var(--surface-2); }
+.list tr.open-detail td { border-top: 0; padding-top: 2px; padding-bottom: 16px; }
 .detail { display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start; }
 .detail .side { display: grid; gap: 10px; min-width: 0; flex: 1 1 14rem; }
 .detail .style { margin: 0; color: var(--ink-2); font-size: .875rem; }
@@ -255,7 +263,7 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
 }
 @keyframes rise { from { translate: 0 24px; opacity: .4; } }
 .grab { width: 36px; height: 4px; border-radius: 2px; background: var(--line); margin: 0 auto 4px; }
-.sheet-close { position: absolute; top: 6px; right: max(6px, env(safe-area-inset-right, 0px)); }
+.sheet-close { position: absolute; top: 6px; right: max(6px, env(safe-area-inset-right, 0px)); margin-right: 0; }
 .sheet-body { display: grid; gap: 14px; }
 .bh { padding-right: 40px; }
 .bh h2 { margin: 0; font-family: var(--f-display); font-stretch: 125%; font-weight: 750; font-size: 1.5625rem; line-height: 1.1; letter-spacing: -.01em; }
@@ -286,6 +294,19 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
   .top { justify-content: space-between; }
 }
 
+@media (max-width: 599px) {
+  .list td, .list th button { padding-inline: 6px; }
+  .list td:first-child, .list th:first-child button { padding-left: 12px; }
+  .list td:last-child, .list th:last-child button { padding-right: 12px; }
+  .list .stitch { width: 18px; }
+}
+@media (min-width: 600px) and (max-width: 899px) {
+  .sheet { justify-content: center; }
+  .sheet-card { max-width: 36rem; }
+  .info > * { max-width: 36rem; }
+  .stage .ill { width: min(60%, 340px); }
+}
+
 /* desktop */
 @media (min-width: 900px) {
   .tabs { display: flex; }
@@ -299,9 +320,15 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
   .toast { bottom: 24px; }
   .card { grid-template-columns: minmax(0, 55%) minmax(0, 1fr); grid-template-rows: 1fr; }
   .card .stage { grid-column: 1; grid-row: 1; }
-  .card .side-col { grid-column: 2; grid-row: 1; display: flex; flex-direction: column; justify-content: center; max-width: 30rem; padding-inline: 32px; gap: 8px; }
-  .card .card-top { padding: 0; }
-  .card .info { padding: 0; }
+  .card .side-col { grid-column: 2; grid-row: 1; display: flex; flex-direction: column; justify-content: center; max-width: 34rem; padding-inline: 48px; gap: 12px; }
+  .card .card-top { padding: 0; height: auto; }
+  .card .info { padding: 0; gap: 14px; }
+  .card .pname-row { flex-direction: column; align-items: flex-start; gap: 6px; }
+  .card .info h3 { font-size: clamp(1.75rem, 2.6vw, 2.44rem); }
+  .card .price { font-size: 1.5625rem; }
+  .card .why { white-space: normal; font-size: 1.0625rem; max-width: 28rem; }
+  .card .btn { justify-self: start; }
+  .stage .ill { width: min(70%, 420px); height: 80%; }
   .feed-count { top: 16px; }
 }
 @media (max-width: 899px) {
@@ -350,6 +377,7 @@ body[data-view="selaa"] .feed-only { display: inline-flex; }
           <span><svg class="stitch s-fast" viewBox="0 0 24 8" aria-hidden="true"><line x1="1" y1="4" x2="23" y2="4"/></svg>1–3 pv</span>
           <span><svg class="stitch s-mid" viewBox="0 0 24 8" aria-hidden="true"><line x1="1" y1="4" x2="23" y2="4"/></svg>4–6 pv</span>
           <span><svg class="stitch s-slow" viewBox="0 0 24 8" aria-hidden="true"><line x1="2" y1="4" x2="23" y2="4"/></svg>7+ pv</span>
+          <span><svg class="stitch s-unknown" viewBox="0 0 24 8" aria-hidden="true"><line x1="1" y1="4" x2="23" y2="4"/></svg>ei tietoa</span>
         </div>
       </div>
       <div class="zoom">

@@ -76,7 +76,16 @@
           "why": "Pilkullinen Donegal-tweedneule"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": "ARANMAN20",
+          "deal": "-20 % miesten neuleista (US-sivun banneri)",
+          "type": "code",
+          "source": "https://aranwoollenmills.com/en-us/collections/made-in-ireland-sweaters",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://aranwoollenmills.com/products/inisheer-traditional-mens-aran-sweater-navy",
@@ -156,6 +165,14 @@
           "deal": "ARKET-jäsenille (maksuton) ilmainen vakiotoimitus noutopisteeseen yli 80 € tilauksiin",
           "type": "newsletter",
           "source": "https://www.arket.com/en-eu/customer-service/delivery/",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-14 % opiskelijoille, myös alennetuista",
+          "type": "student",
+          "source": "https://www.arket.com/en-eu/customer-service/student-discount/",
           "checked": "2026-10-29",
           "verified": true
         }
@@ -248,7 +265,24 @@
           "why": "Merkin perusneule luomupuuvillasta, kymmenessä värissä"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % alennuskoodi uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.armedangels.com/en/pages/newsletter-confirmed",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-15 % opiskelijoille (UNiDAYS), FI ei varmistettu",
+          "type": "student",
+          "source": "https://www.myunidays.com/DE/de-DE/partners/armedangels/view",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.armedangels.com/en-eu/pages/shipping-overview",
@@ -324,7 +358,32 @@
           "why": "Raidallinen villainen merimiesneule, bretagnelainen alkuperäismalli"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Jäsenille 1 € = 1 piste, pisteet alennuksiksi",
+          "type": "app",
+          "source": "https://www.armorlux.com/pages/inscription-a-la-newsletter",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "Toinen tuote -50 % (halvempi), 1.11. asti",
+          "type": "sale",
+          "source": "https://www.armorlux.com/pages/conditions-des-offres",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-10 % ensiostoksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://www.leparisien.fr/codes-promo/marques/armor-lux.php",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.armorlux.com/en/pages/faq",
@@ -400,7 +459,16 @@
           "why": "Puuvillaneule kerrospukeutumiseen syksyllä"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "The Archive: edelliset versiot -30–40 %",
+          "type": "sale",
+          "source": "https://www.asket.com/en-fi/archive",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.asket.com/en-fi/support/shipping",
@@ -474,7 +542,16 @@
           "why": "Ranskassa kudottu 310 g canvas, kerrospukeutumiseen tehty overshirt"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-15 € ensitilauksesta (min. 49 €) suosituskoodilla",
+          "type": "firstorder",
+          "source": "https://help.asphalte.com/en-US/referring-friends-and-family-86266",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://help.asphalte.com/en-US/delivery-86274",
@@ -559,6 +636,14 @@
           "source": "https://eu.billebeino.com/pages/billebeino-club",
           "checked": "2026-10-29",
           "verified": true
+        },
+        {
+          "code": null,
+          "deal": "Last Chance -80 % (esim. huppari 99 € → 20 €)",
+          "type": "sale",
+          "source": "https://eu.billebeino.com/collections/all-last-chance-80",
+          "checked": "2026-10-29",
+          "verified": true
         }
       ],
       "confidence": "medium",
@@ -638,7 +723,32 @@
           "why": "Suora rento malli italialaisesta pestystä denimistä"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-15 % ensitilauksesta ystävän suosituslinkillä",
+          "type": "firstorder",
+          "source": "https://bonnegueule.fr/pages/le-parrainage",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": "RETOUR30",
+          "deal": "-30 € ostoskorista (toimi 14.10.)",
+          "type": "code",
+          "source": "https://skoqo.com/codes-promos/bonnegueule/",
+          "checked": "2026-10-29",
+          "verified": false
+        },
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://skoqo.com/codes-promos/bonnegueule/",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://bonnegueule.fr/fr-eu/pages/faq",
@@ -714,7 +824,16 @@
           "why": "Atari-yhteistyön jacquard-neule, luova syysneule"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Archive sale: -50 % valikoiduista tuotteista",
+          "type": "sale",
+          "source": "https://bravafabrics.com/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://bravafabrics.com/policies/shipping-policy",
@@ -793,7 +912,16 @@
           "why": "Raskas college pienellä C-logolla, merkin perusmallisto"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ale: -30–40 % valikoiduista tuotteista",
+          "type": "sale",
+          "source": "https://www.carhartt-wip.com/en-fi",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://services.carhartt-wip.com/en-fi/faq/shipping",
@@ -881,7 +1009,24 @@
           "why": "Denim-overshirt raw-farkkujen pariksi"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.cos.com/en-eu/newslettersubscribe",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-15 % opiskelijoille koko mallistosta (UNiDAYS/SB)",
+          "type": "student",
+          "source": "https://www.cos.com/en-eu/student-discount",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.cos.com/en-eu-e/customer-service/delivery/delivery-methods",
@@ -1036,7 +1181,24 @@
           "why": "Shield-kuvioinen college lämpimässä auringonlaskun sävyssä"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ale: n. -30 % valikoiduista tuotteista",
+          "type": "sale",
+          "source": "https://dailypaperclothing.com",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://uk.hotdeals.com/brands/daily-paper-discount-codes",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://dailypaperclothing.com/pages/shipping",
@@ -1114,7 +1276,24 @@
           "why": "Ruutuflanelli luomupuuvillasta, klassinen syysasu"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ale ympäri vuoden: -30–60 % aiemmista mallistoista",
+          "type": "sale",
+          "source": "https://www.dedicatedbrand.com/gb/men/sale",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": "FAVORITE20",
+          "deal": "-20 % koko tilauksesta (käyttäjän testaama 23.10.)",
+          "type": "code",
+          "source": "https://www.dontpayfull.com/at/dedicatedbrand.com",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.dedicatedbrand.com/fi/terms-conditions",
@@ -1268,7 +1447,16 @@
           "why": "Vetoketjullinen twill-overshirt pukukankaasta, siisti välitakki"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Jäsenklubi: jäsenalennukset ja ale-ennakko",
+          "type": "app",
+          "source": "https://www.dstrezzed.com/pages/rewards",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.dstrezzed.com/pages/shipping",
@@ -1347,7 +1535,16 @@
           "why": "Paita regeneratiivisesta ja kierrätetystä puuvillasta"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje (ei aletuotteet)",
+          "type": "newsletter",
+          "source": "https://ecoalf.com/en-int/pages/subscribe-newsletter-ecoalf",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://ecoalf.com/de/products/petrusalf-knit-man-deep-navy-aw24",
@@ -1420,7 +1617,16 @@
           "why": "Harjatusta dobby-puuvillasta tehty button down -paita"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ale: kesämalliston loppuerät jopa -50 %",
+          "type": "sale",
+          "source": "https://farafieldclothing.com/collections/sale",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://farafieldclothing.com/pages/shipping",
@@ -1498,7 +1704,16 @@
           "why": "Pitkähihainen logopaita kerrokseksi neuleen alle"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta (uutiskirje), täyshintaiset",
+          "type": "newsletter",
+          "source": "https://finisterre.com/pages/terms-conditions",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://finisterre.com/pages/shipping",
@@ -1576,7 +1791,16 @@
           "why": "Luomupuuvillainen collegepusero arkeen ja retkelle"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Jäsenten outlet -30–40 % (ilm. Forever-klubi)",
+          "type": "app",
+          "source": "https://www.fjallraven.com/eu/en-gb/members-only-outlet/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://www.fjallraven.com/fi/fi-fi/asiakaspalvelu/toimitus/",
@@ -1638,7 +1862,16 @@
           "why": "Kalanruotokuvioinen paita kaarevalla helmalla"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ale: jopa -50 % aiempien kausien tuotteista",
+          "type": "sale",
+          "source": "https://www.folkclothing.com/collections/sale",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "low",
       "sources": [
         "https://www.folkclothing.com/collections/shirts?currency=EUR",
@@ -1722,6 +1955,14 @@
           "deal": "Ilmainen toimitus uutiskirjeen tilaajille",
           "type": "newsletter",
           "source": "https://www.g-star.com/en_fi/customer-service",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-20 % opiskelijoille (UNiDAYS), FI ei varmistettu",
+          "type": "student",
+          "source": "https://www.myunidays.com/GB/en-GB/partners/gstar/view",
           "checked": "2026-10-29",
           "verified": true
         }
@@ -1813,7 +2054,16 @@
           "why": "Extrafine-merinoneule, helppo perusneule paidan päälle"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Hast Club: 1 € = 1 p, 250 p = -10 € (tili)",
+          "type": "app",
+          "source": "https://www.hastparis.com/en/pages/conditions-dutilisation",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://www.hastparis.com/en/pages/livraisons-et-retours",
@@ -1889,7 +2139,24 @@
           "why": "Pehmeä merino-puuvillaneule, GOTS-sertifioitu"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-20 € uutiskirjeen tervetuliaislahja (min. 99 €)",
+          "type": "newsletter",
+          "source": "https://www.hessnatur.com/de/newsletter-registrierung",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "Kanta-asiakkaat: 500 pistettä = 5 € lahjakortti",
+          "type": "app",
+          "source": "https://www.hessnatur.com/de/hessnatur-friends",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://service.hessnatur.com/portal/de/kb/articles/welche-versandkosten-fallen-bei-einer-lieferung-innerhalb-der-restlichen-eu-und-in-die-schweiz-an",
@@ -1952,7 +2219,16 @@
           "why": "Perusneule merinosekoitteesta, sopii kaikkeen"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Daylight Savings -ale: tuotteita jopa n. -65 %",
+          "type": "sale",
+          "source": "https://howies.co.uk/collections/daylight-savings-sale-aw26",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://howies.co.uk/pages/faq",
@@ -2029,7 +2305,24 @@
           "why": "Jäykkä 100 % luomupuuvillafarkku suoralla lahkeella"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://kingsofindigo.com/pages/newsletter-subscription",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "Ilmainen toimitus kaikkiin tilauksiin",
+          "type": "sale",
+          "source": "https://kingsofindigo.com/pages/newsletter-subscription",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://kingsofindigo.com/pages/faq",
@@ -2105,7 +2398,24 @@
           "why": "Merinovillainen t-paita aluskerrokseksi syksyn retkille"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": "BUNDLEDEAL",
+          "deal": "-10 %, kun korissa kaulahuivi + muu tuote",
+          "type": "code",
+          "source": "https://kopyto.com/en/pages/terms-and-conditions-cheaper-in-a-bundle",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://kopyto.com/strona/o-nas",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://kopyto.com/en/policies/shipping-policy",
@@ -2180,7 +2490,16 @@
           "why": "Väljä työvaatehenkinen farkku tummana pesuna"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-15 € ensitilauksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://tripeditions.com/coupons/view/Kuyichi",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://kuyichi.com/shipping-returns",
@@ -2255,7 +2574,16 @@
           "why": "Henley-kauluksinen raitapaita, raitapaidan rennompi versio"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta (min. 100 €), uutiskirje",
+          "type": "newsletter",
+          "source": "https://leminor.fr/en/pages/faq",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://leminor.fr/pages/expeditions-et-livraisons",
@@ -2322,7 +2650,16 @@
           "why": "Isoruutuinen flanelli-overshirt kevyeksi takiksi"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-15 % ensitilauksesta, uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://lesdeux.com/pages/partner-home",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://lesdeux.com/pages/delivery",
@@ -2399,7 +2736,16 @@
           "why": "100 % villainen yksivärinen neule"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje (ei aleen)",
+          "type": "newsletter",
+          "source": "https://www.madsnorgaard.com/pages/sign-up",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://www.madsnorgaard.com/pages/shipping",
@@ -2476,7 +2822,16 @@
           "why": "Neuletakki merkin sydänmerkillä, cozy-kerros"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://fr.hotdeals.com/code-promo/maison-labiche",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.maisonlabiche.com/policies/shipping-policy",
@@ -2561,6 +2916,14 @@
           "source": "https://makia.com/fi/pages/winter-2024",
           "checked": "2026-10-29",
           "verified": true
+        },
+        {
+          "code": null,
+          "deal": "Outlet: jopa -60 % aiemmista mallistoista",
+          "type": "sale",
+          "source": "https://makia.com/fi/collections/outlet",
+          "checked": "2026-10-29",
+          "verified": true
         }
       ],
       "confidence": "high",
@@ -2639,7 +3002,16 @@
           "why": "Kevyt raglan-college, merkin edullisin collegemalli"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://www.hotdeals.com/coupons/merz-b-schwanen-promo-codes",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://merzbschwanen.gorgias.help/en-US/shipping-and-delivery-6724742",
@@ -2714,7 +3086,24 @@
           "why": "Väljempi kapeneva malli vintage-henkisenä pesuna"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 € uusille, kun lähetät vanhat farkut",
+          "type": "firstorder",
+          "source": "https://mudjeans.com/pages/about-us-mud-jeans",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-10 % ensiostoksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://mudjeans.com/products/bryce-mid-straight-authentic-indigo",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://mudjeans.com/pages/shipping-information-mud-jeans",
@@ -2792,7 +3181,16 @@
           "why": "Merkin myydyimpiä: luomupuuvillapikee kirjailtu puu rinnassa"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": "NIKIN-FRIENDS20",
+          "deal": "-20 % ensitilauksesta ystäväkoodilla",
+          "type": "firstorder",
+          "source": "https://nikinclothing.com/pages/refer-a-friend",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://nikin.com/en-eu/pages/faqs",
@@ -2943,7 +3341,16 @@
           "why": "Sisältä harjattu luomupuuvillacollege syksyyn"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-20 % uusista farkuista vanhat vaihtamalla (c/o)",
+          "type": "app",
+          "source": "https://www.nudiejeans.com/en-US/help-center/what-is-c-o-nudie-jeans",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.nudiejeans.com/en-FI/selection/shirts",
@@ -3021,7 +3428,16 @@
           "why": "Sherpavuorattu vakosamettinen overshirt kylmiin aamuihin"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje (ei aleen)",
+          "type": "newsletter",
+          "source": "https://www.passenger-clothing.com/pages/join-the-journey",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://de.passenger-clothing.com/pages/eu-int-shipping-block",
@@ -3107,6 +3523,14 @@
           "source": "https://www.percivalclo.com/pages/international-checkout",
           "checked": "2026-10-29",
           "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-20 % opiskelijoille (Student Beans UK)",
+          "type": "student",
+          "source": "https://www.studentbeans.com/student-discount/uk/percival",
+          "checked": "2026-10-29",
+          "verified": true
         }
       ],
       "confidence": "medium",
@@ -3171,7 +3595,24 @@
           "why": "Kevyt pesty merinoneule, jossa tekijän käsin ommeltu merkki"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": "FLASHFRIDAY",
+          "deal": "-50 % yhdestä tuotteesta kk:n viim. pe (30.10.)",
+          "type": "code",
+          "source": "https://www.peregrineclothing.co.uk/pages/terms",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirje (ei aleen)",
+          "type": "newsletter",
+          "source": "https://www.peregrineclothing.co.uk/pages/newsletter-sign-up",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.peregrineclothing.co.uk/pages/orders-shipping-and-returns",
@@ -3317,7 +3758,16 @@
           "why": "Printattu college vuoden 2026 Peace-mallistosta"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Outlet: jopa -50 % aiemmista mallistoista",
+          "type": "sale",
+          "source": "https://purewaste.com/language/fi/tuoteryhma/outlet/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://purewaste.com/language/fi/ukk/",
@@ -3398,6 +3848,14 @@
           "deal": "Rekisteröityneille asiakkaille maksuton toimitus noutopisteeseen (Posti, Matkahuolto, PostNord)",
           "type": "firstorder",
           "source": "https://www.r-collection.fi/page/5/toimitus-vaihto-ja-palautus",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-10 % normaalihintaisista, uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.r-collection.fi/page/67/tilaa-uutiskirjeemme",
           "checked": "2026-10-29",
           "verified": true
         }
@@ -3552,9 +4010,25 @@
       "coupons": [
         {
           "code": null,
+          "deal": "-5 % ensitilauksesta AUS Community -jäsenille",
+          "type": "firstorder",
+          "source": "https://www.reetaus.com/en-fi/pages/aus-community",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
           "deal": "Ilmainen toimitus yli 130 € tilauksiin AUS Community -jäsenille",
           "type": "newsletter",
           "source": "https://www.reetaus.com/en-fi/policies/shipping-policy",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-15 % syntymäpäiväalennus jäsenille",
+          "type": "app",
+          "source": "https://www.reetaus.com/en-fi/pages/aus-community",
           "checked": "2026-10-29",
           "verified": true
         }
@@ -3725,7 +4199,16 @@
           "why": "Paksu toimikas-overshirt ruskeana"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ale: jopa -50 % edellisen kauden tuotteista",
+          "type": "sale",
+          "source": "https://resterods.com/sale",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://resterods.com/customer-service",
@@ -3802,7 +4285,16 @@
           "why": "Edullinen neule kylmiin syyspäiviin"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Vanha RVLT-vaate takaisin: 12–20 € lahjakortti",
+          "type": "app",
+          "source": "https://revolution.eu/pages/faq",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://revolution.eu/pages/shipping-and-returns",
@@ -3953,7 +4445,16 @@
           "why": "Rento overshirt syksyn välikausitakiksi"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Søciety-jäsen: syntymäpäivä -10 % + aleen etuajo",
+          "type": "app",
+          "source": "https://www.samsoe.com/en-US/samsoe-society",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.samsoe.com/en-FI/customer-care/shipping",
@@ -4019,7 +4520,16 @@
           "why": "Vaalea denim-overshirt, helppo välikausitakki"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 € ensitilaus yli 59 €, Club People (ehkä ES)",
+          "type": "firstorder",
+          "source": "https://help.silbonshop.com/hc/es-es/articles/40179237091986-C%C3%B3digos-de-descuento-bienvenida-newsletter-y-cumplea%C3%B1os",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.silbonshop.com/en-eu/pages/shipping",
@@ -4093,7 +4603,24 @@
           "why": "Workwear-henkinen ranch-takki syksyyn"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % opiskelijoille (UNiDAYS)",
+          "type": "student",
+          "source": "https://www.myunidays.com/GB/fi-FI/partners/superdry/view",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "Ale jopa -50 % (miehet ja naiset)",
+          "type": "sale",
+          "source": "https://www.superdry.fi/ale/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "low",
       "sources": [
         "https://www.superdry.fi/kayttoehdot.html",
@@ -4151,7 +4678,16 @@
           "why": "Merkin nimikkokangas: lämmin moleskin-farkku syksyyn ja talveen"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Monipakkaus: 3 farkut 200 £ / 2 denimiä 100 £",
+          "type": "sale",
+          "source": "https://themoleskinjeansco.uk/shop-all/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "low",
       "sources": [
         "https://themoleskinjeansco.uk/product/great-british-raw-selvedge-denim-dark-blue/",
@@ -4228,7 +4764,16 @@
           "why": "Villaneule viidessä värissä, helppo syysneule"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % seuraavasta ostoksesta, uutiskirje",
+          "type": "newsletter",
+          "source": "https://thinkingmu.gorgias.help/en-US/how-can-i-receive-the-newsletter-459989",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://thinkingmu.com/en/pages/envios-costes",
@@ -4305,7 +4850,16 @@
           "why": "Chambray-button down, sopii overshirtin alle"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": "FAMILY",
+          "deal": "-45 % koodilla (koodisivuston mukaan toimii)",
+          "type": "code",
+          "source": "https://uk.hotdeals.com/brands/universal-works-discount-codes",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://universalworks.com/pages/delivery-and-shipping",
@@ -4384,6 +4938,14 @@
         }
       ],
       "coupons": [
+        {
+          "code": null,
+          "deal": "Loppuerä-ale: tuotteita n. -30–40 %",
+          "type": "sale",
+          "source": "https://uskees.com/en-eu/collections/sale",
+          "checked": "2026-10-29",
+          "verified": true
+        },
         {
           "code": null,
           "deal": "Jäseneksi rekisteröityminen avaa alennuksia (summa ei näy sivulla) ja ilmaiset korjaukset",
@@ -4466,7 +5028,24 @@
           "why": "Merinovillainen vaarinpaita kerrastoksi tai sellaisenaan"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Support Squad: pisteitä ostoista, kk-tarjoukset",
+          "type": "app",
+          "source": "https://varusteleka.com/en/pages/support-squad",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "Poistomyynti: jopa -50 % vanhoista versioista",
+          "type": "sale",
+          "source": "https://varusteleka.com/en/collections/clearance-sale",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://varusteleka.com/products/sarma-villapaita-fi-1",
@@ -4544,7 +5123,24 @@
           "why": "Pikee-kauluksinen villasekoiteneule syksyyn"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.weekday.com/en-ww/?orgtld=monki.deals",
+          "checked": "2026-10-29",
+          "verified": true
+        },
+        {
+          "code": null,
+          "deal": "-11 % opiskelijoille (UNiDAYS, SB, Frank ym.)",
+          "type": "student",
+          "source": "https://www.weekday.com/en-ww/discount/student-discount/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "high",
       "sources": [
         "https://www.weekday.com/en-eu/customer-service/delivery-methods/",
@@ -4621,7 +5217,16 @@
           "why": "Rento luonnonvalkoinen college kerrospukeutumiseen"
         }
       ],
-      "coupons": [],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensitilauksesta, uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.woodwood.com/en-us/newsletter-sign-up",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
       "confidence": "medium",
       "sources": [
         "https://www.woodwood.com/en-eu/shipping-returns",

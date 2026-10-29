@@ -262,7 +262,10 @@
         "cost": 14.99,
         "currency": "EUR",
         "freeOver": null,
-        "days": null,
+        "days": [
+          3,
+          5
+        ],
         "vat": "eu",
         "returns": "30 pv, palautus maksullinen"
       },
@@ -306,10 +309,11 @@
         "https://service.hessnatur.com/portal/de/kb/articles/welche-versandkosten-fallen-bei-einer-lieferung-innerhalb-der-restlichen-eu-und-in-die-schweiz-an",
         "https://service.hessnatur.com/portal/de/kb/articles/in-welche-l%C3%A4nder-liefert-hessnatur",
         "https://www.hessnatur.com/de/agb",
-        "https://www.hessnatur.com/de/jeans-ben-regular-straight/p/5687306"
+        "https://www.hessnatur.com/de/jeans-ben-regular-straight/p/5687306",
+        "https://service.hessnatur.com/portal/de/kb/articles/wie-ist-die-lieferzeit-einer-bestellung"
       ],
       "confidence": "medium",
-      "notes": "Suomeen tilataan saksalaisesta verkkokaupasta, DHL, 14,99 € (ohjesivu; AGB:ssä 14,95 €). Ilmaisen toimituksen rajaa EU-maihin ei löytynyt. Toimitusaikaa Suomeen ei löytynyt (AGB: 3–5 päivää yleisesti), siksi days = null. Tuotesivuilla '30 Tage Rückgabe'; palautuksesta peritään kulu, jonka suuruutta Suomeen ei löytynyt. BEN-farkut olivat tarkistushetkellä alessa 69,99 €, normaalihinta 139,99 €. Neuleen hinta on Herren-kategoriasivun otteesta, linkki kategoriaan. Merkki on melko klassinen/perusvaatepainotteinen."
+      "notes": "Suomeen tilataan saksalaisesta verkkokaupasta, DHL, 14,99 € (ohjesivu; AGB:ssä 14,95 €). Ilmaisen toimituksen rajaa EU-maihin ei löytynyt. Toimitusaika 3–5 päivää tilauksen vastaanotosta on hessnaturin yleinen lupaus (ohjekeskus ja AGB), ei Suomi-kohtainen. Tuotesivuilla '30 Tage Rückgabe'; palautuksesta peritään kulu, jonka suuruutta Suomeen ei löytynyt. BEN-farkut olivat tarkistushetkellä alessa 69,99 €, normaalihinta 139,99 €. Neuleen hinta on Herren-kategoriasivun otteesta, linkki kategoriaan. Merkki on melko klassinen/perusvaatepainotteinen."
     },
     {
       "id": "zara",
@@ -384,7 +388,7 @@
         "https://www.zara.com/fi/fi/miehet-l534.html"
       ],
       "confidence": "low",
-      "notes": "Zaran sivut palauttavat hakurobotille 403, joten hinnat ovat hakukoneen otteesta Suomen miesten kategoriasivulta (ajankohta tuntematon, otteessa oli myös kesätuotteita); tuotekohtaisia linkkejä ei saatu, linkit kategoriaan. Tuotteiden saatavuus vaihtuu nopeasti. Kotiinkuljetus 4,95 € (3–5 arkipäivää) tai 9,95 € (2–3 pv); toimitus Zara-myymälään maksuton. Ilmaisen toimituksen rajaa ei mainita ohjesivulla. Lähetyspaikka = Inditexin pääkonttori Arteixo, varastoa ei varmistettu. Espanjan sivun otteessa Regular fit 100 % wool overshirt 129 € ja Check wool blend overshirt 79,95 € (ES-hinnat)."
+      "notes": "Zaran sivut palauttavat hakurobotille 403, joten hinnat ovat hakukoneen otteesta Suomen miesten kategoriasivulta (ajankohta tuntematon, otteessa oli myös kesätuotteita); tuotekohtaisia linkkejä ei saatu, linkit kategoriaan. Tuotteiden saatavuus vaihtuu nopeasti. Kotiinkuljetus 4,95 € (3–5 arkipäivää) tai 9,95 € (2–3 pv); toimitus Zara-myymälään maksuton. Ilmaisen toimituksen rajaa ei mainita ohjesivulla. Lähetyspaikka = Inditexin pääkonttori Arteixo, varastoa ei varmistettu. Espanjan sivun otteessa Regular fit 100 % wool overshirt 129 € ja Check wool blend overshirt 79,95 € (ES-hinnat). Tarkistettu 29.10.2026: kaikki kolme hintaa (119,00 / 99,95 / 59,95 €) näkyvät Suomen miesten kategoriasivun indeksoidussa versiossa, mutta tuotesivut eivät avaudu hakurobotille, joten tuotekohtaisia URL-osoitteita ei saatu."
     },
     {
       "id": "nikin",
@@ -877,7 +881,7 @@
         {
           "name": "BARIBAL RWS (Szary / harmaa)",
           "type": "neuleet",
-          "price": 132.95,
+          "price": 137.95,
           "currency": "EUR",
           "url": "https://kopyto.de/products/baribal-m-rws-herrenpullover-aus-merinowolle",
           "image": null,
@@ -905,7 +909,7 @@
         "https://kopyto.com/en/collections/w-gory-meskie"
       ],
       "confidence": "medium",
-      "notes": "Toimitusmaksu Suomeen 'noin 17,83 €' (vaihtelee euron kurssin mukaan), toimitusaika 5–14 arkipäivää maan mukaan. Ilmainen toimitus yli 400/500 PLN mainitaan tuotesivuilla, mutta ei ole varmaa koskeeko se ulkomaita (freeOver = null). Palautus 14 pv, lisäpalveluna 40 pv. Hinnat kopyto.com/en-kaupassa ovat PLN-määräisiä (599 PLN ≈ 140 €, 269 PLN ≈ 63 €); BARIBAL-hinta EUR:na saksalaisesta kopyto.de-kaupasta (normaalihinta 132,95 €, alessa 112,95 €). Lähetyspaikka = palautusosoite Bielsko-Biała (rekisteröity osoite Sopot)."
+      "notes": "Toimitusmaksu Suomeen 'noin 17,83 €' (vaihtelee euron kurssin mukaan), toimitusaika 5–14 arkipäivää maan mukaan. Ilmainen toimitus yli 400/500 PLN mainitaan tuotesivuilla, mutta ei ole varmaa koskeeko se ulkomaita (freeOver = null). Palautus 14 pv, lisäpalveluna 40 pv. Hinnat kopyto.com/en-kaupassa ovat PLN-määräisiä (599 PLN ≈ 140 €, 269 PLN ≈ 63 €); BARIBAL-hinta EUR:na saksalaisesta kopyto.de-kaupasta: 137,95 € 29.10.2026 (aiemmin merkitty 132,95 €). Lähetyspaikka = palautusosoite Bielsko-Biała (rekisteröity osoite Sopot)."
     },
     {
       "id": "silbon",

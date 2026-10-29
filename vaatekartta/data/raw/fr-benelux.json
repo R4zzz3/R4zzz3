@@ -194,7 +194,7 @@
           "type": "t-paidat",
           "price": 95,
           "currency": "EUR",
-          "url": "https://eu.saint-james.com/collections/sailor-striped-shirts",
+          "url": "https://eu.saint-james.com/products/meridien-unisex-striped-sailor-shirt-regular-fit-thick-cotton-ecru-marine",
           "image": null,
           "color": "#f2ece0",
           "signature": false,
@@ -218,10 +218,12 @@
         "https://faq-eu.saint-james.com/hc/en-150/articles/44659107110801-What-are-the-shipping-fees",
         "https://eu.saint-james.com/en-is/pages/return-policy",
         "https://eu.saint-james.com/collections/sailor-striped-shirts",
-        "https://eu.saint-james.com/products/minquiers-unisex-striped-sailor-shirt-regular-fit-light-cotton-marine-ecru"
+        "https://eu.saint-james.com/products/minquiers-unisex-striped-sailor-shirt-regular-fit-light-cotton-marine-ecru",
+        "https://eu.saint-james.com/products/meridien-unisex-striped-sailor-shirt-regular-fit-thick-cotton-ecru-marine",
+        "https://faq-eu.saint-james.com/hc/en-150/articles/44659156656145-How-long-does-it-take-to-receive-my-order"
       ],
       "confidence": "medium",
-      "notes": "EU-vakiotoimitus 7 € (<170 €), ilmainen yli 170 €; express 14/10 €. Toimitusaikaa ei ilmoiteta (näytetään kassalla, FedEx/DHL), siksi days = null. Palautus 30 pv DHL Express -tarralla; palautuksen maksuttomuutta EU:sta ei sanota suoraan. Kaikki neuleet yli 150 € (Matelot 175 €, Cancale 189 €), kaban selvästi yli. Méridien- ja Naval-hinnat kokoelmasivulta, linkki kokoelmaan. Lähtöpaikaksi oletettu tehdas Saint-James, Normandia."
+      "notes": "EU-vakiotoimitus 7 € (<170 €), ilmainen yli 170 €; express 14/10 €. Toimitusaikaa ei ilmoiteta (näytetään kassalla, FedEx/DHL), siksi days = null. Palautus 30 pv DHL Express -tarralla; palautuksen maksuttomuutta EU:sta ei sanota suoraan. Kaikki neuleet yli 150 € (Matelot 175 €, Cancale 189 €), kaban selvästi yli. Méridien-hinta vahvistettu tuotesivulta; Naval-hinta kokoelmasivulta. FAQ (päivitetty 12.10.2026) kertoo toimitusajan vasta kassalla; vanhempi Colissimo-ohje (4–7 pv, 8,90 €) on vanhentunut. Lähtöpaikaksi oletettu tehdas Saint-James, Normandia."
     },
     {
       "id": "armor-lux",
@@ -560,7 +562,7 @@
           5
         ],
         "vat": "eu",
-        "returns": "30 pv, palautus 5-15 €"
+        "returns": "30 pv, palautusmaksu 15 € (muu EU)"
       },
       "products": [
         {
@@ -579,7 +581,7 @@
           "type": "farkut",
           "price": 140,
           "currency": "EUR",
-          "url": "https://kingsofindigo.com/en-eu/collections/mens-jeans",
+          "url": "https://kingsofindigo.com/en-eu/products/ryan-rinse",
           "image": null,
           "color": "#22304f",
           "signature": true,
@@ -604,10 +606,11 @@
         "https://kingsofindigo.com/en-eu/policies/refund-policy",
         "https://kingsofindigo.com/en-eu/collections/mens-jeans",
         "https://kingsofindigo.com/en-eu/products/silvio-selvage-clean-platino-organic-dry",
-        "https://kingsofindigo.com/en-eu/products/arthur-ceky-blue-tint"
+        "https://kingsofindigo.com/en-eu/products/arthur-ceky-blue-tint",
+        "https://kingsofindigo.com/en-eu/products/ryan-rinse"
       ],
       "confidence": "medium",
-      "notes": "EU 5 €, ilmainen yli 100 €; Suomeen 1-5 arkipäivää (FAQ mainitsee Suomen erikseen). Palautus 30 pv: shipping policy sanoo EU 5 €, refund policy sanoo muu EU 15 € (ristiriita). Varasto/palautusosoite Apeldoorn (GWL Twee B.V.). Silvio Selvage oli tarkistushetkellä loppu varastosta. RYAN Rinse -hinta kokoelmasivulta. Huom: kingofindigo.com / kingsofindigo.fr / kingofindigo.de näyttävät epävirallisilta kopiosivuilta (88 €), niitä ei käytetty. Ei-denimituotteita ei tarkistettu."
+      "notes": "EU 5 €, ilmainen yli 100 €; Suomeen 1-5 arkipäivää (FAQ mainitsee Suomen erikseen). Palautus 30 pv: refund policy erittelee maat (Benelux/DE/AT/FR 5 €, muu EU 15 €), joten Suomesta 15 €; shipping policyn yleinen 'EU 5 €' on ristiriidassa, käytetty tarkempaa erittelyä. Varasto/palautusosoite Apeldoorn (GWL Twee B.V.). Silvio Selvage oli tarkistushetkellä loppu varastosta. RYAN Rinse -hinta vahvistettu tuotesivulta. Huom: kingofindigo.com / kingsofindigo.fr / kingofindigo.de näyttävät epävirallisilta kopiosivuilta (88 €), niitä ei käytetty. Ei-denimituotteita ei tarkistettu."
     },
     {
       "id": "mud-jeans",
@@ -947,7 +950,7 @@
           4
         ],
         "vat": "eu",
-        "returns": "Asiakas maksaa palautuksen ulkomailta"
+        "returns": "45 pv ulkomailta, asiakas maksaa palautuksen"
       },
       "products": [
         {
@@ -993,7 +996,7 @@
         "https://www.cuissedegrenouille.com/products/rodney-la-surchemise-twill-mai-stock"
       ],
       "confidence": "medium",
-      "notes": "EU: Colissimo Europe 15 €, 2-4 arkipäivää lähetyksestä (lähetys 24-48 h). Ilmainen toimitus yli 150 € mainitaan vain Ranskalle, EU-rajaa ei löytynyt. Palautukset ulkomailta asiakkaan kustannuksella; FAQ:ssa palautusaika 45 pv, Ranskan ohjeessa 14 pv (ristiriita). Bruce-takki näkyy myös forlife-paris.com-sivustolla samoilla perustajilla (Lucas & Séverin), joten merkki saattaa olla nimeämässä itseään uudelleen 'forlife'-nimelle. Alex-hinta kokoelmasivulta. Lähtöpaikka = Pariisin myymälä/pääkonttori, varastoa ei varmistettu."
+      "notes": "EU: Colissimo Europe 15 €, 2-4 arkipäivää lähetyksestä (lähetys 24-48 h). Ilmainen toimitus yli 150 € mainitaan vain Ranskalle, EU-rajaa ei löytynyt. Palautukset ulkomailta asiakkaan kustannuksella. FAQ:n yleinen kohta (#13) sanoo 15 pv, mutta ulkomaan palautuksia koskeva kohta (#18) 45 pv; Suomelle käytetty ulkomaan kohtaa. Bruce-takki näkyy myös forlife-paris.com-sivustolla samoilla perustajilla (Lucas & Séverin), joten merkki saattaa olla nimeämässä itseään uudelleen 'forlife'-nimelle. Alex-hinta kokoelmasivulta. Lähtöpaikka = Pariisin myymälä/pääkonttori, varastoa ei varmistettu."
     },
     {
       "id": "daily-paper",
@@ -1042,7 +1045,7 @@
           "type": "collegit",
           "price": 119.95,
           "currency": "EUR",
-          "url": "https://dailypaperclothing.com/collections/hoodies-sweaters",
+          "url": "https://dailypaperclothing.com/products/mole-alias-dias-hoodie",
           "image": null,
           "color": "#6e5f52",
           "signature": true,
@@ -1066,10 +1069,11 @@
         "https://dailypaperclothing.com/policies/shipping-policy",
         "https://dailypaperclothing.com/pages/faq",
         "https://dailypaperclothing.com/collections/hoodies-sweaters",
-        "https://dailypaperclothing.com/products/dias-knit-sweater-dp-dark-gull-grey"
+        "https://dailypaperclothing.com/products/dias-knit-sweater-dp-dark-gull-grey",
+        "https://dailypaperclothing.com/products/mole-alias-dias-hoodie"
       ],
       "confidence": "medium",
-      "notes": "Suomi = Europe Zone 2: 10 €, ilmainen yli 99 €, 7-10 arkipäivää (ale-aikoina pidempi). Palautus 14 pv, asiakas maksaa; portaalista saa alennetun palautustarran. Alessa ostetut hyvitetään vain lahjakorttina. Hupparin ja Origami-collegen hinnat kokoelmasivulta. Streetwear, ei varsinaista syys-/workwear-tyyliä, mutta unisex-neuleet sopivat. Varaston sijaintia ei löytynyt, koordinaatit Amsterdam."
+      "notes": "Suomi = Europe Zone 2: 10 €, ilmainen yli 99 €, 7-10 arkipäivää (ale-aikoina pidempi). Palautus 14 pv, asiakas maksaa; portaalista saa alennetun palautustarran. Alessa ostetut hyvitetään vain lahjakorttina. Hupparin hinta vahvistettu tuotesivulta, Origami-collegen kokoelmasivulta. Streetwear, ei varsinaista syys-/workwear-tyyliä, mutta unisex-neuleet sopivat. Varaston sijaintia ei löytynyt, koordinaatit Amsterdam."
     }
   ],
   "rejected": [

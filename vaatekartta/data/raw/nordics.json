@@ -19,13 +19,16 @@
         "takit"
       ],
       "ship": {
-        "from": "Göteborg, SE",
-        "lat": 57.71,
-        "lng": 11.97,
+        "from": "Borås, SE",
+        "lat": 57.72,
+        "lng": 12.94,
         "cost": null,
         "currency": "EUR",
         "freeOver": null,
-        "days": null,
+        "days": [
+          1,
+          5
+        ],
         "vat": "eu",
         "returns": "14 pv (30 pv c/o-jäsenille), palautusmaksu 12 €"
       },
@@ -69,10 +72,11 @@
         "https://www.nudiejeans.com/en-FI/selection/shirts",
         "https://www.nudiejeans.com/en-IE/selection/sweatshirts",
         "https://www.nudiejeans.com/en-FI/selection/dry-jeans",
-        "https://www.nudiejeans.com/en-FI/help-center/topic/returns"
+        "https://www.nudiejeans.com/en-FI/help-center/topic/returns",
+        "https://assets.ctfassets.net/7er3lxiqbzqz/3DmKAAJ03ZoWxplHJ7hsij/882e2f84c8670b723cade0881df95c90/GTC-ww-en-1.9-20240529.pdf"
       ],
       "confidence": "medium",
-      "notes": "Kaikki farkut (myös Lean Dean Dry 16 Dips) ja villaneuleet maksavat nyt 160 € tai enemmän, joten niitä ei listattu. Toimituskulut, ilmaisen toimituksen raja ja toimitusaika näkyvät vain kassalla (null). Lähetyspaikkana pääkonttori Göteborg, varastoa ei löytynyt. Hasse-collegen hinta en-IE-sivulta (EUR, sama hinnasto kuin en-FI)."
+      "notes": "Kaikki farkut (myös Lean Dean Dry 16 Dips) ja villaneuleet maksavat nyt 160 € tai enemmän, joten niitä ei listattu. Toimituskulu ja ilmaisen toimituksen raja näkyvät vain kassalla (null). Toimitusaika 1–5 arkipäivää on yleisistä myyntiehdoista (GTC v1.9), ei Suomi-kohtainen. Lähetyspaikaksi oletettu palautusosoite c/o Korallen AB, Borås (logistiikkakumppani; ei vahvistettu varastoksi). Hasse-collegen hinta en-IE-sivulta (EUR, sama hinnasto kuin en-FI)."
     },
     {
       "id": "asket",
@@ -416,7 +420,7 @@
           "type": "paidat",
           "price": 129,
           "currency": "EUR",
-          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
+          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/ovik-heavy-flannel-shirt-m/",
           "image": null,
           "color": "#5b3a2e",
           "signature": true,
@@ -427,7 +431,7 @@
           "type": "paidat",
           "price": 139,
           "currency": "EUR",
-          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
+          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/singi-heavy-flannel-shirt-m/",
           "image": null,
           "color": "#3e4a3a",
           "signature": false,
@@ -450,7 +454,9 @@
         "https://www.fjallraven.com/fi/fi-fi/asiakaspalvelu/toimitus/",
         "https://www.fjallraven.com/fi/fi-fi/asiakaspalvelu/palautukset/",
         "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
-        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/villapuserot-ja-neuleet/"
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/villapuserot-ja-neuleet/",
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/ovik-heavy-flannel-shirt-m/",
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/singi-heavy-flannel-shirt-m/"
       ],
       "confidence": "high",
       "notes": "Suomeen PostNord 7,50 €, ilmainen yli 100 €, 5–7 työpäivää. Varaston tarkkaa paikkaa ei kerrottu; sivu kertoo, ettei toimiteta Saksan juhlapyhinä, joten koordinaatti on arvio (Pohjois-Saksa). Villaneuleet (Övik Knit 219 €) ja takit ylittävät 150 €. Sivulla mainittu 'Members Only Outlet' -ale jäsenille, ei kuponkikoodia."
@@ -1030,7 +1036,7 @@
           7
         ],
         "vat": "eu",
-        "returns": null
+        "returns": "30 pv (alennustuotteet 14 pv), käsittelymaksu 3 € vähennetään"
       },
       "products": [
         {
@@ -1083,10 +1089,11 @@
         "https://www.cos.com/en-eu-e/customer-service/delivery/delivery-methods",
         "https://www.cos.com/en-eu-e/men/shirts/overshirts",
         "https://www.cos.com/en-eu/men/menswear/shirts/overshirts/product/felted-wool-shirt-cream-1317556003",
-        "https://www.cos.com/en-eu/men/menswear/knitwear/merino/product/merino-wool-crew-neck-jumper-black-1260173002"
+        "https://www.cos.com/en-eu/men/menswear/knitwear/merino/product/merino-wool-crew-neck-jumper-black-1260173002",
+        "https://www.cos.com/en-eu-e/customer-service/returns"
       ],
       "confidence": "medium",
-      "notes": "H&M-konsernin merkki (sallittu). Suomi: vakiotoimitus ilmainen yli 100 €, 5–7 työpäivää; hinta näkyy vain kassalla (null). Palautusehtoja ei tarkistettu (null). Varastoa ei kerrottu, sijaintina pääkonttori Tukholma. Boiled-Wool Overshirt oli hakuhetkellä alennuksessa (83,30 €), normaalihinta 119 €. Kynttilöitä ei toimiteta Suomeen."
+      "notes": "H&M-konsernin merkki (sallittu). Suomi: vakiotoimitus ilmainen yli 100 €, 5–7 työpäivää; hinta näkyy vain kassalla (null). Palautus 30 pv (alennustuotteet 14 pv), hyvityksestä vähennetään 3 € käsittelymaksu (en-eu-e-kaupan ohje; saman kaupan toimitussivu kattaa Suomen). Varastoa ei kerrottu, sijaintina pääkonttori Tukholma. Boiled-Wool Overshirt oli hakuhetkellä alennuksessa (83,30 €), normaalihinta 119 €. Kynttilöitä ei toimiteta Suomeen."
     },
     {
       "id": "weekday",
@@ -1554,13 +1561,16 @@
         "asusteet"
       ],
       "ship": {
-        "from": "Helsinki, FI",
-        "lat": 60.19,
-        "lng": 24.97,
+        "from": "Helsinki (Konala), FI",
+        "lat": 60.24,
+        "lng": 24.84,
         "cost": 3.99,
         "currency": "EUR",
-        "freeOver": 80,
-        "days": null,
+        "freeOver": 100,
+        "days": [
+          2,
+          4
+        ],
         "vat": "eu",
         "returns": "100 pv, palautus Suomessa maksuton"
       },
@@ -1604,10 +1614,11 @@
         "https://varusteleka.com/products/sarma-villapaita-fi-1",
         "https://varusteleka.com/products/sarma-villaflanellipaita-fi-1",
         "https://varusteleka.com/products/sarma-kevyt-villakauluspaita-fi-2",
-        "https://varusteleka.com/collections/vaatteet"
+        "https://varusteleka.com/collections/vaatteet",
+        "https://varusteleka.com/policies/shipping-policy"
       ],
       "confidence": "medium",
-      "notes": "Ylijäämäkauppa, jolla on oma suunniteltu mallisto (Särmä-merkki siirtyy Varusteleka-nimen alle). Suomessa toimitus alkaen 3,99 €, ilmainen yli 80 €, 90 % tilauksista lähtee seuraavana arkipäivänä (toimitusaikaa ei kerrottu, null). Villaflanellipaidan ja vaarinpaidan 'vanha versio' oli poistohinnassa (89,99 € / 62,99 €); tähän kirjattu normaalihinnat 129,99 € ja 89,99 €. Lähetyspaikkana Helsingin myymälä/varasto (tarkkaa osoitetta ei tarkistettu)."
+      "notes": "Ylijäämäkauppa, jolla on oma suunniteltu mallisto (Särmä-merkki siirtyy Varusteleka-nimen alle). Suomessa toimitus alkaen 3,99 €; toimituskäytännön mukaan ilmainen toimitus yli 100 € osalla toimitustavoista (aiemmin merkitty 80 €). 90 % tilauksista lähtee seuraavana arkipäivänä Konalan varastosta ja kotimaan toimitus kestää 1–3 arkipäivää käsittelyn jälkeen, siksi [2, 4]. Villaflanellipaidan ja vaarinpaidan 'vanha versio' oli poistohinnassa (89,99 € / 62,99 €); tähän kirjattu normaalihinnat 129,99 € ja 89,99 €. Lähetyspaikka Helsingin Konalan varasto (toimituskäytäntö)."
     }
   ],
   "rejected": [

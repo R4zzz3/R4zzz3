@@ -171,19 +171,24 @@
   let selected = null;
 
   const SPEED_RANK = { fast: 0, mid: 1, slow: 2, unknown: 3 };
+  // Shops closer than 16 screen pixels share one marker, so dots never overlap at any zoom.
   function clusters() {
-    const groups = new Map();
+    const reach = unitsPerPx() * 16;
+    const groups = [];
     for (const b of brands) {
       if (!b.ship.xy || !brandVisible(b)) continue;
-      const key = `${Math.round(b.ship.xy[0] / 6)}:${Math.round(b.ship.xy[1] / 6)}`;
-      if (!groups.has(key)) groups.set(key, { key, xy: b.ship.xy, brands: [] });
-      groups.get(key).brands.push(b);
+      const near = groups.find((g) => Math.hypot(g.xy[0] - b.ship.xy[0], g.xy[1] - b.ship.xy[1]) < reach);
+      if (near) near.brands.push(b);
+      else groups.push({ key: b.id, xy: b.ship.xy, brands: [b] });
     }
-    return [...groups.values()].map((c) => ({
+    return groups.map((c) => ({
       ...c,
       speed: c.brands.map((b) => b.ship.speed).sort((a, b) => SPEED_RANK[a] - SPEED_RANK[b])[0],
     }));
   }
+
+  const placeOf = (c) =>
+    [...new Set(c.brands.map((b) => b.ship.from || countryName(b.country)))].slice(0, 3).join('; ');
 
   function routePath([x1, y1], [x2, y2]) {
     const dx = x2 - x1;
@@ -221,8 +226,7 @@
       g.setAttribute('tabindex', '0');
       g.setAttribute('role', 'button');
       const names = c.brands.map((b) => b.name).join(', ');
-      const place = c.brands[0].ship.from || countryName(c.brands[0].country);
-      g.setAttribute('aria-label', `${names}, ${place}`);
+      g.setAttribute('aria-label', `${names}, ${placeOf(c)}`);
       const n = c.brands.length;
       const r = selected === c.key ? 7 : n > 1 ? 9 : 5;
       g.innerHTML =
@@ -264,7 +268,7 @@
     const xs = points.map((p) => p[0]);
     const ys = points.map((p) => p[1]);
     // leave room for the legend (bottom-left) and zoom buttons (bottom-right)
-    const padPx = { top: 24, right: 72, bottom: 150, left: 24 };
+    const padPx = { top: 24, right: 24, bottom: 150, left: 24 }; // zoom buttons sit inside the bottom strip
     const w0 = Math.max(...xs) - Math.min(...xs) + pad * 2;
     const h0 = Math.max(...ys) - Math.min(...ys) + pad * 2;
     const s = Math.max(w0 / (box.width - padPx.left - padPx.right), h0 / (box.height - padPx.top - padPx.bottom));
@@ -414,7 +418,7 @@
       `</header>` +
       careLabel(b) +
       (b.ship.returns ? `<p class="ret">Palautus: ${esc(b.ship.returns)}</p>` : '') +
-      couponHTML(bestCoupon(b)) +
+      b.coupons.slice(0, 3).map((c) => couponHTML(c)).join('') +
       picksHTML(b) +
       `<a class="btn" href="${esc(b.url)}" target="_blank" rel="noopener">Avaa kauppa ${ext}</a>`
     );
@@ -437,9 +441,8 @@
         );
       })
       .join('');
-    const place = c.brands[0].ship.from || countryName(c.brands[0].country);
     openSheet(
-      `<header class="bh"><h2 id="sheet-title">${c.brands.length} kauppaa</h2><p>${esc(place)}</p></header><ul class="blist">${items}</ul>`
+      `<header class="bh"><h2 id="sheet-title">${c.brands.length} kauppaa</h2><p>${esc(placeOf(c))}</p></header><ul class="blist">${items}</ul>`
     );
   }
 

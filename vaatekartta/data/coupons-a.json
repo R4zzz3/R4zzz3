@@ -11,7 +11,16 @@
         "verified": true
       }
     ],
-    "asket": [],
+    "asket": [
+      {
+        "code": null,
+        "deal": "The Archive: edelliset versiot -30–40 %",
+        "type": "sale",
+        "source": "https://www.asket.com/en-fi/archive",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "dedicated": [
       {
         "code": null,
@@ -120,6 +129,14 @@
         "source": "https://www.cos.com/en-eu/student-discount",
         "checked": "2026-10-29",
         "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirjeen tilaajille",
+        "type": "newsletter",
+        "source": "https://www.cos.com/en-eu/newslettersubscribe",
+        "checked": "2026-10-29",
+        "verified": true
       }
     ],
     "weekday": [
@@ -128,6 +145,14 @@
         "deal": "-11 % opiskelijoille (UNiDAYS, SB, Frank ym.)",
         "type": "student",
         "source": "https://www.weekday.com/en-ww/discount/student-discount/",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirjeen tilaajille",
+        "type": "newsletter",
+        "source": "https://www.weekday.com/en-ww/?orgtld=monki.deals",
         "checked": "2026-10-29",
         "verified": true
       }
@@ -191,7 +216,16 @@
         "verified": true
       }
     ],
-    "uskees": [],
+    "uskees": [
+      {
+        "code": null,
+        "deal": "Loppuerä-ale: tuotteita n. -30–40 %",
+        "type": "sale",
+        "source": "https://uskees.com/en-eu/collections/sale",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "peregrine": [
       {
         "code": "FLASHFRIDAY",
@@ -210,8 +244,26 @@
         "verified": true
       }
     ],
-    "far-afield": [],
-    "aran-woollen-mills": [],
+    "far-afield": [
+      {
+        "code": null,
+        "deal": "Ale: kesämalliston loppuerät jopa -50 %",
+        "type": "sale",
+        "source": "https://farafieldclothing.com/collections/sale",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "aran-woollen-mills": [
+      {
+        "code": "ARANMAN20",
+        "deal": "-20 % miesten neuleista (US-sivun banneri)",
+        "type": "code",
+        "source": "https://aranwoollenmills.com/en-us/collections/made-in-ireland-sweaters",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "finisterre": [
       {
         "code": null,
@@ -242,17 +294,17 @@
         "verified": true
       }
     ],
-    "universal-works": [
+    "universal-works": [],
+    "howies": [
       {
-        "code": "FAMILY",
-        "deal": "-45 % koodilla (koodisivuston mukaan toimii)",
-        "type": "code",
-        "source": "https://uk.hotdeals.com/brands/universal-works-discount-codes",
+        "code": null,
+        "deal": "Daylight Savings -ale: tuotteita jopa n. -65 %",
+        "type": "sale",
+        "source": "https://howies.co.uk/collections/daylight-savings-sale-aw26",
         "checked": "2026-10-29",
-        "verified": false
+        "verified": true
       }
     ],
-    "howies": [],
     "moleskin-jeans-co": [
       {
         "code": null,
@@ -263,7 +315,16 @@
         "verified": true
       }
     ],
-    "passenger": [],
+    "passenger": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje (ei aleen)",
+        "type": "newsletter",
+        "source": "https://www.passenger-clothing.com/pages/join-the-journey",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "superdry": [
       {
         "code": null,
