@@ -109,7 +109,8 @@
     const code = c.code
       ? `<button type="button" class="code" data-copy="${esc(c.code)}">${esc(c.code)} <em>Kopioi</em></button>`
       : '';
-    return `<div class="${cls}"><span class="deal">${esc(c.deal)}</span>${code}</div>`;
+    const unverified = c.verified ? '' : ' <span class="unv">ei vahvistettu</span>';
+    return `<div class="${cls}"><span class="deal">${esc(c.deal)}${unverified}</span>${code}</div>`;
   }
 
   // ---------- icons ----------
@@ -428,9 +429,20 @@
     openSheet(brandHTML(b));
   }
 
+  // desktop: the brand panel covers the right edge of the map, so pan the chosen marker clear of it
+  function keepClear([x]) {
+    if (innerWidth < 900) return;
+    const r = svg.getBoundingClientRect();
+    const s = unitsPerPx();
+    const screenX = r.left + (r.width - vb[2] / s) / 2 + (x - vb[0]) / s;
+    const limit = r.right - 404;
+    if (screenX > limit) setViewBox([vb[0] + (screenX - limit + 40) * s, vb[1], vb[2], vb[3]]);
+  }
+
   function openCluster(c) {
     selected = c.key;
     renderMap();
+    keepClear(c.xy);
     if (c.brands.length === 1) return openBrand(c.brands[0]);
     const items = c.brands
       .map((b) => {

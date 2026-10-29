@@ -15,6 +15,7 @@ const PRICE_MAX = 150;
 const TYPES = ['farkut', 'housut', 'neuleet', 'paidat', 't-paidat', 'collegit', 'takit', 'asusteet'];
 const VAT = ['eu', 'ioss', 'ddp', 'buyer'];
 const HELSINKI = [24.94, 60.17];
+const EU = new Set('AT BE BG HR CY CZ DK EE FI FR DE GR HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE'.split(' '));
 const CHECKED = '2026-10-29';
 
 const warnings = [];
@@ -113,7 +114,9 @@ function normaliseBrand(b, map, extraCoupons) {
   const s = b.ship ?? {};
   const xy = s.lat != null && s.lng != null ? map.project(s.lng, s.lat) : null;
   if (!xy) warn(`${b.name}: no shipping coordinates`);
-  const vat = VAT.includes(s.vat) ? s.vat : 'eu';
+  // unknown VAT handling outside the EU: assume the buyer pays on arrival (the cautious reading)
+  const vat = VAT.includes(s.vat) ? s.vat : EU.has(b.country) ? 'eu' : 'buyer';
+  if (!VAT.includes(s.vat)) warn(`${b.name}: vat unknown, using ${vat}`);
   const days = Array.isArray(s.days) && s.days.length ? [s.days[0], s.days[1] ?? s.days[0]] : null;
 
   return {

@@ -961,7 +961,7 @@
         ],
         "speed": "slow",
         "vat": "eu",
-        "returns": null
+        "returns": "30 pv (alennustuotteet 14 pv), käsittelymaksu 3 € vähennetään"
       },
       "products": [
         {
@@ -1032,7 +1032,8 @@
         "https://www.cos.com/en-eu-e/customer-service/delivery/delivery-methods",
         "https://www.cos.com/en-eu-e/men/shirts/overshirts",
         "https://www.cos.com/en-eu/men/menswear/shirts/overshirts/product/felted-wool-shirt-cream-1317556003",
-        "https://www.cos.com/en-eu/men/menswear/knitwear/merino/product/merino-wool-crew-neck-jumper-black-1260173002"
+        "https://www.cos.com/en-eu/men/menswear/knitwear/merino/product/merino-wool-crew-neck-jumper-black-1260173002",
+        "https://www.cos.com/en-eu-e/customer-service/returns"
       ]
     },
     {
@@ -1066,7 +1067,7 @@
         ],
         "speed": "mid",
         "vat": "eu",
-        "returns": "Asiakas maksaa palautuksen ulkomailta"
+        "returns": "45 pv ulkomailta, asiakas maksaa palautuksen"
       },
       "products": [
         {
@@ -1163,7 +1164,7 @@
           "type": "collegit",
           "price": 120,
           "origPrice": null,
-          "url": "https://dailypaperclothing.com/collections/hoodies-sweaters",
+          "url": "https://dailypaperclothing.com/products/mole-alias-dias-hoodie",
           "image": null,
           "color": "#6e5f52",
           "sig": true,
@@ -1205,7 +1206,8 @@
         "https://dailypaperclothing.com/policies/shipping-policy",
         "https://dailypaperclothing.com/pages/faq",
         "https://dailypaperclothing.com/collections/hoodies-sweaters",
-        "https://dailypaperclothing.com/products/dias-knit-sweater-dp-dark-gull-grey"
+        "https://dailypaperclothing.com/products/dias-knit-sweater-dp-dark-gull-grey",
+        "https://dailypaperclothing.com/products/mole-alias-dias-hoodie"
       ]
     },
     {
@@ -1580,7 +1582,7 @@
         "days": null,
         "speed": "unknown",
         "vat": "ddp",
-        "returns": "28 pv täysihintaisille, postikulut asiakkaalle"
+        "returns": "14 pv, postikulut asiakkaalle"
       },
       "products": [
         {
@@ -1599,7 +1601,7 @@
           "type": "neuleet",
           "price": 123,
           "origPrice": null,
-          "url": "https://farafieldclothing.com/collections/clothing",
+          "url": "https://farafieldclothing.com/products/bagh-motif-jumper-camel",
           "image": null,
           "color": "#8a6a3f",
           "sig": false,
@@ -1632,7 +1634,8 @@
         "https://farafieldclothing.com/pages/shipping",
         "https://farafieldclothing.com/pages/faq",
         "https://farafieldclothing.com/collections/clothing?currency=EUR",
-        "https://farafieldclothing.com/products/mustang-check-larry-shirt-brown?currency=EUR"
+        "https://farafieldclothing.com/products/mustang-check-larry-shirt-brown?currency=EUR",
+        "https://farafieldclothing.com/products/bagh-motif-jumper-camel"
       ]
     },
     {
@@ -1762,7 +1765,7 @@
           "type": "paidat",
           "price": 129,
           "origPrice": null,
-          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
+          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/ovik-heavy-flannel-shirt-m/",
           "image": null,
           "color": "#5b3a2e",
           "sig": true,
@@ -1773,7 +1776,7 @@
           "type": "paidat",
           "price": 139,
           "origPrice": null,
-          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
+          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/singi-heavy-flannel-shirt-m/",
           "image": null,
           "color": "#3e4a3a",
           "sig": false,
@@ -1806,7 +1809,9 @@
         "https://www.fjallraven.com/fi/fi-fi/asiakaspalvelu/toimitus/",
         "https://www.fjallraven.com/fi/fi-fi/asiakaspalvelu/palautukset/",
         "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
-        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/villapuserot-ja-neuleet/"
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/villapuserot-ja-neuleet/",
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/ovik-heavy-flannel-shirt-m/",
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/singi-heavy-flannel-shirt-m/"
       ]
     },
     {
@@ -1855,7 +1860,7 @@
           "type": "paidat",
           "price": 135,
           "origPrice": null,
-          "url": "https://www.folkclothing.com/collections/shirts",
+          "url": "https://www.folkclothing.com/products/folk-herringbone-curve-shirt-soft-black",
           "image": null,
           "color": "#2a2a2a",
           "sig": false,
@@ -1877,7 +1882,9 @@
         "https://www.folkclothing.com/collections/shirts?currency=EUR",
         "https://www.folkclothing.com/collections/knitwear?currency=EUR",
         "https://www.folkclothing.com/pages/delivery",
-        "https://www.folkclothing.com/products/relaxed-fit-shirt-ecru-multi-check"
+        "https://www.folkclothing.com/products/relaxed-fit-shirt-ecru-multi-check",
+        "https://www.folkclothing.com/products/folk-herringbone-curve-shirt-soft-black",
+        "https://www.folkclothing.com/collections/25th-anniversary-collection/products/folk-direction-babycord-shirt-dark-navy?currency=EUR"
       ]
     },
     {
@@ -2099,8 +2106,11 @@
         ],
         "cost": 14.99,
         "freeOver": null,
-        "days": null,
-        "speed": "unknown",
+        "days": [
+          3,
+          5
+        ],
+        "speed": "mid",
         "vat": "eu",
         "returns": "30 pv, palautus maksullinen"
       },
@@ -2162,7 +2172,8 @@
         "https://service.hessnatur.com/portal/de/kb/articles/welche-versandkosten-fallen-bei-einer-lieferung-innerhalb-der-restlichen-eu-und-in-die-schweiz-an",
         "https://service.hessnatur.com/portal/de/kb/articles/in-welche-l%C3%A4nder-liefert-hessnatur",
         "https://www.hessnatur.com/de/agb",
-        "https://www.hessnatur.com/de/jeans-ben-regular-straight/p/5687306"
+        "https://www.hessnatur.com/de/jeans-ben-regular-straight/p/5687306",
+        "https://service.hessnatur.com/portal/de/kb/articles/wie-ist-die-lieferzeit-einer-bestellung"
       ]
     },
     {
@@ -2268,7 +2279,7 @@
         ],
         "speed": "mid",
         "vat": "eu",
-        "returns": "30 pv, palautus 5-15 €"
+        "returns": "30 pv, palautusmaksu 15 € (muu EU)"
       },
       "products": [
         {
@@ -2287,7 +2298,7 @@
           "type": "farkut",
           "price": 140,
           "origPrice": null,
-          "url": "https://kingsofindigo.com/en-eu/collections/mens-jeans",
+          "url": "https://kingsofindigo.com/en-eu/products/ryan-rinse",
           "image": null,
           "color": "#22304f",
           "sig": true,
@@ -2330,7 +2341,8 @@
         "https://kingsofindigo.com/en-eu/policies/refund-policy",
         "https://kingsofindigo.com/en-eu/collections/mens-jeans",
         "https://kingsofindigo.com/en-eu/products/silvio-selvage-clean-platino-organic-dry",
-        "https://kingsofindigo.com/en-eu/products/arthur-ceky-blue-tint"
+        "https://kingsofindigo.com/en-eu/products/arthur-ceky-blue-tint",
+        "https://kingsofindigo.com/en-eu/products/ryan-rinse"
       ]
     },
     {
@@ -2378,7 +2390,7 @@
         {
           "name": "BARIBAL RWS (Szary / harmaa)",
           "type": "neuleet",
-          "price": 133,
+          "price": 138,
           "origPrice": null,
           "url": "https://kopyto.de/products/baribal-m-rws-herrenpullover-aus-merinowolle",
           "image": null,
@@ -3293,16 +3305,19 @@
         "takit"
       ],
       "ship": {
-        "from": "Göteborg, SE",
+        "from": "Borås, SE",
         "fromCountry": "SE",
         "xy": [
-          590.8,
-          335
+          601.3,
+          334.5
         ],
         "cost": null,
         "freeOver": null,
-        "days": null,
-        "speed": "unknown",
+        "days": [
+          1,
+          5
+        ],
+        "speed": "mid",
         "vat": "eu",
         "returns": "14 pv (30 pv c/o-jäsenille), palautusmaksu 12 €"
       },
@@ -3356,7 +3371,8 @@
         "https://www.nudiejeans.com/en-FI/selection/shirts",
         "https://www.nudiejeans.com/en-IE/selection/sweatshirts",
         "https://www.nudiejeans.com/en-FI/selection/dry-jeans",
-        "https://www.nudiejeans.com/en-FI/help-center/topic/returns"
+        "https://www.nudiejeans.com/en-FI/help-center/topic/returns",
+        "https://assets.ctfassets.net/7er3lxiqbzqz/3DmKAAJ03ZoWxplHJ7hsij/882e2f84c8670b723cade0881df95c90/GTC-ww-en-1.9-20240529.pdf"
       ]
     },
     {
@@ -3470,7 +3486,7 @@
           443,
           451.5
         ],
-        "cost": null,
+        "cost": 12,
         "freeOver": 150,
         "days": [
           1,
@@ -4349,7 +4365,7 @@
           "type": "t-paidat",
           "price": 95,
           "origPrice": null,
-          "url": "https://eu.saint-james.com/collections/sailor-striped-shirts",
+          "url": "https://eu.saint-james.com/products/meridien-unisex-striped-sailor-shirt-regular-fit-thick-cotton-ecru-marine",
           "image": null,
           "color": "#f2ece0",
           "sig": false,
@@ -4374,7 +4390,9 @@
         "https://faq-eu.saint-james.com/hc/en-150/articles/44659107110801-What-are-the-shipping-fees",
         "https://eu.saint-james.com/en-is/pages/return-policy",
         "https://eu.saint-james.com/collections/sailor-striped-shirts",
-        "https://eu.saint-james.com/products/minquiers-unisex-striped-sailor-shirt-regular-fit-light-cotton-marine-ecru"
+        "https://eu.saint-james.com/products/minquiers-unisex-striped-sailor-shirt-regular-fit-light-cotton-marine-ecru",
+        "https://eu.saint-james.com/products/meridien-unisex-striped-sailor-shirt-regular-fit-thick-cotton-ecru-marine",
+        "https://faq-eu.saint-james.com/hc/en-150/articles/44659156656145-How-long-does-it-take-to-receive-my-order"
       ]
     },
     {
@@ -4555,11 +4573,11 @@
         "collegit"
       ],
       "ship": {
-        "from": "Cheltenham, GB",
-        "fromCountry": "GB",
+        "from": "Grobbendonk, BE",
+        "fromCountry": "BE",
         "xy": [
-          419,
-          440.6
+          502.5,
+          465.1
         ],
         "cost": 3.95,
         "freeOver": null,
@@ -4621,11 +4639,13 @@
           "verified": true
         }
       ],
-      "confidence": "low",
+      "confidence": "medium",
       "sources": [
         "https://www.superdry.fi/kayttoehdot.html",
         "https://www.superdry.fi/miehet/merchant-store/",
-        "https://www.superdry.fi/miehet/takit/"
+        "https://www.superdry.fi/miehet/takit/",
+        "https://www.bleckmann.com/client-stories/superdry",
+        "https://helpcentre.superdry.ie/s/article/where-will-my-order-be-dispatched-from"
       ]
     },
     {
@@ -4651,7 +4671,7 @@
         "freeOver": null,
         "days": null,
         "speed": "unknown",
-        "vat": "eu",
+        "vat": "buyer",
         "returns": "30 pv, 'no quibbles'"
       },
       "products": [
@@ -4805,7 +4825,7 @@
           433.8,
           421.4
         ],
-        "cost": 7.5,
+        "cost": 9.41,
         "freeOver": 300,
         "days": [
           3,
@@ -4813,15 +4833,15 @@
         ],
         "speed": "mid",
         "vat": "ddp",
-        "returns": null
+        "returns": "EU-palautus £20 (vähennetään hyvityksestä)"
       },
       "products": [
         {
           "name": "Brushed Flannel Square Pocket Shirt",
           "type": "paidat",
-          "price": 115,
+          "price": 144,
           "origPrice": null,
-          "url": "https://universalworks.com/collections/shirts",
+          "url": "https://universalworks.com/products/brown-brushed-flannel-square-pocket-shirt",
           "image": null,
           "color": "#6b4a32",
           "sig": false,
@@ -4830,9 +4850,9 @@
         {
           "name": "Work Denim Fatigue Shirt",
           "type": "paidat",
-          "price": 110,
+          "price": 138,
           "origPrice": null,
-          "url": "https://universalworks.com/collections/overshirts",
+          "url": "https://universalworks.com/products/indigo-work-denim-fatigue-shirt",
           "image": null,
           "color": "#243a5e",
           "sig": true,
@@ -4841,32 +4861,26 @@
         {
           "name": "Prince Chambray Daybrook Shirt",
           "type": "paidat",
-          "price": 106,
+          "price": 133,
           "origPrice": null,
-          "url": "https://universalworks.com/collections/shirts",
+          "url": "https://universalworks.com/products/indigo-prince-chambray-daybrook-shirt",
           "image": null,
           "color": "#5f7da6",
           "sig": false,
           "why": "Chambray-button down, sopii overshirtin alle"
         }
       ],
-      "coupons": [
-        {
-          "code": "FAMILY",
-          "deal": "-45 % koodilla (koodisivuston mukaan toimii)",
-          "type": "code",
-          "source": "https://uk.hotdeals.com/brands/universal-works-discount-codes",
-          "checked": "2026-10-29",
-          "verified": false
-        }
-      ],
+      "coupons": [],
       "confidence": "medium",
       "sources": [
         "https://universalworks.com/pages/delivery-and-shipping",
         "https://universalworks.com/pages/faqs",
         "https://universalworks.com/collections/shirts?currency=EUR",
         "https://universalworks.com/collections/overshirts?currency=EUR",
-        "https://universalworks.com/collections/overshirts"
+        "https://universalworks.com/collections/overshirts",
+        "https://universalworks.com/products/brown-brushed-flannel-square-pocket-shirt",
+        "https://universalworks.com/products/indigo-work-denim-fatigue-shirt",
+        "https://universalworks.com/products/indigo-prince-chambray-daybrook-shirt"
       ]
     },
     {
@@ -4980,16 +4994,19 @@
         "asusteet"
       ],
       "ship": {
-        "from": "Helsinki, FI",
+        "from": "Helsinki (Konala), FI",
         "fromCountry": "FI",
         "xy": [
-          719.5,
-          269.2
+          718,
+          268.4
         ],
         "cost": 3.99,
-        "freeOver": 80,
-        "days": null,
-        "speed": "unknown",
+        "freeOver": 100,
+        "days": [
+          2,
+          4
+        ],
+        "speed": "mid",
         "vat": "eu",
         "returns": "100 pv, palautus Suomessa maksuton"
       },
@@ -5051,7 +5068,8 @@
         "https://varusteleka.com/products/sarma-villapaita-fi-1",
         "https://varusteleka.com/products/sarma-villaflanellipaita-fi-1",
         "https://varusteleka.com/products/sarma-kevyt-villakauluspaita-fi-2",
-        "https://varusteleka.com/collections/vaatteet"
+        "https://varusteleka.com/collections/vaatteet",
+        "https://varusteleka.com/policies/shipping-policy"
       ]
     },
     {

@@ -33,7 +33,8 @@ blindness and greyscale. The patterns are stitches: lockstitch, running stitch, 
 | `7+ pv` `--slow` (lingonberry) | dotted `0.1 4.5`, round cap, 2px | 5.6/6.7, 6.4/5.5 |
 
 The same 24px stitch swatch appears in the map legend, on the care label's delivery line and in the list.
-The label is pale in both themes, so `.care-label` pins the light tier values (`--fast:#1F6B45` etc.) in dark mode too.
+The label is pale in both themes, so `.care` pins the light tier values (`--fast:#1F6B45` etc.) in dark mode too.
+Unknown delivery time: grey `2 5` route on the map and an `ei tietoa` legend row, but no stitch anywhere else (a grey dotted line reads as `7+ pv`).
 
 ## Type
 
@@ -71,7 +72,7 @@ Radius by role: care label 2px, buttons 8px, chips pill, sheet 12px top corners 
   offset 18% of length), `vector-effect: non-scaling-stroke`, opacity .85. Selected: its route 1, others .2, dot r 7.
   Finland: `--ink` dot r 4 with a ring r 8. Legend bottom-left: three stitch swatches + `1–3 pv`, `4–6 pv`, `7+ pv`.
 - **Care label (the subject detail)**: `--label` tape, 1px `--line`, radius 2px, padding 12px 12px 10px, max 15rem,
-  a dashed stitch line (`--ink-2` 45%, `3 2`) 5px below the top edge as the sewn fold. Archivo 75%, 0.875rem/1.35,
+  a dashed stitch line (`--ink-2` 45%, `3 2`) 5px below the top edge as the sewn fold. Archivo 75%, 0.9375rem/1.35 (compact 0.875),
   left-aligned, one fact per line, max 4: `Toimitus 4,95 €` / `Ilmainen yli 100 €` / [swatch] `2–5 arkipäivää` /
   `Lähtee Ruotsista` (the label's "Made in"). Non-EU replaces the last line: `ioss`/`ddp` → `ALV maksetaan
   kassalla`; `buyer` → **`ALV ja tulli maksetaan perillä`** (700, the only bold line on the page).
