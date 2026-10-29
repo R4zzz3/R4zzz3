@@ -1,6 +1,6 @@
 // Merges the research files, enforces the scope rules and writes the self-contained page.
-// Usage: node build.mjs            -> ../index.html (+ ../data/brands.json)
-import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
+// Usage: node build.mjs  ->  ../artifact.html, ../index.html, ../data/brands.json
+import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildMap } from './map.mjs';
@@ -40,11 +40,15 @@ function loadRaw() {
   return brands;
 }
 
+// data/coupons*.json: { "brands": { "<brand id>": [coupon, ...] } }
 function loadCoupons() {
-  const file = join(root, 'data', 'coupons.json');
-  if (!existsSync(file)) return {};
-  const data = JSON.parse(readFileSync(file, 'utf8'));
-  return data.brands ?? {};
+  const dir = join(root, 'data');
+  const out = {};
+  for (const file of readdirSync(dir).filter((f) => /^coupons.*\.json$/.test(f)).sort()) {
+    const data = JSON.parse(readFileSync(join(dir, file), 'utf8'));
+    for (const [id, list] of Object.entries(data.brands ?? {})) out[id] = [...(out[id] ?? []), ...list];
+  }
+  return out;
 }
 
 const COUPON_RANK = { code: 0, firstorder: 1, newsletter: 2, app: 3, student: 4, sale: 5 };
@@ -73,8 +77,8 @@ function normaliseCoupons(list) {
 function speedClass(days) {
   const max = days?.[1] ?? days?.[0];
   if (max == null) return 'unknown';
-  if (max <= 4) return 'fast';
-  if (max <= 7) return 'mid';
+  if (max <= 3) return 'fast';
+  if (max <= 6) return 'mid';
   return 'slow';
 }
 
@@ -123,6 +127,7 @@ function normaliseBrand(b, map, extraCoupons) {
     tags: [...new Set(products.map((p) => p.type).concat((b.tags ?? []).filter((t) => TYPES.includes(t))))],
     ship: {
       from: s.from ?? null,
+      fromCountry: /,\s*([A-Z]{2})\s*$/.exec(s.from ?? '')?.[1] ?? b.country,
       xy,
       cost: toEur(s.cost, s.currency),
       freeOver: toEur(s.freeOver, s.currency),
@@ -179,7 +184,16 @@ function main() {
     .replace('/*SILHOUETTES*/', () => silhouettes)
     .replace('/*APP*/', () => app)
     .replaceAll('__VIEWBOX__', `0 0 ${map.width} ${map.height}`);
-  writeFileSync(join(root, 'index.html'), html);
+  // artifact.html is page content only (the Artifact host adds the document skeleton);
+  // index.html is the same page as a standalone document for opening from the repo.
+  writeFileSync(join(root, 'artifact.html'), html);
+  writeFileSync(
+    join(root, 'index.html'),
+    '<!doctype html>\n<html lang="fi">\n<head>\n<meta charset="utf-8">\n' +
+      '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n' +
+      '<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}</style>\n' +
+      '</head>\n<body>\n' + html + '</body>\n</html>\n'
+  );
 
   const productCount = brands.reduce((n, b) => n + b.products.length, 0);
   console.log(`brands: ${brands.length}, products: ${productCount}, html: ${(html.length / 1024).toFixed(0)} KB`);

@@ -1,0 +1,65 @@
+{
+  "checked": "2026-10-29",
+  "brands": {
+    "nudie-jeans": [
+      {
+        "code": null,
+        "deal": "-20 % uusista farkuista vanhat vaihtamalla (c/o)",
+        "type": "app",
+        "source": "https://www.nudiejeans.com/en-US/help-center/what-is-c-o-nudie-jeans",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "asket": [],
+    "dedicated": [],
+    "dr-denim": [],
+    "resterods": [],
+    "fjallraven": [],
+    "nn07": [],
+    "les-deux": [],
+    "makia": [],
+    "r-collection": [],
+    "pure-waste": [],
+    "billebeino": [],
+    "arket": [],
+    "cos": [
+      {
+        "code": null,
+        "deal": "-15 % opiskelijoille koko mallistosta (UNiDAYS/SB)",
+        "type": "student",
+        "source": "https://www.cos.com/en-eu/student-discount",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "weekday": [
+      {
+        "code": null,
+        "deal": "-11 % opiskelijoille (UNiDAYS, SB, Frank ym.)",
+        "type": "student",
+        "source": "https://www.weekday.com/en-ww/discount/student-discount/",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "samsoe-samsoe": [],
+    "mads-norgaard": [],
+    "wood-wood": [],
+    "rains": [],
+    "revolution": [],
+    "varusteleka": [],
+    "uskees": [],
+    "peregrine": [],
+    "far-afield": [],
+    "aran-woollen-mills": [],
+    "finisterre": [],
+    "percival": [],
+    "folk": [],
+    "universal-works": [],
+    "howies": [],
+    "moleskin-jeans-co": [],
+    "passenger": [],
+    "superdry": []
+  }
+}

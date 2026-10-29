@@ -1,0 +1,1655 @@
+{
+  "region": "nordics",
+  "checked": "2026-10-29",
+  "brands": [
+    {
+      "id": "nudie-jeans",
+      "name": "Nudie Jeans",
+      "country": "SE",
+      "city": "Göteborg",
+      "url": "https://www.nudiejeans.com/en-FI",
+      "parent": null,
+      "style": "Göteborgilainen denim-merkki: luomupuuvilla, raw denim ja ilmaiset korjaukset",
+      "tags": [
+        "farkut",
+        "paidat",
+        "neuleet",
+        "collegit",
+        "t-paidat",
+        "takit"
+      ],
+      "ship": {
+        "from": "Göteborg, SE",
+        "lat": 57.71,
+        "lng": 11.97,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": null,
+        "vat": "eu",
+        "returns": "14 pv (30 pv c/o-jäsenille), palautusmaksu 12 €"
+      },
+      "products": [
+        {
+          "name": "Julian Worker Shirt Check Brown",
+          "type": "paidat",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.nudiejeans.com/en-FI/selection/shirts",
+          "image": null,
+          "color": "#6b4a32",
+          "signature": false,
+          "why": "Ruskea ruutuinen työpaita luomupuuvillasta ja pellavasta"
+        },
+        {
+          "name": "Julian Denim Shirt Rinsed Blue",
+          "type": "paidat",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.nudiejeans.com/en-FI/selection/shirts",
+          "image": null,
+          "color": "#2c3e5c",
+          "signature": true,
+          "why": "Kevyt denimpaita, joka sopii raw-farkkujen pariksi"
+        },
+        {
+          "name": "Hasse Sweater Crew Neck Navy",
+          "type": "collegit",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://www.nudiejeans.com/en-IE/selection/sweatshirts",
+          "image": null,
+          "color": "#1f2a44",
+          "signature": false,
+          "why": "Sisältä harjattu luomupuuvillacollege syksyyn"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.nudiejeans.com/en-FI/selection/shirts",
+        "https://www.nudiejeans.com/en-IE/selection/sweatshirts",
+        "https://www.nudiejeans.com/en-FI/selection/dry-jeans",
+        "https://www.nudiejeans.com/en-FI/help-center/topic/returns"
+      ],
+      "confidence": "medium",
+      "notes": "Kaikki farkut (myös Lean Dean Dry 16 Dips) ja villaneuleet maksavat nyt 160 € tai enemmän, joten niitä ei listattu. Toimituskulut, ilmaisen toimituksen raja ja toimitusaika näkyvät vain kassalla (null). Lähetyspaikkana pääkonttori Göteborg, varastoa ei löytynyt. Hasse-collegen hinta en-IE-sivulta (EUR, sama hinnasto kuin en-FI)."
+    },
+    {
+      "id": "asket",
+      "name": "ASKET",
+      "country": "SE",
+      "city": "Tukholma",
+      "url": "https://www.asket.com/en-fi",
+      "parent": null,
+      "style": "Tukholmalainen pysyvä mallisto: jäljitettävät perusvaatteet ilman sesonkeja",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "t-paidat",
+        "farkut",
+        "takit",
+        "housut"
+      ],
+      "ship": {
+        "from": "Poznań, PL",
+        "lat": 52.41,
+        "lng": 16.93,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": null,
+        "vat": "eu",
+        "returns": "30 pv, palautusmaksu 6 €, vaihdot maksuttomia"
+      },
+      "products": [
+        {
+          "name": "The Merino Sweater",
+          "type": "neuleet",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.asket.com/en-fi/mens/knitwear",
+          "image": null,
+          "color": "#5a4636",
+          "signature": true,
+          "why": "Jäljitettävä merinoneule, merkin pysyvän malliston kulmakivi"
+        },
+        {
+          "name": "The Oxford Shirt",
+          "type": "paidat",
+          "price": 140,
+          "currency": "EUR",
+          "url": "https://www.asket.com/en-fi/mens/shirts",
+          "image": null,
+          "color": "#2f3d34",
+          "signature": false,
+          "why": "Harjattu luomu-oxford Portugalista, kolme pituutta"
+        },
+        {
+          "name": "The Cotton Sweater",
+          "type": "neuleet",
+          "price": 110,
+          "currency": "EUR",
+          "url": "https://www.asket.com/en-fi/mens/knitwear",
+          "image": null,
+          "color": "#4b5137",
+          "signature": false,
+          "why": "Puuvillaneule kerrospukeutumiseen syksyllä"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.asket.com/en-fi/support/shipping",
+        "https://www.asket.com/en-fi/support/returns-exchanges",
+        "https://www.asket.com/en-fi/mens/knitwear",
+        "https://www.asket.com/en-fi/mens/shirts"
+      ],
+      "confidence": "medium",
+      "notes": "Toimituskulu ja ilmaisen toimituksen raja Suomeen näkyvät vain kassalla (null). Varasto Poznańissa. Farkut (170 €), flanellipaita (160 €) ja overshirtit (220–240 €) ylittävät 150 €. ASKET ei tee alennuksia, joten kuponkeja ei ole."
+    },
+    {
+      "id": "dedicated",
+      "name": "Dedicated",
+      "country": "SE",
+      "city": "Tukholma",
+      "url": "https://www.dedicatedbrand.com/fi",
+      "parent": null,
+      "style": "Tukholmalainen luomupuuvillamerkki: kuvioneuleet, vakosamettipaidat ja printit",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "takit",
+        "collegit",
+        "t-paidat",
+        "housut"
+      ],
+      "ship": {
+        "from": "Vänersborg, SE",
+        "lat": 58.38,
+        "lng": 12.32,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": 100,
+        "days": [
+          2,
+          7
+        ],
+        "vat": "eu",
+        "returns": "30 pv, palautusmaksu vähennetään hyvityksestä, 1 maksuton vaihto"
+      },
+      "products": [
+        {
+          "name": "Sweater Mora Retro Ski Blocks Multi Color",
+          "type": "neuleet",
+          "price": 119.95,
+          "currency": "EUR",
+          "url": "https://www.dedicatedbrand.com/fi/men/knitwear",
+          "image": null,
+          "color": "#8a4b3a",
+          "signature": true,
+          "why": "Retrohenkinen kuvioneule luomupuuvillasta, merkin tunnusmalli"
+        },
+        {
+          "name": "Shirt Kil Corduroy Cappuccino Brown",
+          "type": "paidat",
+          "price": 129.95,
+          "currency": "EUR",
+          "url": "https://www.dedicatedbrand.com/fi/men/shirts",
+          "image": null,
+          "color": "#7a5c45",
+          "signature": false,
+          "why": "Paksu vakosamettinen overshirt syksyn kerrokseksi"
+        },
+        {
+          "name": "Shirt Rute Flannel Check Muted Multi Color",
+          "type": "paidat",
+          "price": 119.95,
+          "currency": "EUR",
+          "url": "https://www.dedicatedbrand.com/fi/men/shirts",
+          "image": null,
+          "color": "#5d5a4a",
+          "signature": false,
+          "why": "Ruutuflanelli luomupuuvillasta, klassinen syysasu"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.dedicatedbrand.com/fi/terms-conditions",
+        "https://www.dedicatedbrand.com/fi/returns",
+        "https://www.dedicatedbrand.com/fi/men/knitwear",
+        "https://www.dedicatedbrand.com/fi/men/shirts",
+        "https://www.dedicatedbrand.com/gb/contact-us"
+      ],
+      "confidence": "medium",
+      "notes": "Ilmainen toimitus noutopisteeseen yli 100 € (Eurooppa), kotiinkuljetus ei kuulu. Toimituskulu näkyy vain kassalla (null). Varasto Merchworld AB, Vänersborg. Toimitusaika 2–7 arkipäivää maan mukaan."
+    },
+    {
+      "id": "dr-denim",
+      "name": "Dr. Denim",
+      "country": "SE",
+      "city": "Göteborg",
+      "url": "https://drdenim.com/fi",
+      "parent": null,
+      "style": "Göteborgilainen edullinen denim-merkki: väljät ja suorat farkut, rento katutyyli",
+      "tags": [
+        "farkut",
+        "takit",
+        "neuleet",
+        "paidat",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Göteborg, SE",
+        "lat": 57.71,
+        "lng": 11.97,
+        "cost": 12,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          3,
+          7
+        ],
+        "vat": "eu",
+        "returns": "14 pv, asiakas maksaa palautuksen (merkin palautuslapulla)"
+      },
+      "products": [
+        {
+          "name": "Dash Straight - Stream Rinse",
+          "type": "farkut",
+          "price": 899,
+          "currency": "SEK",
+          "url": "https://drdenim.com/fi/products/dash-straight-stream-rinse",
+          "image": null,
+          "color": "#1e2a44",
+          "signature": true,
+          "why": "Joustamaton suora farkku tummana huuhteluna, edullinen raw-tuntuma"
+        },
+        {
+          "name": "Jody Jacket - Black",
+          "type": "takit",
+          "price": 1299,
+          "currency": "SEK",
+          "url": "https://drdenim.com/products/jody-jacket-black",
+          "image": null,
+          "color": "#1b1b1b",
+          "signature": false,
+          "why": "Väljä canvas-takki vakosamettikauluksella"
+        },
+        {
+          "name": "Tom Cardigan - Space Black",
+          "type": "neuleet",
+          "price": 1199,
+          "currency": "SEK",
+          "url": "https://drdenim.com/collections/all-mens-clothes?page=3",
+          "image": null,
+          "color": "#26262b",
+          "signature": false,
+          "why": "Rento neuletakki farkkujen ja t-paidan päälle"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://drdenim.com/pages/shipping-cost",
+        "https://drdenim.com/fi/pages/toimitus-ja-palautus",
+        "https://drdenim.com/fi/collections/mens-jeans",
+        "https://drdenim.com/fi/products/dash-straight-stream-rinse",
+        "https://drdenim.com/products/jody-jacket-black"
+      ],
+      "confidence": "medium",
+      "notes": "Kauppa näytti hakurobotille vain SEK-hinnat, joten hinnat ovat SEK (899 kr ≈ 80 €, 1 299 kr ≈ 115 €). Toimitus Suomeen 12 € ja enemmän painon mukaan; ilmaisen toimituksen rajaa ei mainita. Toimitusaika 3–5 arkipäivää (FI-ohjesivu), tuotesivulla 4–7. Varasto 'Ruotsissa', sijaintina pääkonttori Göteborg."
+    },
+    {
+      "id": "resterods",
+      "name": "Resteröds",
+      "country": "SE",
+      "city": "Herning",
+      "url": "https://resterods.com",
+      "parent": "JBS Textile Group",
+      "style": "Ruotsalainen 1920-luvun perintömerkki: villaneuleet, denimpaidat ja overshirtit",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "takit",
+        "t-paidat",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Herning, DK",
+        "lat": 56.14,
+        "lng": 8.97,
+        "cost": 3.99,
+        "currency": "EUR",
+        "freeOver": 79,
+        "days": null,
+        "vat": "eu",
+        "returns": "14 pv + 365 pv käyttämättömille; Suomesta oma palautuslappu"
+      },
+      "products": [
+        {
+          "name": "Nathan denim overshirt | Rinsed",
+          "type": "paidat",
+          "price": 89.95,
+          "currency": "EUR",
+          "url": "https://resterods.com/shirts",
+          "image": null,
+          "color": "#23304a",
+          "signature": false,
+          "why": "Tumma denim-overshirt, sopii raw-farkkujen kanssa"
+        },
+        {
+          "name": "Jameson pullover | Wool | Green",
+          "type": "neuleet",
+          "price": 89.95,
+          "currency": "EUR",
+          "url": "https://resterods.com/knitwear",
+          "image": null,
+          "color": "#3d4a35",
+          "signature": true,
+          "why": "Villaneule edulliseen hintaan, merkin syysmalliston ydin"
+        },
+        {
+          "name": "Victor cardigan | Mohair | Sand",
+          "type": "neuleet",
+          "price": 99.95,
+          "currency": "EUR",
+          "url": "https://resterods.com/knitwear",
+          "image": null,
+          "color": "#cdb894",
+          "signature": false,
+          "why": "Pörröinen mohair-neuletakki, cozy syyskerros"
+        },
+        {
+          "name": "Nolan twill overshirt | Brown",
+          "type": "paidat",
+          "price": 109.95,
+          "currency": "EUR",
+          "url": "https://resterods.com/shirts",
+          "image": null,
+          "color": "#5b4330",
+          "signature": false,
+          "why": "Paksu toimikas-overshirt ruskeana"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://resterods.com/customer-service",
+        "https://resterods.com/terms-and-conditions",
+        "https://resterods.com/knitwear",
+        "https://resterods.com/shirts"
+      ],
+      "confidence": "medium",
+      "notes": "Omistaja JBS Textile Group, varasto Herningissä Tanskassa. Asiakaspalvelusivu: noutopiste ilmainen yli 79 €, muuten 3,99 € (ei erikseen Suomelle vahvistettu). Toimitusaika Ruotsiin 2–3 arkipäivää, Suomeen ei mainita (null). Palautuslappu vain DK/SE/DE; muista maista oma lappu."
+    },
+    {
+      "id": "fjallraven",
+      "name": "Fjällräven",
+      "country": "SE",
+      "city": "Örnsköldsvik",
+      "url": "https://www.fjallraven.com/fi/fi-fi/",
+      "parent": "Fenix Outdoor",
+      "style": "Ruotsalainen ulkoilumerkki vuodesta 1960: G-1000, flanellit ja villaneuleet",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "collegit",
+        "takit",
+        "housut",
+        "t-paidat",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Saksa (Fenix Outdoorin EU-varasto)",
+        "lat": 53.33,
+        "lng": 11.5,
+        "cost": 7.5,
+        "currency": "EUR",
+        "freeOver": 100,
+        "days": [
+          5,
+          7
+        ],
+        "vat": "eu",
+        "returns": "30 pv, PostNordin palvelupisteeseen QR-koodilla"
+      },
+      "products": [
+        {
+          "name": "Övik Heavy Flannel Shirt M",
+          "type": "paidat",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
+          "image": null,
+          "color": "#5b3a2e",
+          "signature": true,
+          "why": "Molemmin puolin harjattu paksu luomuflanelli, syksyn klassikko"
+        },
+        {
+          "name": "Singi Heavy Flannel Shirt M",
+          "type": "paidat",
+          "price": 139,
+          "currency": "EUR",
+          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
+          "image": null,
+          "color": "#3e4a3a",
+          "signature": false,
+          "why": "Raskas flanellipaita, toimii overshirtin tavoin"
+        },
+        {
+          "name": "Vardag Sweater M",
+          "type": "collegit",
+          "price": 109,
+          "currency": "EUR",
+          "url": "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/villapuserot-ja-neuleet/",
+          "image": null,
+          "color": "#46523f",
+          "signature": false,
+          "why": "Luomupuuvillainen collegepusero arkeen ja retkelle"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.fjallraven.com/fi/fi-fi/asiakaspalvelu/toimitus/",
+        "https://www.fjallraven.com/fi/fi-fi/asiakaspalvelu/palautukset/",
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/paidat/",
+        "https://www.fjallraven.com/fi/fi-fi/miehet/ylaosat/villapuserot-ja-neuleet/"
+      ],
+      "confidence": "high",
+      "notes": "Suomeen PostNord 7,50 €, ilmainen yli 100 €, 5–7 työpäivää. Varaston tarkkaa paikkaa ei kerrottu; sivu kertoo, ettei toimiteta Saksan juhlapyhinä, joten koordinaatti on arvio (Pohjois-Saksa). Villaneuleet (Övik Knit 219 €) ja takit ylittävät 150 €. Sivulla mainittu 'Members Only Outlet' -ale jäsenille, ei kuponkikoodia."
+    },
+    {
+      "id": "nn07",
+      "name": "NN.07",
+      "country": "DK",
+      "city": "Kööpenhamina",
+      "url": "https://www.nn07.com/en/eu",
+      "parent": null,
+      "style": "Kööpenhaminalainen 'No Nationality' -menswear: flanellit, merinoneuleet, siisti arkityyli",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "housut",
+        "takit",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Kööpenhamina, DK",
+        "lat": 55.68,
+        "lng": 12.57,
+        "cost": 12,
+        "currency": "EUR",
+        "freeOver": 250,
+        "days": [
+          2,
+          6
+        ],
+        "vat": "eu",
+        "returns": "30 pv, palautusmaksu 20 € (muu Eurooppa), vaihdot maksuttomia"
+      },
+      "products": [
+        {
+          "name": "Deon - Casual flannel shirt",
+          "type": "paidat",
+          "price": 120,
+          "currency": "EUR",
+          "url": "https://www.nn07.com/en/eu/deon",
+          "image": null,
+          "color": "#4a3f36",
+          "signature": true,
+          "why": "Merkin tunnetuin paitamalli pehmeänä flanellitoimikkaana"
+        },
+        {
+          "name": "Ted - Lightweight Merino wool sweater",
+          "type": "neuleet",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.nn07.com/en/eu/ted-6605-sweater-dark-army",
+          "image": null,
+          "color": "#4a4b3a",
+          "signature": false,
+          "why": "Kevyt merinoneule kerrospukeutumiseen"
+        },
+        {
+          "name": "Colby - Denim shirt",
+          "type": "paidat",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.nn07.com/en/eu/shirts",
+          "image": null,
+          "color": "#2e4466",
+          "signature": false,
+          "why": "Pehmeä luomupuuvillainen denimpaita"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.nn07.com/en/eu/customer-service/payment-and-delivery",
+        "https://www.nn07.com/en/eu/customer-service/faq",
+        "https://www.nn07.com/en/eu/shirts",
+        "https://www.nn07.com/en/eu/deon",
+        "https://www.nn07.com/en/eu/ted-6605-sweater-dark-army"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi kuuluu 'Rest of EU' -riviin: 12 € (DHL), 2–6 arkipäivää, ilmainen yli 250 €. Palautusmaksu 20 € on korkea. Varaston sijaintia ei kerrottu, käytetty pääkonttoria Kööpenhaminassa. Useimmat villaneuleet ja overshirtit 160–270 €."
+    },
+    {
+      "id": "les-deux",
+      "name": "Les Deux",
+      "country": "DK",
+      "city": "Kööpenhamina",
+      "url": "https://lesdeux.com",
+      "parent": null,
+      "style": "Tanskalainen preppy-katutyyli: merinoneuleet, overshirtit ja Encore-logot",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "takit",
+        "housut",
+        "collegit",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Espergærde, DK",
+        "lat": 56,
+        "lng": 12.55,
+        "cost": 6,
+        "currency": "EUR",
+        "freeOver": 150,
+        "days": [
+          2,
+          4
+        ],
+        "vat": "eu",
+        "returns": "30 pv, maksuton palautus (tuotesivun mukaan)"
+      },
+      "products": [
+        {
+          "name": "Greyson Merino Knit",
+          "type": "neuleet",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://lesdeux.com/products/greyson-merino-knit-knitwear-dark-navy",
+          "image": null,
+          "color": "#1f2a40",
+          "signature": true,
+          "why": "Merkin myydyin ohut merinoneule Encore-brodeerauksella"
+        },
+        {
+          "name": "Check Overshirt",
+          "type": "paidat",
+          "price": 119,
+          "currency": "EUR",
+          "url": "https://lesdeux.com/products/check-overshirt-rosin-green",
+          "image": null,
+          "color": "#3f4d3c",
+          "signature": false,
+          "why": "Isoruutuinen flanelli-overshirt kevyeksi takiksi"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://lesdeux.com/pages/delivery",
+        "https://lesdeux.com/pages/returns",
+        "https://lesdeux.com/products/greyson-merino-knit-knitwear-dark-navy",
+        "https://lesdeux.com/products/check-overshirt-rosin-green"
+      ],
+      "confidence": "high",
+      "notes": "Suomeen: Budbee Box 6 € (2–4 pv), UPS Access Point 9 € (2–3 pv); ilmainen yli 150 €. Varasto Tanskassa, palautusosoite Espergærde. Useimmat overshirtit (Kody, Corduroy, Wool) 169–209 €, joten ne jätettiin pois."
+    },
+    {
+      "id": "makia",
+      "name": "Makia",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://makia.com/fi",
+      "parent": null,
+      "style": "Helsinkiläinen merellinen katutyyli: villaneuleet, overshirtit ja ulkotakit",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "takit",
+        "collegit",
+        "t-paidat",
+        "housut",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Turku, FI",
+        "lat": 60.45,
+        "lng": 22.27,
+        "cost": 5.9,
+        "currency": "EUR",
+        "freeOver": 79,
+        "days": [
+          1,
+          2
+        ],
+        "vat": "eu",
+        "returns": "30 pv, maksuton palautus (ei vaihtoja)"
+      },
+      "products": [
+        {
+          "name": "Werner neule",
+          "type": "neuleet",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://makia.com/fi/collections/mens-knitwear",
+          "image": null,
+          "color": "#2b3442",
+          "signature": true,
+          "why": "Paksu villaneule merellisellä otteella, Makian syysklassikko"
+        },
+        {
+          "name": "Frost neule",
+          "type": "neuleet",
+          "price": 119,
+          "currency": "EUR",
+          "url": "https://makia.com/fi/collections/mens-knitwear",
+          "image": null,
+          "color": "#c9bfae",
+          "signature": false,
+          "why": "Kierrätysvillainen neule pakkaspäiviin"
+        },
+        {
+          "name": "Process paitatakki",
+          "type": "paidat",
+          "price": 109,
+          "currency": "EUR",
+          "url": "https://makia.com/products/m32008-process-overshirt-black",
+          "image": null,
+          "color": "#1c1c1c",
+          "signature": false,
+          "why": "Collegen ja overshirtin risteytys paksusta luomuterrystä"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-20 % ensimmäisestä tilauksesta uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://makia.com/fi/pages/winter-2024",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://makia.com/fi/policies/shipping-policy",
+        "https://makia.com/fi/policies/refund-policy",
+        "https://makia.com/fi/pages/faq",
+        "https://makia.com/fi/collections/mens-knitwear",
+        "https://makia.com/products/m32008-process-overshirt-black",
+        "https://makia.com/fi/pages/winter-2024"
+      ],
+      "confidence": "high",
+      "notes": "Suomeen pakettiautomaattiin 5,90 € (1–2 arkipäivää), kotiin 8,90 €, ilmainen yli 79 €. Palautusosoite c/o PostNord Oy Turussa, joten lähetyspaikaksi oletettu Turku (varastoa ei sanottu suoraan). Paitojen hinnat näkyivät hakurobotille vain USD:nä, siksi paitoja ei listattu Process-paitatakkia lukuun ottamatta."
+    },
+    {
+      "id": "r-collection",
+      "name": "R-Collection",
+      "country": "FI",
+      "city": "Kajaani",
+      "url": "https://www.r-collection.fi",
+      "parent": null,
+      "style": "Kajaanilainen perheyritys vuodesta 1978: luomupuuvillaiset anorakit ja collegit",
+      "tags": [
+        "collegit",
+        "paidat",
+        "takit",
+        "neuleet",
+        "housut",
+        "t-paidat",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Kajaani, FI",
+        "lat": 64.23,
+        "lng": 27.73,
+        "cost": 7,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": null,
+        "vat": "eu",
+        "returns": "14 pv, käsittelymaksu 5 €, omiin myymälöihin maksutta"
+      },
+      "products": [
+        {
+          "name": "Klassikko-collegepaita, musteensininen",
+          "type": "collegit",
+          "price": 115,
+          "currency": "EUR",
+          "url": "https://www.r-collection.fi/",
+          "image": null,
+          "color": "#1f2b45",
+          "signature": true,
+          "why": "Kajaanissa leikattu luomupuuvillacollege, merkin perusklassikko"
+        },
+        {
+          "name": "Jere-rugbypaita, punaruskea/koivu raita",
+          "type": "paidat",
+          "price": 105,
+          "currency": "EUR",
+          "url": "https://www.r-collection.fi/category/13/kauluspaidat--neuleet",
+          "image": null,
+          "color": "#7a3b2a",
+          "signature": false,
+          "why": "Raidallinen rugbypaita syksyn kerrospukeutumiseen"
+        },
+        {
+          "name": "Joel-paita, musta",
+          "type": "paidat",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://www.r-collection.fi/category/13/kauluspaidat--neuleet",
+          "image": null,
+          "color": "#1a1a1a",
+          "signature": false,
+          "why": "Suomessa suunniteltu kauluspaita, valmistus Suomi ja Viro"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Rekisteröityneille asiakkaille maksuton toimitus noutopisteeseen (Posti, Matkahuolto, PostNord)",
+          "type": "firstorder",
+          "source": "https://www.r-collection.fi/page/5/toimitus-vaihto-ja-palautus",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://www.r-collection.fi/page/5/toimitus-vaihto-ja-palautus",
+        "https://www.r-collection.fi/category/13/kauluspaidat--neuleet",
+        "https://www.r-collection.fi/",
+        "https://www.r-collection.com/product/286/classic-anorak-black"
+      ],
+      "confidence": "medium",
+      "notes": "Toimitus Suomessa alkaen 7 € noutopisteeseen, kotiin alkaen 16 €; rekisteröityneille noutopistetoimitus maksuton. Toimitusaikaa ei kerrottu. Lähetys Kajaanista (Rockseri Oy, Kasarminkatu 8). Tunnetuin anorakki maksaa 189 €, joten sitä ei listattu. Kauppa näytti osalle tuotteista -50 % rekisteröityneiden alehinnan; tähän on kirjattu normaalihinnat."
+    },
+    {
+      "id": "pure-waste",
+      "name": "Pure Waste",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://purewaste.com/language/fi/",
+      "parent": null,
+      "style": "Helsinkiläinen merkki: collegit ja hupparit 100 % kierrätetyistä kuiduista",
+      "tags": [
+        "collegit",
+        "t-paidat",
+        "paidat",
+        "housut",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Helsinki, FI",
+        "lat": 60.22,
+        "lng": 24.88,
+        "cost": 4.9,
+        "currency": "EUR",
+        "freeOver": 79,
+        "days": [
+          2,
+          6
+        ],
+        "vat": "eu",
+        "returns": "30 pv, Postin palautus 3,90 €, varastolle maksutta"
+      },
+      "products": [
+        {
+          "name": "Standard FB280 Zip Hoodie",
+          "type": "collegit",
+          "price": 60,
+          "currency": "EUR",
+          "url": "https://purewaste.com/product/zip-hoodie/",
+          "image": null,
+          "color": "#6b6e70",
+          "signature": true,
+          "why": "Kierrätyspuuvillasta tehty vetoketjuhuppari, 99 % vähemmän vettä"
+        },
+        {
+          "name": "Loose Fit FB280 Hoodie",
+          "type": "collegit",
+          "price": 57,
+          "currency": "EUR",
+          "url": "https://purewaste.com/product-category/men/hoodies-men/",
+          "image": null,
+          "color": "#3d4436",
+          "signature": false,
+          "why": "Väljä, sisältä harjattu huppari syysiltoihin"
+        },
+        {
+          "name": "Sweatshirt Peace 2026, Olive",
+          "type": "collegit",
+          "price": 59,
+          "currency": "EUR",
+          "url": "https://purewaste.com/product-category/men/new-arrivals-men/",
+          "image": null,
+          "color": "#5a5e3e",
+          "signature": false,
+          "why": "Printattu college vuoden 2026 Peace-mallistosta"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://purewaste.com/language/fi/ukk/",
+        "https://purewaste.com/language/fi/kayttoehdot/",
+        "https://purewaste.com/product-category/men/men-all/",
+        "https://purewaste.com/product/zip-hoodie/"
+      ],
+      "confidence": "high",
+      "notes": "Postipaketti 4,90 €, ilmainen yli 79 €. Toimitusaika 1–4 arkipäivää lähetyksestä + 1–2 pv käsittely, siksi [2, 6]. Varasto Läkkisepäntie 11, Helsinki (nouto maksuton). Valikoima on lähinnä collegeja ja t-paitoja; neuleita, overshirtejä tai takkeja ei ollut. Monet tuotteet (t-paidat 26–39 €, Standard-college 45 €) jäävät alle 50 €."
+    },
+    {
+      "id": "billebeino",
+      "name": "Billebeino",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://eu.billebeino.com",
+      "parent": null,
+      "style": "Helsinkiläinen katumuotimerkki: logohupparit, lippuneuleet ja rento kotityyli",
+      "tags": [
+        "collegit",
+        "neuleet",
+        "t-paidat",
+        "housut",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Vantaa, FI",
+        "lat": 60.3,
+        "lng": 25.04,
+        "cost": 6.9,
+        "currency": "EUR",
+        "freeOver": 150,
+        "days": [
+          2,
+          8
+        ],
+        "vat": "eu",
+        "returns": "14 pv, palautusmaksu 6,90 €, ei vaihtoja"
+      },
+      "products": [
+        {
+          "name": "Flag Hoodie",
+          "type": "collegit",
+          "price": 99,
+          "currency": "EUR",
+          "url": "https://eu.billebeino.com/collections/men",
+          "image": null,
+          "color": "#1d2a4a",
+          "signature": true,
+          "why": "Lippu-aiheinen huppari, merkin tunnistettavin katumuotituote"
+        },
+        {
+          "name": "Flag Sweater",
+          "type": "neuleet",
+          "price": 109,
+          "currency": "EUR",
+          "url": "https://eu.billebeino.com/collections/knitwear",
+          "image": null,
+          "color": "#e6e1d6",
+          "signature": false,
+          "why": "Lippukuvioinen neule syksyyn"
+        },
+        {
+          "name": "Billebeino Zip Hoodie",
+          "type": "collegit",
+          "price": 109,
+          "currency": "EUR",
+          "url": "https://eu.billebeino.com/collections/men",
+          "image": null,
+          "color": "#2a2a2a",
+          "signature": false,
+          "why": "Vetoketjuhuppari logolla, rento kerrosvaate"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Billebeino Club: liittyessä 100 pistettä (1000 p = 10 €), ystävän suosituksella uusi asiakas saa 10 € alennuskoodin",
+          "type": "firstorder",
+          "source": "https://eu.billebeino.com/pages/billebeino-club",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://eu.billebeino.com/pages/toimitus-ja-palautus",
+        "https://eu.billebeino.com/pages/delivery-return",
+        "https://eu.billebeino.com/collections/men",
+        "https://eu.billebeino.com/collections/knitwear",
+        "https://eu.billebeino.com/pages/billebeino-club"
+      ],
+      "confidence": "medium",
+      "notes": "Postipaketti 6,90 €, ilmainen yli 150 € (ei kampanjoissa). Käsittely 1–4 arkipäivää + toimitus 1–4, siksi [2, 8]. Palautusosoite c/o Posti Vantaa, joten lähetyspaikaksi oletettu Vantaa. Miesten valikoima suppea; monet neuleet näkyivät alennuksessa ja olivat loppuunmyytyjä."
+    },
+    {
+      "id": "arket",
+      "name": "ARKET",
+      "country": "SE",
+      "city": "Tukholma",
+      "url": "https://www.arket.com/en-eu/",
+      "parent": "H&M Group",
+      "style": "Tukholmalainen moderni markkinapaikka: villaneuleet ja overshirtit pohjoismaisittain",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "takit",
+        "housut",
+        "farkut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Tukholma, SE",
+        "lat": 59.33,
+        "lng": 18.07,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": 80,
+        "days": null,
+        "vat": "eu",
+        "returns": "30 pv (alennustuotteet 14 pv)"
+      },
+      "products": [
+        {
+          "name": "Heavy Knit Wool Jumper",
+          "type": "neuleet",
+          "price": 79,
+          "currency": "EUR",
+          "url": "https://www.arket.com/en-eu/product/heavy-knit-wool-jumper-beige-melange-1296629001/",
+          "image": null,
+          "color": "#cbbd9f",
+          "signature": true,
+          "why": "Paksu 100 % villaneule edullisesti, cozy syysklassikko"
+        },
+        {
+          "name": "Wool Blend Overshirt",
+          "type": "paidat",
+          "price": 119,
+          "currency": "EUR",
+          "url": "https://www.arket.com/en-eu/product/wool-blend-overshirt-dark-blue-1365188001/",
+          "image": null,
+          "color": "#1f2a3d",
+          "signature": false,
+          "why": "Tummansininen villasekoite-overshirt syksyn kerrokseksi"
+        },
+        {
+          "name": "Crew-Neck Wool Jumper",
+          "type": "neuleet",
+          "price": 79,
+          "currency": "EUR",
+          "url": "https://www.arket.com/en-eu/product/crew-neck-wool-jumper-green-1248137006/",
+          "image": null,
+          "color": "#3e5240",
+          "signature": false,
+          "why": "Pyöreäkauluksinen villaneule usealla värillä"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "ARKET-jäsenille (maksuton) ilmainen vakiotoimitus noutopisteeseen yli 80 € tilauksiin",
+          "type": "newsletter",
+          "source": "https://www.arket.com/en-eu/customer-service/delivery/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://www.arket.com/en-eu/customer-service/delivery/",
+        "https://www.arket.com/en-eu/customer-service/legal/terms-and-conditions/",
+        "https://www.arket.com/en-eu/product/heavy-knit-wool-jumper-beige-melange-1296629001/",
+        "https://www.arket.com/en-eu/product/wool-blend-overshirt-dark-blue-1365188001/"
+      ],
+      "confidence": "medium",
+      "notes": "H&M-konsernin merkki (sallittu). Suomen toimitushinta ja -aika ovat maakohtaisessa haitarissa, jota hakurobotti ei saanut auki (null). Ilmainen toimitus yli 80 € koskee vain jäseniä ja noutopistettä. Varastoa ei kerrottu, sijaintina pääkonttori Tukholma. Hinnat EU-kaupasta (en-eu), Crew-Neck Wool Jumper oli hakuhetkellä alennuksessa, normaalihinta 79 €."
+    },
+    {
+      "id": "cos",
+      "name": "COS",
+      "country": "SE",
+      "city": "Tukholma",
+      "url": "https://www.cos.com/en-eu",
+      "parent": "H&M Group",
+      "style": "Minimalistinen moderni klassikko: villaiset overshirtit ja merinoneuleet",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "takit",
+        "housut",
+        "farkut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Tukholma, SE",
+        "lat": 59.33,
+        "lng": 18.07,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": 100,
+        "days": [
+          5,
+          7
+        ],
+        "vat": "eu",
+        "returns": null
+      },
+      "products": [
+        {
+          "name": "Boiled-Wool Overshirt",
+          "type": "paidat",
+          "price": 119,
+          "currency": "EUR",
+          "url": "https://www.cos.com/en-eu/men/menswear/shirts/overshirts/product/felted-wool-shirt-cream-1317556003",
+          "image": null,
+          "color": "#e3dccb",
+          "signature": true,
+          "why": "Keitetystä villasta tehty overshirt, COSin syksyn tunnusvaate"
+        },
+        {
+          "name": "Wool Overshirt - Charcoal Herringbone",
+          "type": "paidat",
+          "price": 149,
+          "currency": "EUR",
+          "url": "https://www.cos.com/en-eu/men/menswear/shirts/overshirts/product/wool-overshirt-charcoal-herringbone-1304868003",
+          "image": null,
+          "color": "#3c3c3e",
+          "signature": false,
+          "why": "Kalanruotokuvioinen villa-overshirt, lähes takki"
+        },
+        {
+          "name": "Slim Merino Wool Crew-Neck Jumper",
+          "type": "neuleet",
+          "price": 69,
+          "currency": "EUR",
+          "url": "https://www.cos.com/en-eu/men/menswear/knitwear/merino/product/merino-wool-crew-neck-jumper-black-1260173002",
+          "image": null,
+          "color": "#1b1b1b",
+          "signature": false,
+          "why": "Ohut merinoneule kauluspaidan päälle"
+        },
+        {
+          "name": "Denim overshirt",
+          "type": "paidat",
+          "price": 99,
+          "currency": "EUR",
+          "url": "https://www.cos.com/en-eu-e/men/shirts/overshirts",
+          "image": null,
+          "color": "#34496b",
+          "signature": false,
+          "why": "Denim-overshirt raw-farkkujen pariksi"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.cos.com/en-eu-e/customer-service/delivery/delivery-methods",
+        "https://www.cos.com/en-eu-e/men/shirts/overshirts",
+        "https://www.cos.com/en-eu/men/menswear/shirts/overshirts/product/felted-wool-shirt-cream-1317556003",
+        "https://www.cos.com/en-eu/men/menswear/knitwear/merino/product/merino-wool-crew-neck-jumper-black-1260173002"
+      ],
+      "confidence": "medium",
+      "notes": "H&M-konsernin merkki (sallittu). Suomi: vakiotoimitus ilmainen yli 100 €, 5–7 työpäivää; hinta näkyy vain kassalla (null). Palautusehtoja ei tarkistettu (null). Varastoa ei kerrottu, sijaintina pääkonttori Tukholma. Boiled-Wool Overshirt oli hakuhetkellä alennuksessa (83,30 €), normaalihinta 119 €. Kynttilöitä ei toimiteta Suomeen."
+    },
+    {
+      "id": "weekday",
+      "name": "Weekday",
+      "country": "SE",
+      "city": "Tukholma",
+      "url": "https://www.weekday.com/en-eu/",
+      "parent": "H&M Group",
+      "style": "Tukholmalainen nuorekas denim-merkki: edulliset luomufarkut ja väljät neuleet",
+      "tags": [
+        "farkut",
+        "neuleet",
+        "collegit",
+        "t-paidat",
+        "paidat",
+        "takit",
+        "housut"
+      ],
+      "ship": {
+        "from": "Tukholma, SE",
+        "lat": 59.33,
+        "lng": 18.07,
+        "cost": 4.5,
+        "currency": "EUR",
+        "freeOver": 70,
+        "days": [
+          3,
+          4
+        ],
+        "vat": "eu",
+        "returns": "30 pv"
+      },
+      "products": [
+        {
+          "name": "Klean Mid Rise Regular Straight Jeans - Deep Sea Blue",
+          "type": "farkut",
+          "price": 60,
+          "currency": "EUR",
+          "url": "https://www.weekday.com/en-eu/p/men/jeans/klean/klean-regular-straight-leg-jeans-deep-sea-blue-dark-blue-1033252024/",
+          "image": null,
+          "color": "#1d2940",
+          "signature": false,
+          "why": "Tumma 100 % puuvillafarkku suoralla lahkeella, edullinen raw-look"
+        },
+        {
+          "name": "Space Mid Rise Relaxed Straight Jeans",
+          "type": "farkut",
+          "price": 59.99,
+          "currency": "EUR",
+          "url": "https://www.weekday.com/en-eu/p/men/jeans/relaxed-fit/space-mid-rise-relaxed-straight-leg-jeans-radio-blue-medium-blue-0828122081/",
+          "image": null,
+          "color": "#4a6a96",
+          "signature": true,
+          "why": "Weekdayn tunnetuin rento suora farkkumalli"
+        },
+        {
+          "name": "Knitted Wool-Blend Polo Sweater",
+          "type": "neuleet",
+          "price": 59,
+          "currency": "EUR",
+          "url": "https://www.weekday.com/en-eu/p/men/knitwear/sweaters/knitted-wool-blend-polo-sweater-dark-navy-blue-1310067003/",
+          "image": null,
+          "color": "#1c2238",
+          "signature": false,
+          "why": "Pikee-kauluksinen villasekoiteneule syksyyn"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.weekday.com/en-eu/customer-service/delivery-methods/",
+        "https://www.weekday.com/en-eu/men/jeans/",
+        "https://www.weekday.com/en-eu/p/men/jeans/klean/klean-regular-straight-leg-jeans-deep-sea-blue-dark-blue-1033252024/",
+        "https://www.weekday.com/en-eu/p/men/knitwear/sweaters/knitted-wool-blend-polo-sweater-dark-navy-blue-1310067003/"
+      ],
+      "confidence": "high",
+      "notes": "H&M-konsernin merkki (sallittu). Suomi: pakettiautomaatti/noutopiste 4,50 €, kotiin 7,90–9,90 €, ilmainen yli 70 €, 3–4 työpäivää. Varastoa ei kerrottu, sijaintina pääkonttori Tukholma. Neuleet ovat osin villasekoitetta (30 % villaa)."
+    },
+    {
+      "id": "samsoe-samsoe",
+      "name": "Samsøe Samsøe",
+      "country": "DK",
+      "city": "Kööpenhamina",
+      "url": "https://www.samsoe.com/en-FI",
+      "parent": null,
+      "style": "Kööpenhaminalainen skandinaavinen arkityyli: villapaidat, overshirtit ja neuleet",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "takit",
+        "housut",
+        "farkut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Tanska (varasto)",
+        "lat": 55.68,
+        "lng": 12.57,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": 150,
+        "days": [
+          1,
+          6
+        ],
+        "vat": "eu",
+        "returns": "14 pv, palautusmaksu vähennetään (myymälään maksutta)"
+      },
+      "products": [
+        {
+          "name": "Saliam NJ shirt 16192 (100 % villa)",
+          "type": "paidat",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.samsoe.com/en-FI/product/saliam-nj-shirt-16192-black",
+          "image": null,
+          "color": "#1c1c1c",
+          "signature": true,
+          "why": "Villainen paita ø-brodeerauksella, toimii overshirtinä"
+        },
+        {
+          "name": "Isak knit sweater 15010",
+          "type": "neuleet",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://www.samsoe.com/en-FI/category/men/discover/samsoe-core/knitwear",
+          "image": null,
+          "color": "#8a7a62",
+          "signature": false,
+          "why": "Core-malliston neule, ajaton syyskerros"
+        },
+        {
+          "name": "Sataka JE overshirt 15963",
+          "type": "paidat",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://www.samsoe.com/en-LU/category/men/clothing/shirts/overshirts",
+          "image": null,
+          "color": "#5a4e3f",
+          "signature": false,
+          "why": "Rento overshirt syksyn välikausitakiksi"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.samsoe.com/en-FI/customer-care/shipping",
+        "https://www.samsoe.com/en-FI/customer-care/returns-exchanges",
+        "https://www.samsoe.com/en-FI/about/terms-conditions",
+        "https://www.samsoe.com/en-FI/product/saliam-nj-shirt-16192-black",
+        "https://www.samsoe.com/en-FI/category/men/discover/samsoe-core/knitwear"
+      ],
+      "confidence": "medium",
+      "notes": "Suomeen ilmainen toimitus yli 150 € (ei alekausina); toimitushinta näkyy vain kassalla (null). Kaikki lähetykset Tanskasta, varaston kaupunkia ei kerrottu: koordinaatti on pääkonttori Kööpenhamina. Toimitusaika 1–6 arkipäivää (ehdot). Sataka JE -overshirtin hinta EU-kaupan (en-LU) listasta. Moni overshirt 160–200 €."
+    },
+    {
+      "id": "mads-norgaard",
+      "name": "Mads Nørgaard",
+      "country": "DK",
+      "city": "Kööpenhamina",
+      "url": "https://www.madsnorgaard.com",
+      "parent": null,
+      "style": "Kööpenhaminalainen raitaklassikko: #101-raitapaita ja merimiesneuleet vuodesta 1967",
+      "tags": [
+        "neuleet",
+        "t-paidat",
+        "paidat",
+        "farkut",
+        "collegit",
+        "takit"
+      ],
+      "ship": {
+        "from": "Tanska (varasto)",
+        "lat": 55.68,
+        "lng": 12.57,
+        "cost": 8,
+        "currency": "EUR",
+        "freeOver": 95,
+        "days": [
+          2,
+          5
+        ],
+        "vat": "eu",
+        "returns": "14 pv, palautusmaksu 8 € (EU), ei vaihtoja"
+      },
+      "products": [
+        {
+          "name": "101 Wool, Black/Ecru Stripe",
+          "type": "t-paidat",
+          "price": 68,
+          "currency": "EUR",
+          "url": "https://www.madsnorgaard.com/products/101-wool-black-ecru-stripe",
+          "image": null,
+          "color": "#1a1a1a",
+          "signature": true,
+          "why": "Vuoden 1967 #101-raitapaita merinovillasta, tehty Tanskassa"
+        },
+        {
+          "name": "Super Wool Karsten Stripe Knit",
+          "type": "neuleet",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://www.madsnorgaard.com/products/super-wool-karsten-stripe-knit-black-turkish-coffee",
+          "image": null,
+          "color": "#3b2a22",
+          "signature": false,
+          "why": "Raidallinen merinovillaneule, merkin raitaperinne syksyyn"
+        },
+        {
+          "name": "Fine Wool Solid Tobias Knit",
+          "type": "neuleet",
+          "price": 135,
+          "currency": "EUR",
+          "url": "https://www.madsnorgaard.com/collections/mens-knitwear",
+          "image": null,
+          "color": "#2a2d33",
+          "signature": false,
+          "why": "100 % villainen yksivärinen neule"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.madsnorgaard.com/pages/shipping",
+        "https://www.madsnorgaard.com/pages/returns",
+        "https://www.madsnorgaard.com/collections/mens-knitwear",
+        "https://www.madsnorgaard.com/products/101-wool-black-ecru-stripe",
+        "https://www.madsnorgaard.com/products/super-wool-karsten-stripe-knit-black-turkish-coffee"
+      ],
+      "confidence": "high",
+      "notes": "EU: GLS-pakettipiste alkaen 8 € (2–5 arkipäivää), kotiin alkaen 12 €, ilmainen yli 95 €. EU-lähetykset DDP. Varaston kaupunkia ei kerrottu, koordinaatti pääkonttori Kööpenhamina. Klassiset merimiesneuleet (Klemens 190 €, Sailor 400 €) ylittävät 150 €."
+    },
+    {
+      "id": "wood-wood",
+      "name": "Wood Wood",
+      "country": "DK",
+      "city": "Kööpenhamina",
+      "url": "https://www.woodwood.com/en-eu",
+      "parent": "DK Company",
+      "style": "Kööpenhaminalainen katu- ja urheilutyylin sekoitus: rohkeat collegit ja neuleet",
+      "tags": [
+        "neuleet",
+        "collegit",
+        "t-paidat",
+        "paidat",
+        "takit",
+        "housut"
+      ],
+      "ship": {
+        "from": "Łozienica, PL",
+        "lat": 53.55,
+        "lng": 14.73,
+        "cost": 7,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          4,
+          6
+        ],
+        "vat": "eu",
+        "returns": "30 pv, palautuslappu 6,25 € (alv 0) vähennetään"
+      },
+      "products": [
+        {
+          "name": "WWRama Pullover",
+          "type": "neuleet",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://www.woodwood.com/en-eu/shop/knitwear",
+          "image": null,
+          "color": "#5b6b5a",
+          "signature": false,
+          "why": "Wood Woodin neule rennolla katutyylillä"
+        },
+        {
+          "name": "WWCloud Pullover",
+          "type": "collegit",
+          "price": 135,
+          "currency": "EUR",
+          "url": "https://www.woodwood.com/en-eu/wwcloud-pullover--30252206-303700",
+          "image": null,
+          "color": "#1a1a1a",
+          "signature": true,
+          "why": "Ylisuuri college rohkealla etukuviolla, merkin tyylin ydin"
+        },
+        {
+          "name": "WWHester Sweatshirt",
+          "type": "collegit",
+          "price": 135,
+          "currency": "EUR",
+          "url": "https://www.woodwood.com/en-eu/wwhester-sweatshirt--30251551-144500",
+          "image": null,
+          "color": "#d9d3c4",
+          "signature": false,
+          "why": "Rento luonnonvalkoinen college kerrospukeutumiseen"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.woodwood.com/en-eu/shipping-returns",
+        "https://www.woodwood.com/global/shipping-returns",
+        "https://www.woodwood.com/en-eu/shop/knitwear",
+        "https://www.woodwood.com/en-eu/wwcloud-pullover--30252206-303700",
+        "https://www.woodwood.com/en-eu/wwhester-sweatshirt--30251551-144500"
+      ],
+      "confidence": "medium",
+      "notes": "Omistaja DK Company; palautusosoite DSV-varasto Łozienicassa, Puolassa, josta oletettu lähetyspaikka. EU-toimitus DHL Parcel -vyöhykehinnalla, joka näkyy ostoskorissa; tuotesivulla 'Delivery from €7.00' (Suomen tarkkaa hintaa ei vahvistettu). Toimitus 4–6 arkipäivää. Ilmaisen toimituksen rajaa Suomeen ei löytynyt (Saksassa 75 €). Monet neuleet 160–200 €."
+    },
+    {
+      "id": "rains",
+      "name": "Rains",
+      "country": "DK",
+      "city": "Aarhus",
+      "url": "https://www.rains.com",
+      "parent": null,
+      "style": "Aarhusilainen minimalistinen sadevaatemerkki: mattapintaiset unisex-sadetakit",
+      "tags": [
+        "takit",
+        "asusteet",
+        "housut"
+      ],
+      "ship": {
+        "from": "Aarhus, DK",
+        "lat": 56.16,
+        "lng": 10.2,
+        "cost": 5.95,
+        "currency": "EUR",
+        "freeOver": 99,
+        "days": null,
+        "vat": "eu",
+        "returns": "30 pv, palautuslappu 3,95 €, ei vaihtoja"
+      },
+      "products": [
+        {
+          "name": "Long Jacket",
+          "type": "takit",
+          "price": 99.9,
+          "currency": "EUR",
+          "url": "https://www.rains.com/products/long-jacket-male?variant=50964823572827",
+          "image": null,
+          "color": "#1f2433",
+          "signature": true,
+          "why": "Merkin ikoninen pitkä PU-sadetakki hitsatuin saumoin"
+        },
+        {
+          "name": "Fishtail Parka",
+          "type": "takit",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://www.rains.com/collections/rainwear",
+          "image": null,
+          "color": "#c8b99a",
+          "signature": false,
+          "why": "Vedenpitävä kalanpyrstöparka syksyn sadepäiviin"
+        },
+        {
+          "name": "Storm Breaker",
+          "type": "takit",
+          "price": 99.9,
+          "currency": "EUR",
+          "url": "https://www.rains.com/collections/rainwear",
+          "image": null,
+          "color": "#5d6a5a",
+          "signature": false,
+          "why": "Urheilullinen unisex-sadetakki säänkestävin varustein"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://rains.com/policies/shipping-policy",
+        "https://www.rains.com/pages/terms",
+        "https://www.rains.com/products/long-jacket-male?variant=50964823572827",
+        "https://www.rains.com/collections/rainwear"
+      ],
+      "confidence": "medium",
+      "notes": "Toimituskäytäntö (policies) listaa Suomen EU-ryhmään: noutopiste 5,95 €, ilmainen alkaen 99 €, kotiin 9,95 €. Vanhempi /pages/shipping-sivu sanoo Suomen kuuluvan 'EU2'-ryhmään, jonka hinta lasketaan kassalla, joten hinnassa on pientä epävarmuutta. Toimitusaikaa Suomeen ei kerrottu. Tilaukset käsitellään Tanskan pääkonttorissa (Aarhus). Valikoima on pelkkiä takkeja ja asusteita, ei neuleita."
+    },
+    {
+      "id": "revolution",
+      "name": "Revolution (RVLT)",
+      "country": "DK",
+      "city": "Aarhus",
+      "url": "https://revolution.eu",
+      "parent": null,
+      "style": "Aarhusilainen katutyyli vuodesta 1995: vakosamettiset overshirtit ja kuvioneuleet",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "takit",
+        "housut",
+        "t-paidat",
+        "collegit"
+      ],
+      "ship": {
+        "from": "Aarhus, DK",
+        "lat": 56.15,
+        "lng": 10.21,
+        "cost": 20,
+        "currency": "EUR",
+        "freeOver": 100,
+        "days": [
+          2,
+          5
+        ],
+        "vat": "eu",
+        "returns": "14 pv, palautus noutopisteestä 10 €"
+      },
+      "products": [
+        {
+          "name": "Overshirt w. Zipper / 3922 - Darknavy",
+          "type": "paidat",
+          "price": 999,
+          "currency": "DKK",
+          "url": "https://revolution.eu/collections/overshirts",
+          "image": null,
+          "color": "#1d2538",
+          "signature": true,
+          "why": "Vetoketjullinen vakosametti-overshirt, merkin syysklassikko"
+        },
+        {
+          "name": "Worker Overshirt / 3220 - Darkgrey",
+          "type": "paidat",
+          "price": 999,
+          "currency": "DKK",
+          "url": "https://revolution.eu/collections/overshirts",
+          "image": null,
+          "color": "#3a3b3d",
+          "signature": false,
+          "why": "Työvaatehenkinen overshirt kerrospukeutumiseen"
+        },
+        {
+          "name": "Knit Sweater / 6627 - Navy",
+          "type": "neuleet",
+          "price": 799,
+          "currency": "DKK",
+          "url": "https://revolution.eu/collections/knitwear",
+          "image": null,
+          "color": "#1f2840",
+          "signature": false,
+          "why": "Edullinen neule kylmiin syyspäiviin"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://revolution.eu/pages/shipping-and-returns",
+        "https://revolution.eu/pages/faq",
+        "https://revolution.eu/collections/overshirts",
+        "https://revolution.eu/collections/knitwear",
+        "https://revolution.eu/collections/aquaholic/products/3970-overshirt-w-zipper-dustpetrol"
+      ],
+      "confidence": "medium",
+      "notes": "Suomeen GLS/UPS-noutopiste 20 € (kallis), ilmainen yli 100 €, 2–5 arkipäivää. Kokoelmasivut näyttivät hakurobotille vain DKK-hinnat (999 kr ≈ 134 €, 799 kr ≈ 107 €); vanhempi tuotesivu näytti vastaavan vakosametti-overshirtin hinnaksi 119,95 €. Varaston sijaintia ei kerrottu, käytetty pääkonttoria Aarhusissa."
+    },
+    {
+      "id": "varusteleka",
+      "name": "Varusteleka (Särmä)",
+      "country": "FI",
+      "city": "Helsinki",
+      "url": "https://varusteleka.com",
+      "parent": null,
+      "style": "Helsinkiläinen armeijahenkinen oma mallisto: villaflanellit, villapaidat ja kenttätakit",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "takit",
+        "t-paidat",
+        "housut",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Helsinki, FI",
+        "lat": 60.19,
+        "lng": 24.97,
+        "cost": 3.99,
+        "currency": "EUR",
+        "freeOver": 80,
+        "days": null,
+        "vat": "eu",
+        "returns": "100 pv, palautus Suomessa maksuton"
+      },
+      "products": [
+        {
+          "name": "Varusteleka villapaita",
+          "type": "neuleet",
+          "price": 129.99,
+          "currency": "EUR",
+          "url": "https://varusteleka.com/products/sarma-villapaita-fi-1",
+          "image": null,
+          "color": "#6e6e6a",
+          "signature": true,
+          "why": "EU:ssa tehty paksu villapaita armeijaperinteellä"
+        },
+        {
+          "name": "Särmä villaflanellipaita",
+          "type": "paidat",
+          "price": 129.99,
+          "currency": "EUR",
+          "url": "https://varusteleka.com/products/sarma-villaflanellipaita-fi-1",
+          "image": null,
+          "color": "#4b4f3a",
+          "signature": false,
+          "why": "Kierrätysvillainen flanellipaita, lämmittää märkänäkin"
+        },
+        {
+          "name": "Särmä vaarinpaita, merinovillaa",
+          "type": "paidat",
+          "price": 89.99,
+          "currency": "EUR",
+          "url": "https://varusteleka.com/collections/vaatteet",
+          "image": null,
+          "color": "#2b2b2b",
+          "signature": false,
+          "why": "Merinovillainen vaarinpaita kerrastoksi tai sellaisenaan"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://varusteleka.com/products/sarma-villapaita-fi-1",
+        "https://varusteleka.com/products/sarma-villaflanellipaita-fi-1",
+        "https://varusteleka.com/products/sarma-kevyt-villakauluspaita-fi-2",
+        "https://varusteleka.com/collections/vaatteet"
+      ],
+      "confidence": "medium",
+      "notes": "Ylijäämäkauppa, jolla on oma suunniteltu mallisto (Särmä-merkki siirtyy Varusteleka-nimen alle). Suomessa toimitus alkaen 3,99 €, ilmainen yli 80 €, 90 % tilauksista lähtee seuraavana arkipäivänä (toimitusaikaa ei kerrottu, null). Villaflanellipaidan ja vaarinpaidan 'vanha versio' oli poistohinnassa (89,99 € / 62,99 €); tähän kirjattu normaalihinnat 129,99 € ja 89,99 €. Lähetyspaikkana Helsingin myymälä/varasto (tarkkaa osoitetta ei tarkistettu)."
+    }
+  ],
+  "rejected": [
+    {
+      "name": "Uniforms for the Dedicated",
+      "reason": "Verkkokauppaa ja hintoja ei saatu vahvistettua (sivu tyhjä hakurobotille); toimitusta Suomeen ei voitu tarkistaa"
+    },
+    {
+      "name": "Velour (Velour by Nostalgi)",
+      "reason": "Lokalt-farkut 2 500–2 700 SEK (yli 150 €); miesten mallisto suppea. Huom: Velour Garments on eri, Barcelonassa toimiva merkki"
+    },
+    {
+      "name": "Norse Projects",
+      "reason": "Ydintuotteet yli 150 €: Vagn-college n. 165 €, Sigfred-neule 170–195 €, paidat 195 €"
+    },
+    {
+      "name": "Studio Total",
+      "reason": "Omaa verkkokauppaa ei löytynyt; myydään Stayhard/Footway-kauppojen kautta ja lähes kaikki poistohinnoin"
+    },
+    {
+      "name": "Hope",
+      "reason": "Normaalihinnat yli 150 € (paidat 220 €, neuleet 265–350 €); alle 150 € vain alennustuotteita; ilmainen toimitus vasta 350 €"
+    },
+    {
+      "name": "66°North",
+      "reason": "Tunnetuimmat tuotteet yli 150 € (Tindur 260 €, Kaldi-neule 200 €); hintavälissä lähinnä huppari (140 €) ja t-paidat; EU-toimitusehtoja ei saatu. Sivulla ensitilauskoodi WELCOME10 (-10 %)"
+    },
+    {
+      "name": "Forét",
+      "reason": "Neuleet 200–240 €, flanellipaidat n. 170 €; hintavälissä vain collegit (Boat Sweatshirt 133,95 €). Toimitus alkaen 8,95 €, ilmainen yli 210 €"
+    },
+    {
+      "name": "Tiger of Sweden",
+      "reason": "VARALLA: täyttää hintaehdon (Emerson-neule 129 €, Connor-merinoneule 139–149 €, Nevile-poolo 149 €), mutta jätetty pois tavoitemäärän vuoksi; tailoring-painotteinen, Suomen toimitushintaa ei tarkistettu (EU 3–5 pv, palautus 14 pv maksua vastaan)"
+    },
+    {
+      "name": "Kronstadt",
+      "reason": "VARALLA: overshirtit 66–81 € (KSChandos, KSArkwin), ilmainen toimitus yli 79 €, 30 pv ilmainen palautus; verkkokauppaa pyörittää saksalainen Bestsales Online GmbH, eikä toimitusta Suomeen vahvistettu"
+    },
+    {
+      "name": "Frenn (FI)",
+      "reason": "Ainoa tarkistettu tuote (Eetu Merino Knit Overshirt) maksaa 299 €; merkki näyttää hinnoittelevan yli 150 €. Ei tutkittu tarkemmin"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "checked": "2026-10-29",
+  "brands": {
+    "asphalte": [
+      {
+        "code": null,
+        "deal": "-15 € ensitilauksesta (min. 49 €) suosituskoodilla",
+        "type": "firstorder",
+        "source": "https://help.asphalte.com/en-US/referring-friends-and-family-86266",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "bonnegueule": [
+      {
+        "code": null,
+        "deal": "-15 % ensitilauksesta ystävän suosituslinkillä",
+        "type": "firstorder",
+        "source": "https://bonnegueule.fr/pages/le-parrainage",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://skoqo.com/codes-promos/bonnegueule/",
+        "checked": "2026-10-29",
+        "verified": false
+      },
+      {
+        "code": "RETOUR30",
+        "deal": "-30 € ostoskorista (toimi 14.10.)",
+        "type": "code",
+        "source": "https://skoqo.com/codes-promos/bonnegueule/",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
+    "saint-james": [],
+    "armor-lux": [
+      {
+        "code": null,
+        "deal": "Toinen tuote -50 % (halvempi), 1.11. asti",
+        "type": "sale",
+        "source": "https://www.armorlux.com/pages/conditions-des-offres",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "Jäsenille 1 € = 1 piste, pisteet alennuksiksi",
+        "type": "app",
+        "source": "https://www.armorlux.com/pages/inscription-a-la-newsletter",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 % ensiostoksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://www.leparisien.fr/codes-promo/marques/armor-lux.php",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
+    "le-minor": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta (min. 100 €), uutiskirje",
+        "type": "newsletter",
+        "source": "https://leminor.fr/en/pages/faq",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "hast": [],
+    "maison-labiche": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://fr.hotdeals.com/code-promo/maison-labiche",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
+    "kings-of-indigo": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://kingsofindigo.com/pages/newsletter-subscription",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "Ilmainen toimitus kaikkiin tilauksiin",
+        "type": "sale",
+        "source": "https://kingsofindigo.com/pages/newsletter-subscription",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "mud-jeans": [],
+    "g-star-raw": [],
+    "kuyichi": [],
+    "dstrezzed": [],
+    "cuisse-de-grenouille": [],
+    "daily-paper": [],
+    "armedangels": [],
+    "merz-b-schwanen": [],
+    "carhartt-wip": [],
+    "hessnatur": [],
+    "zara": [],
+    "nikin": [],
+    "ecoalf": [],
+    "reet-aus": [],
+    "portuguese-flannel": [],
+    "brava-fabrics": [],
+    "thinking-mu": [],
+    "kopyto": [],
+    "silbon": [],
+    "replay": []
+  }
+}

@@ -686,7 +686,7 @@
         "https://www.portugueseflannel.com/products/cornelius"
       ],
       "confidence": "medium",
-      "notes": "Tuotesivujen mukaan 'Express Worldwide Delivery by DPD, DHL and FEDEX – Europe: Free', joten toimitus Suomeen merkitty maksuttomaksi (cost 0, freeOver 0). Toimitusaikaa arkipäivinä ei löytynyt (days = null). Palautusaikaa ei löytynyt; palautus pyydetään sähköpostilla. Lähetyspaikka = palautusosoite Aveleda, Vila do Conde. Tuotteille ei saatu omia URL-osoitteita, hinnat etusivulta. Villaoverhirtit (187–319 €) ja Embroidery Flannel (162 €) ovat yli rajan."
+      "notes": "Tuotesivujen mukaan 'Express Worldwide Delivery by DPD, DHL and FEDEX – Europe: Free', joten toimitus Suomeen merkitty maksuttomaksi (cost 0, freeOver 0). Toimitusaikaa arkipäivinä ei löytynyt (days = null). Palautusaikaa ei löytynyt; palautus pyydetään sähköpostilla. Lähetyspaikka = palautusosoite Aveleda, Vila do Conde. Tuotteille ei saatu omia URL-osoitteita, hinnat etusivulta. Villaovershirtit (187–319 €) ja Embroidery Flannel (162 €) ovat yli rajan."
     },
     {
       "id": "brava-fabrics",
@@ -834,6 +834,222 @@
       ],
       "confidence": "high",
       "notes": "Suomi: 9,90 €, ilmainen yli 150 €, 2–5 arkipäivää, lähetys Gironan varastosta. Palautus 30 pv; noutopiste/kotinouto Suomesta 9,90 € vähennetään hyvityksestä. Theo-overshirt oli tarkistushetkellä alessa 89,90 €, normaalihinta 139,90 €. Lucien-hinta on miesten kategoriasivulta."
+    },
+    {
+      "id": "kopyto",
+      "name": "KOPYTO",
+      "country": "PL",
+      "city": "Sopot",
+      "url": "https://kopyto.com/en",
+      "parent": null,
+      "style": "Puolalainen RWS-merinovillamerkki: Beskidien kansanompeluista ammentavat neuleet",
+      "tags": [
+        "neuleet",
+        "t-paidat",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Bielsko-Biała, PL",
+        "lat": 49.82,
+        "lng": 19.04,
+        "cost": 17.83,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          5,
+          14
+        ],
+        "vat": "eu",
+        "returns": "14 pv (lisämaksusta 40 pv)"
+      },
+      "products": [
+        {
+          "name": "BARIBAL BESKIDZKI RWS (Pencil grey – cream)",
+          "type": "neuleet",
+          "price": 599,
+          "currency": "PLN",
+          "url": "https://kopyto.com/en/products/baribal-beskidzki-m-rws-mens-merino-wool-sweater",
+          "image": null,
+          "color": "#6b6b6b",
+          "signature": true,
+          "why": "Merinoneule Beskidien kansanompeluskuvioilla, tehty Puolassa"
+        },
+        {
+          "name": "BARIBAL RWS (Szary / harmaa)",
+          "type": "neuleet",
+          "price": 132.95,
+          "currency": "EUR",
+          "url": "https://kopyto.de/products/baribal-m-rws-herrenpullover-aus-merinowolle",
+          "image": null,
+          "color": "#8a8a88",
+          "signature": false,
+          "why": "Collegen mukava 100 % merinovillaneule, kashmirmainen pinta"
+        },
+        {
+          "name": "CHAMELEON RWS (miesten merino-t-paita)",
+          "type": "t-paidat",
+          "price": 269,
+          "currency": "PLN",
+          "url": "https://kopyto.com/en/collections/w-gory-meskie",
+          "image": null,
+          "color": "#3f4a3c",
+          "signature": false,
+          "why": "Merinovillainen t-paita aluskerrokseksi syksyn retkille"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://kopyto.com/en/policies/shipping-policy",
+        "https://kopyto.com/en/products/baribal-beskidzki-m-rws-mens-merino-wool-sweater",
+        "https://kopyto.de/products/baribal-m-rws-herrenpullover-aus-merinowolle",
+        "https://kopyto.com/en/collections/w-gory-meskie"
+      ],
+      "confidence": "medium",
+      "notes": "Toimitusmaksu Suomeen 'noin 17,83 €' (vaihtelee euron kurssin mukaan), toimitusaika 5–14 arkipäivää maan mukaan. Ilmainen toimitus yli 400/500 PLN mainitaan tuotesivuilla, mutta ei ole varmaa koskeeko se ulkomaita (freeOver = null). Palautus 14 pv, lisäpalveluna 40 pv. Hinnat kopyto.com/en-kaupassa ovat PLN-määräisiä (599 PLN ≈ 140 €, 269 PLN ≈ 63 €); BARIBAL-hinta EUR:na saksalaisesta kopyto.de-kaupasta (normaalihinta 132,95 €, alessa 112,95 €). Lähetyspaikka = palautusosoite Bielsko-Biała (rekisteröity osoite Sopot)."
+    },
+    {
+      "id": "silbon",
+      "name": "Silbon",
+      "country": "ES",
+      "city": "Córdoba",
+      "url": "https://www.silbonshop.com/en-eu",
+      "parent": null,
+      "style": "Cordobalainen miesten muotimerkki: siistit overshirtit, paidat ja neuleet",
+      "tags": [
+        "paidat",
+        "takit",
+        "neuleet",
+        "housut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Córdoba, ES",
+        "lat": 37.89,
+        "lng": -4.78,
+        "cost": 30,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          6,
+          8
+        ],
+        "vat": "eu",
+        "returns": "30 pv, Suomesta palautus omalla kustannuksella"
+      },
+      "products": [
+        {
+          "name": "Cruise navy blue overshirt with pockets",
+          "type": "takit",
+          "price": 79.9,
+          "currency": "EUR",
+          "url": "https://www.silbonshop.com/en/products/navy-blue-cruise-overshirt-with-pockets",
+          "image": null,
+          "color": "#1f2a44",
+          "signature": true,
+          "why": "Laivastonsininen puuvillaovershirt läpällisillä taskuilla"
+        },
+        {
+          "name": "Light blue denim overshirt with pockets",
+          "type": "takit",
+          "price": 89.9,
+          "currency": "EUR",
+          "url": "https://www.silbonshop.com/en/collections/overshirts",
+          "image": null,
+          "color": "#7f9cc0",
+          "signature": false,
+          "why": "Vaalea denim-overshirt, helppo välikausitakki"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.silbonshop.com/en-eu/pages/shipping",
+        "https://help.silbonshop.com/hc/es-es/articles/4402821662354-Gastos-de-env%C3%ADo",
+        "https://www.silbonshop.com/en/collections/overshirts",
+        "https://www.silbonshop.com/es-int/pages/terminos-y-condiciones"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi on Euroopan vyöhykkeellä III: kotiinkuljetus 30 €, ei ilmaisen toimituksen rajaa. EU-toimitus 5–7 arkipäivää lähetyksestä + noin 1 pv käsittely (days 6–8). Palautukset 'muista maista': ostaja hoitaa ja maksaa palautuksen, kokovaihtoja ei tehdä. Kalliin toimituksen takia merkki on Suomesta tilattuna heikko valinta. Lähetyspaikka = pääkonttori Córdoba, keskusvaraston sijaintia ei varmistettu. Cruise-overshirt oli alessa 54,90 €, normaalihinta 79,90 €."
+    },
+    {
+      "id": "replay",
+      "name": "Replay",
+      "country": "IT",
+      "city": "Asolo",
+      "url": "https://www.replayjeans.com/fi/",
+      "parent": "Fashion Box",
+      "style": "Italialainen denim-talo vuodelta 1981: farkut käsin tehdyillä kulumilla ja neuleet",
+      "tags": [
+        "farkut",
+        "neuleet",
+        "paidat",
+        "takit",
+        "collegit",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Asolo, IT",
+        "lat": 45.8,
+        "lng": 11.91,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": 150,
+        "days": null,
+        "vat": "eu",
+        "returns": "15 pv, ensimmäinen palautus Suomesta maksuton"
+      },
+      "products": [
+        {
+          "name": "Anbass slim-fit jeans (573 Eco Plus)",
+          "type": "farkut",
+          "price": 149.9,
+          "currency": "EUR",
+          "url": "https://www.replayjeans.com/fi/men/projects/573/",
+          "image": null,
+          "color": "#2a3a5c",
+          "signature": true,
+          "why": "Replayn myydyin farkkumalli, 573-sarjan bestseller"
+        },
+        {
+          "name": "Cotton and cashmere turtleneck pullover",
+          "type": "neuleet",
+          "price": 149.9,
+          "currency": "EUR",
+          "url": "https://www.replayjeans.com/fi/men/apparel/knitwear/",
+          "image": null,
+          "color": "#3b3b3b",
+          "signature": false,
+          "why": "Puuvilla-kashmir-poolo syksyn kerrokseksi"
+        },
+        {
+          "name": "Rib-knit cotton pullover",
+          "type": "neuleet",
+          "price": 129.9,
+          "currency": "EUR",
+          "url": "https://www.replayjeans.com/fi/men/apparel/knitwear/",
+          "image": null,
+          "color": "#6b5b4a",
+          "signature": false,
+          "why": "Ribbineulottu puuvillaneule kulutetulla viimeistelyllä"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensimmäisestä ostoksesta uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.replayjeans.com/fi/checkout/cart/index/",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://www.replayjeans.com/fi/returns/",
+        "https://www.replayjeans.com/fi/checkout/cart/index/",
+        "https://www.replayjeans.com/fi/men/projects/573/",
+        "https://www.replayjeans.com/fi/men/apparel/knitwear/"
+      ],
+      "confidence": "medium",
+      "notes": "Suomen kaupassa ilmainen toimitus yli 150 €; vakiotoimituksen hintaa ja toimitusaikaa ei löytynyt (cost ja days = null). Palautus 15 pv, ensimmäinen palautus Replayn palautusjärjestelmällä maksuton Suomesta. Suurin osa farkuista 169,90–219,90 €; hintavälille osuvat 573 Eco Plus -sarjan farkut (149,90 €). Neuleiden hinnat Suomen kaupan neulesivulta (ajankohta epävarma, tuotteet olivat alessa -40 %; tässä normaalihinnat). Lähetyspaikka = pääkonttori Asolo, varastoa ei varmistettu."
     }
   ],
   "rejected": [
@@ -843,7 +1059,7 @@
     },
     {
       "name": "Massimo Dutti",
-      "reason": "Virallinen kauppa estää hakurobotin, joten hintoja ja Suomen toimitusehtoja ei voitu varmistaa omasta kaupasta; villaoverhirtit Zalandossa 190–200 €. Tarkistettava käsin (neuleet n. 60–120 €)"
+      "reason": "Virallinen kauppa estää hakurobotin, joten hintoja ja Suomen toimitusehtoja ei voitu varmistaa omasta kaupasta; villaovershirtit Zalandossa 190–200 €. Tarkistettava käsin (neuleet n. 60–120 €)"
     },
     {
       "name": "Drykorn",
@@ -856,6 +1072,26 @@
     {
       "name": "La Paz",
       "reason": "Overshirtit omassa kaupassa n. 167–207 € ja villaneuleet 268 €; hintaväliin osuu vain yksittäisiä tuotteita"
+    },
+    {
+      "name": "Poszetka",
+      "reason": "Working Class -overshirtit ja chore coatit 205–384 €, työpaidat 128–179 €; hintavälille osuu vain yksi paita"
+    },
+    {
+      "name": "Svetr s jelenem",
+      "reason": "Tšekkiläiset norjalaiskuvioneuleet (n. 120–150 €) sopisivat, mutta kauppa toimittaa vain Tšekkiin ja Slovakiaan"
+    },
+    {
+      "name": "KAMA",
+      "reason": "Tšekkiläiset merinoneuleet 175–270 €, yli rajan"
+    },
+    {
+      "name": "Canarino",
+      "reason": "Tšekkiläiset Donegal-neuleet 3 990 Kč (n. 160 €), yli rajan"
+    },
+    {
+      "name": "About Companions",
+      "reason": "Berliiniläinen (tuotanto Liettuassa): overshirtit 175–259 €, takit 229 €+, yli rajan"
     }
   ]
 }
