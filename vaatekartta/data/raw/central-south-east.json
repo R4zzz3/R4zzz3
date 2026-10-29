@@ -1,0 +1,278 @@
+{
+  "region": "central-south-east",
+  "checked": "2026-10-29",
+  "brands": [
+    {
+      "id": "armedangels",
+      "name": "Armedangels",
+      "country": "DE",
+      "city": "Köln",
+      "url": "https://www.armedangels.com/en-eu",
+      "parent": null,
+      "style": "Kölniläinen reilun muodin merkki: luomupuuvillaa, kierrätysvillaa ja pehmeitä neuleita",
+      "tags": ["neuleet", "takit", "paidat", "farkut", "housut", "t-paidat", "collegit"],
+      "ship": {
+        "from": "Köln, DE",
+        "lat": 50.94,
+        "lng": 6.96,
+        "cost": 13.95,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [3, 8],
+        "vat": "eu",
+        "returns": null
+      },
+      "products": [
+        {
+          "name": "AVAAN Jacket (vakosamettinen overshirt)",
+          "type": "takit",
+          "price": 149.9,
+          "currency": "EUR",
+          "url": "https://www.armedangels.com/en-eu/products/avaan-dark-steel",
+          "image": null,
+          "color": "#4a4d52",
+          "signature": false,
+          "why": "Paksu luomupuuvillainen overshirt vakosamettipinnalla syksyyn"
+        },
+        {
+          "name": "KIAANO Tweed Knit Sweater",
+          "type": "neuleet",
+          "price": 149.9,
+          "currency": "EUR",
+          "url": "https://www.armedangels.com/en-eu/products/kiaano-tweed-knit-sweater-black",
+          "image": null,
+          "color": "#2b2a2a",
+          "signature": false,
+          "why": "Paksu tweed-neule luomupuuvillasta ja kierrätysvillasta"
+        },
+        {
+          "name": "Jeans-Overshirt (undyed)",
+          "type": "paidat",
+          "price": 139.9,
+          "currency": "EUR",
+          "url": "https://www.armedangels.com/de-be/products/jeans-overshirt-undyed",
+          "image": null,
+          "color": "#d9cfb8",
+          "signature": false,
+          "why": "Värjäämätön, joustamaton denim-overshirt luomupuuvillasta"
+        },
+        {
+          "name": "LOUKAA Knit Sweater",
+          "type": "neuleet",
+          "price": 79.9,
+          "currency": "EUR",
+          "url": "https://www.armedangels.com/en/products/loukaa-black",
+          "image": null,
+          "color": "#1f1f1f",
+          "signature": true,
+          "why": "Merkin perusneule luomupuuvillasta, kymmenessä värissä"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.armedangels.com/en-eu/pages/shipping-overview",
+        "https://www.armedangels.com/en-eu/pages/terms-conditions",
+        "https://www.armedangels.com/en/pages/faq",
+        "https://www.armedangels.com/en-at/collections/men-knitwear"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi on vyöhykkeellä 2: 13,95 €, 3–8 arkipäivää, ilmaisen toimituksen rajaa ei mainita. Changemakers-klubin ilmainen toimitus koskee vain DE/AT/NL/BE/CH/FR. Palautusaikaa ja -kulua Suomeen ei löytynyt (palautusportaali vain DE/BE/NL/FR, USA-sivulla 30 pv). Lähetyspaikka = pääkonttori Köln, varastoa ei varmistettu. Hinnat ovat normaalihintoja; osa tuotteista oli tarkistushetkellä alennuksessa. Uutiskirje-/ensitilausalennusta ei löytynyt virallisilta sivuilta."
+    },
+    {
+      "id": "merz-b-schwanen",
+      "name": "Merz b. Schwanen",
+      "country": "DE",
+      "city": "Berliini",
+      "url": "https://www.merzbschwanen.com",
+      "parent": null,
+      "style": "Saksalainen loopwheel-trikoo, henleyt ja vintage-henkiset collegit",
+      "tags": ["t-paidat", "collegit", "neuleet", "housut"],
+      "ship": {
+        "from": "Berliini, DE",
+        "lat": 52.52,
+        "lng": 13.4,
+        "cost": 15.5,
+        "currency": "EUR",
+        "freeOver": 250,
+        "days": [1, 4],
+        "vat": "eu",
+        "returns": "30 pv, palautuskulu (15,50 €) vähennetään hyvityksestä"
+      },
+      "products": [
+        {
+          "name": "2M16LS Cropped Mid-Century Machine Henley (forest)",
+          "type": "t-paidat",
+          "price": 115,
+          "currency": "EUR",
+          "url": "https://www.merzbschwanen.com/products/2m16ls-cropped-mid-century-machine-refined-fit-henley-1",
+          "image": null,
+          "color": "#425020",
+          "signature": true,
+          "why": "Merkin tunnetuin tuote on henley, tämä vanhoilla koneilla neulottu"
+        },
+        {
+          "name": "Diamond-Patterned Cotton Thermal Henley (espresso)",
+          "type": "t-paidat",
+          "price": 135,
+          "currency": "EUR",
+          "url": "https://www.merzbschwanen.com/products/diamond-patterned-cotton-thermal-henley-1",
+          "image": null,
+          "color": "#3a1d0e",
+          "signature": false,
+          "why": "Timanttikuvioinen thermal-henley kerrospukeutumiseen syksyllä"
+        },
+        {
+          "name": "Relaxed Lightweight Raglan Sweatshirt",
+          "type": "collegit",
+          "price": 95,
+          "currency": "EUR",
+          "url": "https://www.merzbschwanen.com/collections/mens-sweatshirts",
+          "image": null,
+          "color": "#9a9a96",
+          "signature": false,
+          "why": "Kevyt raglan-college, merkin edullisin collegemalli"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://merzbschwanen.gorgias.help/en-US/shipping-and-delivery-6724742",
+        "https://merzbschwanen.gorgias.help/en-US/returns-and-refunds-6724407",
+        "https://www.merzbschwanen.com/collections/mens-henleys",
+        "https://www.merzbschwanen.com/collections/mens-sweatshirts"
+      ],
+      "confidence": "medium",
+      "notes": "Suomeen vain DHL Express 15,50 €, ilmainen yli 250 €. Toimitusaika EU:hun 1–3 (help) tai 2–4 (shipping policy) arkipäivää kuriirille luovutuksesta + 1–3 pv käsittely; tähän merkitty 1–4. Kuuluisimmat loopwheel-collegit (165–230 €) ja neuleet (165 €+) ovat yli hintarajan, joten mukana vain henleyt ja kevyt college. Raglan-collegelle ei löytynyt omaa tuotesivua, linkki on kategoriaan. Lähetyspaikka = pääkonttori/lippulaivamyymälä Berliini, verkkovaraston sijaintia ei varmistettu. Alennuskoodeja ei löytynyt virallisilta sivuilta."
+    },
+    {
+      "id": "carhartt-wip",
+      "name": "Carhartt WIP",
+      "country": "DE",
+      "city": "Weil am Rhein",
+      "url": "https://www.carhartt-wip.com/en-fi",
+      "parent": null,
+      "style": "Työvaatteista ammentava katumuotimerkki: canvas-housut, farkut ja collegit",
+      "tags": ["housut", "farkut", "neuleet", "collegit", "takit", "paidat", "t-paidat", "asusteet"],
+      "ship": {
+        "from": "Weil am Rhein, DE",
+        "lat": 47.59,
+        "lng": 7.62,
+        "cost": 7.9,
+        "currency": "EUR",
+        "freeOver": 99,
+        "days": [2, 4],
+        "vat": "eu",
+        "returns": "30 pv, maksuton"
+      },
+      "products": [
+        {
+          "name": "OG Single Knee Pant (Blue, rigid)",
+          "type": "farkut",
+          "price": 110,
+          "currency": "EUR",
+          "url": "https://www.carhartt-wip.com/en-fi/p/og-single-knee-pant-blue-rigid-1131",
+          "image": null,
+          "color": "#1f2a44",
+          "signature": true,
+          "why": "Raskas raakadenim työhousumallissa, merkin tunnetuin lahje"
+        },
+        {
+          "name": "Anglistic Sweater (Speckled Tobacco)",
+          "type": "neuleet",
+          "price": 119,
+          "currency": "EUR",
+          "url": "https://www.carhartt-wip.com/en-ie/c/men-knits",
+          "image": null,
+          "color": "#7a5a3a",
+          "signature": false,
+          "why": "Pilkullinen villasekoiteneule, Carharttin syksyklassikko"
+        },
+        {
+          "name": "Chase Sweatshirt",
+          "type": "collegit",
+          "price": 79,
+          "currency": "EUR",
+          "url": "https://www.carhartt-wip.com/en-fr/c/men-core-products?page=5",
+          "image": null,
+          "color": "#5b4a3a",
+          "signature": false,
+          "why": "Raskas college pienellä C-logolla, merkin perusmallisto"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://services.carhartt-wip.com/en-fi/faq/shipping",
+        "https://services.carhartt-wip.com/en-fi/faq/frequently-asked-questions",
+        "https://www.carhartt-wip.com/en-fi/p/og-single-knee-pant-blue-rigid-1131",
+        "https://www.carhartt-wip.com/en-ie/c/men-knits"
+      ],
+      "confidence": "high",
+      "notes": "Suomen sivuilla: DHL 7,90 €, ilmainen yli 99 €, 2–4 arkipäivää lähetysvahvistuksesta, 30 pv maksuton palautus, minimitilaus 20 €. Lähetyspaikka = pääkonttori Weil am Rhein, varastoa ei varmistettu. Anglistic- ja Chase-hinnat ovat EU-kauppojen (IE/FR) kategoriasivuilta, linkit kategoriaan. Detroit Jacket (179–199 €) ja Michigan Coat ovat yli hintarajan."
+    },
+    {
+      "id": "hessnatur",
+      "name": "hessnatur",
+      "country": "DE",
+      "city": "Butzbach",
+      "url": "https://www.hessnatur.com/de",
+      "parent": null,
+      "style": "Saksalainen luonnonkuitupioneeri: luomupuuvillaa, merinoa ja Rhön-villaa",
+      "tags": ["neuleet", "farkut", "paidat", "housut", "takit", "collegit"],
+      "ship": {
+        "from": "Butzbach, DE",
+        "lat": 50.43,
+        "lng": 8.67,
+        "cost": 14.99,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": null,
+        "vat": "eu",
+        "returns": "30 pv, palautus maksullinen"
+      },
+      "products": [
+        {
+          "name": "Jeans BEN Regular Straight (luomudenim + hamppu)",
+          "type": "farkut",
+          "price": 139.99,
+          "currency": "EUR",
+          "url": "https://www.hessnatur.com/de/jeans-ben-regular-straight/p/5687306",
+          "image": null,
+          "color": "#c9b99a",
+          "signature": true,
+          "why": "Suoralahkeiset farkut luomupuuvillasta ja hampusta"
+        },
+        {
+          "name": "Flanell Hemd Regular (anthrazit)",
+          "type": "paidat",
+          "price": 99.99,
+          "currency": "EUR",
+          "url": "https://www.hessnatur.com/de/flanell-hemd-regular-aus-bio-baumwolle-mit-tencel%E2%84%A2-lyocell/p/57355",
+          "image": null,
+          "color": "#3d3f42",
+          "signature": false,
+          "why": "Lämmin flanellipaita button down -kauluksella syysiltoihin"
+        },
+        {
+          "name": "Strick Pullover Regular (luomumerino + luomupuuvilla)",
+          "type": "neuleet",
+          "price": 149.99,
+          "currency": "EUR",
+          "url": "https://www.hessnatur.com/de/herren/c/herren",
+          "image": null,
+          "color": "#7d97b5",
+          "signature": false,
+          "why": "Pehmeä merino-puuvillaneule, GOTS-sertifioitu"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://service.hessnatur.com/portal/de/kb/articles/welche-versandkosten-fallen-bei-einer-lieferung-innerhalb-der-restlichen-eu-und-in-die-schweiz-an",
+        "https://service.hessnatur.com/portal/de/kb/articles/in-welche-l%C3%A4nder-liefert-hessnatur",
+        "https://www.hessnatur.com/de/agb",
+        "https://www.hessnatur.com/de/jeans-ben-regular-straight/p/5687306"
+      ],
+      "confidence": "medium",
+      "notes": "Suomeen tilataan saksalaisesta verkkokaupasta, DHL, 14,99 € (ohjesivu; AGB:ssä 14,95 €). Ilmaisen toimituksen rajaa EU-maihin ei löytynyt. Toimitusaikaa Suomeen ei löytynyt (AGB: 3–5 päivää yleisesti), siksi days = null. Tuotesivuilla '30 Tage Rückgabe'; palautuksesta peritään kulu, jonka suuruutta Suomeen ei löytynyt. BEN-farkut olivat tarkistushetkellä alessa 69,99 €, normaalihinta 139,99 €. Neuleen hinta on Herren-kategoriasivun otteesta, linkki kategoriaan. Merkki on melko klassinen/perusvaatepainotteinen."
+    }
+  ],
+  "rejected": []
+}

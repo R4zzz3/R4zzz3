@@ -1,0 +1,202 @@
+{
+  "region": "uk-ie",
+  "checked": "2026-10-29",
+  "brands": [
+    {
+      "id": "uskees",
+      "name": "Uskees",
+      "country": "GB",
+      "city": "Manchester",
+      "url": "https://uskees.com",
+      "parent": null,
+      "style": "Manchesterilainen workwear-merkki: luomupuuvillaiset chore-takit ja overshirtit",
+      "tags": ["takit", "paidat", "housut", "neuleet", "t-paidat", "collegit"],
+      "ship": {
+        "from": "Manchester, GB",
+        "lat": 53.48,
+        "lng": -2.24,
+        "cost": 12.99,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [3, 5],
+        "vat": "ddp",
+        "returns": "30 pv Euroopasta, palautuskulut eivät selvinneet"
+      },
+      "products": [
+        {
+          "name": "3001 Overshirt (coriander)",
+          "type": "takit",
+          "price": 103.95,
+          "currency": "EUR",
+          "url": "https://uskees.com/en-eu/products/3001-coriander-button-overshirt",
+          "image": null,
+          "color": "#6b6b3a",
+          "signature": true,
+          "why": "Merkin tunnusvaate: ranskalaisen chore-takin moderni versio"
+        },
+        {
+          "name": "3001 Cord overshirt (brown)",
+          "type": "takit",
+          "price": 122.95,
+          "currency": "EUR",
+          "url": "https://uskees.com/en-eu/collections/overshirts",
+          "image": null,
+          "color": "#5a3e2b",
+          "signature": false,
+          "why": "Vakosamettinen 3001, syksyn lämpimämpi kerros"
+        },
+        {
+          "name": "6016 Founders shirt (barley)",
+          "type": "paidat",
+          "price": 146.95,
+          "currency": "EUR",
+          "url": "https://uskees.com/en-eu/collections/overshirts",
+          "image": null,
+          "color": "#c9b88a",
+          "signature": false,
+          "why": "Paksumpi paitatakki, kerrostettavaksi syksyllä"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Jäseneksi rekisteröityminen avaa alennuksia (summa ei näy sivulla) ja ilmaiset korjaukset",
+          "type": "newsletter",
+          "source": "https://uskees.com/en-us/pages/members",
+          "checked": "2026-10-29",
+          "verified": false
+        }
+      ],
+      "sources": [
+        "https://uskees.co.uk/pages/shipping",
+        "https://uskees.com/en-eu/products/3001-coriander-button-overshirt",
+        "https://uskees.com/en-eu/collections/overshirts",
+        "https://uskees.com/pages/about-us"
+      ],
+      "confidence": "high",
+      "notes": "EU-hinnat (EUR) ovat DDP: verot ja tullit sisältyvät, FedEx 3-5 arkipäivää lähetyksestä, €12,99. EU:lle ei mainittu ilmaisen toimituksen rajaa. 3001 coriander näkyi tuotesivulla €102,95 ja kokoelmasivulla €103,95; käytetty kokoelmahintaa. Cord- ja Founders-tuotteille linkki kokoelmasivulle. Varaston sijainti ei selvinnyt, käytetty Manchesterin studiota."
+    },
+    {
+      "id": "peregrine",
+      "name": "Peregrine",
+      "country": "GB",
+      "city": "Manchester",
+      "url": "https://www.peregrineclothing.co.uk",
+      "parent": null,
+      "style": "Glover-suvun neulemerkki vuodesta 1796, neuleet tehdään omassa tehtaassa Manchesterissa",
+      "tags": ["neuleet", "takit", "paidat"],
+      "ship": {
+        "from": "Manchester, GB",
+        "lat": 53.48,
+        "lng": -2.24,
+        "cost": 12.99,
+        "currency": "EUR",
+        "freeOver": 200,
+        "days": [3, 11],
+        "vat": "ddp",
+        "returns": "21 pv, Euroopasta palautuksesta vähennetään £15"
+      },
+      "products": [
+        {
+          "name": "Ford Crew Jumper",
+          "type": "neuleet",
+          "price": 132.95,
+          "currency": "EUR",
+          "url": "https://www.peregrineclothing.co.uk/products/ford-crew",
+          "image": null,
+          "color": "#5b6342",
+          "signature": true,
+          "why": "Bestseller: merinovillainen pyöreäkaula-aluksinen arkineule"
+        },
+        {
+          "name": "Makers Crew Jumper",
+          "type": "neuleet",
+          "price": 110,
+          "currency": "GBP",
+          "url": "https://www.peregrineclothing.co.uk/products/makers-stitch",
+          "image": null,
+          "color": "#8a8f93",
+          "signature": false,
+          "why": "Kevyt pesty merinoneule, jossa tekijän käsin ommeltu merkki"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.peregrineclothing.co.uk/pages/orders-shipping-and-returns",
+        "https://www.peregrineclothing.co.uk/products/ford-crew?currency=EUR",
+        "https://www.peregrineclothing.co.uk/products/hudson-aran-jumper?currency=EUR",
+        "https://www.peregrineclothing.co.uk/pages/terms"
+      ],
+      "confidence": "medium",
+      "notes": "EU: UPS Standard 3-11 arkipäivää, €12,99, ilmainen yli €200, Peregrine maksaa tullit ja verot (DDP). Kiinteä EUR-kurssi. Tunnetuin Hudson Aran maksaa €162,95, joten se jätettiin pois. Makers Crew oli alessa (£55/€66,95); normaalihinta £110 (rackhams.com ja alennusprosentti), EUR-normaalihintaa ei nähty. Varaston paikka ei selvinnyt, käytetty Manchesterin tehdasta."
+    },
+    {
+      "id": "far-afield",
+      "name": "Far Afield",
+      "country": "GB",
+      "city": "Brighton",
+      "url": "https://farafieldclothing.com",
+      "parent": null,
+      "style": "Brightonilainen merkki: flanellipaidat, kuvioneuleet ja retrohenkiset napit",
+      "tags": ["paidat", "neuleet", "takit", "housut", "asusteet"],
+      "ship": {
+        "from": "Newhaven, East Sussex, GB",
+        "lat": 50.79,
+        "lng": 0.05,
+        "cost": 18,
+        "currency": "EUR",
+        "freeOver": 250,
+        "days": null,
+        "vat": "ddp",
+        "returns": "28 pv täysihintaisille, postikulut asiakkaalle"
+      },
+      "products": [
+        {
+          "name": "Larry Shirt (Mustang check)",
+          "type": "paidat",
+          "price": 96.95,
+          "currency": "EUR",
+          "url": "https://farafieldclothing.com/products/mustang-check-larry-shirt-brown",
+          "image": null,
+          "color": "#6b4e35",
+          "signature": true,
+          "why": "Merkin pitkäikäisin malli: harjattu flanelliruutupaita"
+        },
+        {
+          "name": "Bagh Motif Jumper",
+          "type": "neuleet",
+          "price": 122.95,
+          "currency": "EUR",
+          "url": "https://farafieldclothing.com/collections/clothing",
+          "image": null,
+          "color": "#8a6a3f",
+          "signature": false,
+          "why": "Syksyn 2026 kuvioneule, lämmin ja värikäs"
+        },
+        {
+          "name": "Mod Button Down Shirt",
+          "type": "paidat",
+          "price": 70,
+          "currency": "GBP",
+          "url": "https://farafieldclothing.com/products/mod-button-down-shirt-stone",
+          "image": null,
+          "color": "#c8bfa8",
+          "signature": false,
+          "why": "Harjatusta dobby-puuvillasta tehty button down -paita"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://farafieldclothing.com/pages/shipping",
+        "https://farafieldclothing.com/pages/faq",
+        "https://farafieldclothing.com/collections/clothing?currency=EUR",
+        "https://farafieldclothing.com/products/mustang-check-larry-shirt-brown?currency=EUR"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi on Europe 2 -vyöhykkeellä: €18, ilmainen yli €250, FedEx International Connect Plus. Toimitussivun mukaan EU-hinnat sisältävät tullit ja verot, eikä perillä tule lisämaksuja (DDP). Toimitusaikaa EU:hun ei kerrottu (days null). Mod-paidan hinta (£70) on hakutuloksen tiivistelmästä, EUR-hintaa ei nähty. Bagh-neuleen linkki on kokoelmasivulle."
+    }
+  ],
+  "rejected": [
+    { "name": "Community Clothing", "reason": "Toimittaa vain Isoon-Britanniaan (ja kanaalisaarille/USA:han), ei Suomeen. Selvedge-farkut £142 ylittäisivät myös 150 € rajan." }
+  ]
+}

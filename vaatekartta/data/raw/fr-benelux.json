@@ -1,0 +1,394 @@
+{
+  "region": "fr-benelux",
+  "checked": "2026-10-29",
+  "brands": [
+    {
+      "id": "asphalte",
+      "name": "Asphalte",
+      "country": "FR",
+      "city": "Lyon",
+      "url": "https://www.asphalte.com/en",
+      "parent": null,
+      "style": "Lyonilainen ennakkotilausmerkki: yhteissuunnitellut perusvaatteet, laatu edellä",
+      "tags": [
+        "farkut",
+        "neuleet",
+        "paidat",
+        "takit",
+        "t-paidat",
+        "housut"
+      ],
+      "ship": {
+        "from": "Cholet, FR",
+        "lat": 47.06,
+        "lng": -0.88,
+        "cost": 9,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": null,
+        "vat": "eu",
+        "returns": "14 pv, maksuton Suomesta"
+      },
+      "products": [
+        {
+          "name": "The Ultimate Jeans",
+          "type": "farkut",
+          "price": 139,
+          "currency": "EUR",
+          "url": "https://www.asphalte.com/en/h/products/the-ultimate-jeans-v8",
+          "image": null,
+          "color": "#28324a",
+          "signature": true,
+          "why": "Merkin tunnetuin farkku, italialaista luomudenimiä, yli 900 arviota"
+        },
+        {
+          "name": "The Perfect Jumper",
+          "type": "neuleet",
+          "price": 139,
+          "currency": "EUR",
+          "url": "https://www.asphalte.com/en/h/products/the-perfect-jumper-stock",
+          "image": null,
+          "color": "#1f2a44",
+          "signature": false,
+          "why": "Merinovillaneule, jota on ennakkotilattu yli 60 000 kertaa"
+        },
+        {
+          "name": "The Canvas Overshirt",
+          "type": "paidat",
+          "price": 139,
+          "currency": "EUR",
+          "url": "https://www.asphalte.com/en/h/products/the-canvas-overshirt",
+          "image": null,
+          "color": "#7a6a4f",
+          "signature": false,
+          "why": "Ranskassa kudottu 310 g canvas, kerrospukeutumiseen tehty overshirt"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://help.asphalte.com/en-US/delivery-86274",
+        "https://help.asphalte.com/en-US/returning-an-item-for-an-exchange-or-refund-86282",
+        "https://www.asphalte.com/en/h/collections/stock",
+        "https://www.asphalte.com/en/h/products/the-ultimate-jeans-v8",
+        "https://www.asphalte.com/en/h/products/the-canvas-overshirt"
+      ],
+      "confidence": "medium",
+      "notes": "Hinnat ovat varastotuotteiden normaalihintoja (ennakkotilaus usein 10-40 € halvempi). Suomeen kotiinkuljetus 9 €, ei ilmaisen toimituksen rajaa. EU-toimitusaikaa ei ilmoiteta (vain UK 5-7 pv, EU:n ulkopuoli max 11 pv), siksi days = null; ennakkotilaukset toimitetaan viikkojen-kuukausien päästä. Lähtöpaikka Cholet = logistiikkakumppani LOGTEX, joka on palautusosoite; pääkonttori Lyon. Merkki ei tarjoa alennuskoodeja."
+    },
+    {
+      "id": "bonnegueule",
+      "name": "Bonnegueule",
+      "country": "FR",
+      "city": "Paris",
+      "url": "https://bonnegueule.fr/fr-eu",
+      "parent": null,
+      "style": "Pariisilainen miestenmerkki: selvedge-farkut, flanelli ja laatumateriaalit",
+      "tags": [
+        "farkut",
+        "paidat",
+        "neuleet",
+        "takit",
+        "housut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Herblay, FR",
+        "lat": 48.99,
+        "lng": 2.16,
+        "cost": 10,
+        "currency": "EUR",
+        "freeOver": 200,
+        "days": [
+          3,
+          8
+        ],
+        "vat": "eu",
+        "returns": "15 pv, asiakas maksaa palautuksen"
+      },
+      "products": [
+        {
+          "name": "Jean Alberto brut",
+          "type": "farkut",
+          "price": 145,
+          "currency": "EUR",
+          "url": "https://bonnegueule.fr/fr-eu/products/jean-brut-alberto",
+          "image": null,
+          "color": "#1b2238",
+          "signature": true,
+          "why": "Merkin myydyin farkku vuodesta 2014: Candiani-selvedge raakana"
+        },
+        {
+          "name": "Chemise Volpaia (flanelle bleu ciel)",
+          "type": "paidat",
+          "price": 140,
+          "currency": "EUR",
+          "url": "https://bonnegueule.fr/en-eu/products/chemise-volpaia-flanelle-bleu-ciel",
+          "image": null,
+          "color": "#9db4cf",
+          "signature": false,
+          "why": "Portugalilainen puuvillaflanelli syksyyn, italialainen avokaulus"
+        },
+        {
+          "name": "Jean Nîmes indigo",
+          "type": "farkut",
+          "price": 140,
+          "currency": "EUR",
+          "url": "https://bonnegueule.fr/collections/jeans",
+          "image": null,
+          "color": "#3a4f7a",
+          "signature": false,
+          "why": "Suora rento malli italialaisesta pestystä denimistä"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://bonnegueule.fr/fr-eu/pages/faq",
+        "https://bonnegueule.fr/fr-int/pages/livraison",
+        "https://bonnegueule.fr/fr-int/pages/faq-retours-echanges",
+        "https://bonnegueule.fr/fr-eu/products/jean-brut-alberto",
+        "https://bonnegueule.fr/en-eu/products/chemise-volpaia-flanelle-bleu-ciel",
+        "https://bonnegueule.fr/collections/jeans"
+      ],
+      "confidence": "high",
+      "notes": "EU: Colissimo 10 €, ilmainen yli 200 €, 3-8 arkipäivää. Palautus 15 pv, EU:sta asiakkaan kustannuksella (vähennetään hyvityksestä). Jean Nîmes indigo -hinta (140 €) kokoelmasivulta, linkki kokoelmaan koska tuotesivua ei haettu. Lähtöpaikka Herblay = logistiikkakumppani J&A Global Logistics (palautusosoite). Useimmat neuleet ja overshirtit yli 150 € (esim. Surchemise Milo 210-250 €), siksi ei listattu. Uutiskirjealennusta ei näkynyt FAQ:ssa."
+    },
+    {
+      "id": "saint-james",
+      "name": "Saint James",
+      "country": "FR",
+      "city": "Saint-James",
+      "url": "https://eu.saint-james.com",
+      "parent": null,
+      "style": "Normandialainen neulomo vuodesta 1889: aidot raitapaidat ja merimiesneuleet",
+      "tags": [
+        "t-paidat",
+        "neuleet",
+        "takit",
+        "paidat"
+      ],
+      "ship": {
+        "from": "Saint-James, FR",
+        "lat": 48.52,
+        "lng": -1.32,
+        "cost": 7,
+        "currency": "EUR",
+        "freeOver": 170,
+        "days": null,
+        "vat": "eu",
+        "returns": "30 pv, DHL-palautustarra"
+      },
+      "products": [
+        {
+          "name": "Minquiers Breton shirt",
+          "type": "t-paidat",
+          "price": 85,
+          "currency": "EUR",
+          "url": "https://eu.saint-james.com/products/minquiers-unisex-striped-sailor-shirt-regular-fit-light-cotton-marine-ecru",
+          "image": null,
+          "color": "#1d2a4d",
+          "signature": true,
+          "why": "Merkin klassinen unisex-raitapaita, 13 värivaihtoehtoa"
+        },
+        {
+          "name": "Méridien Breton shirt",
+          "type": "t-paidat",
+          "price": 95,
+          "currency": "EUR",
+          "url": "https://eu.saint-james.com/collections/sailor-striped-shirts",
+          "image": null,
+          "color": "#f2ece0",
+          "signature": false,
+          "why": "Paksumpi kampapuuvillainen raitapaita, sopii villatakin alle"
+        },
+        {
+          "name": "Naval sailor shirt",
+          "type": "t-paidat",
+          "price": 119,
+          "currency": "EUR",
+          "url": "https://eu.saint-james.com/collections/sailor-striped-shirts",
+          "image": null,
+          "color": "#f5f3ee",
+          "signature": false,
+          "why": "Laivaston mallin mukainen raskas raitapaita veneaukkokauluksella"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://eu.saint-james.com/en-gb/pages/shipping-policy",
+        "https://faq-eu.saint-james.com/hc/en-150/articles/44659107110801-What-are-the-shipping-fees",
+        "https://eu.saint-james.com/en-is/pages/return-policy",
+        "https://eu.saint-james.com/collections/sailor-striped-shirts",
+        "https://eu.saint-james.com/products/minquiers-unisex-striped-sailor-shirt-regular-fit-light-cotton-marine-ecru"
+      ],
+      "confidence": "medium",
+      "notes": "EU-vakiotoimitus 7 € (<170 €), ilmainen yli 170 €; express 14/10 €. Toimitusaikaa ei ilmoiteta (näytetään kassalla, FedEx/DHL), siksi days = null. Palautus 30 pv DHL Express -tarralla; palautuksen maksuttomuutta EU:sta ei sanota suoraan. Kaikki neuleet yli 150 € (Matelot 175 €, Cancale 189 €), kaban selvästi yli. Méridien- ja Naval-hinnat kokoelmasivulta, linkki kokoelmaan. Lähtöpaikaksi oletettu tehdas Saint-James, Normandia."
+    },
+    {
+      "id": "armor-lux",
+      "name": "Armor-Lux",
+      "country": "FR",
+      "city": "Quimper",
+      "url": "https://www.armorlux.com/en",
+      "parent": null,
+      "style": "Bretagnelainen merimiesvaatteiden klassikko: raitapaidat ja paksut kalastajaneuleet",
+      "tags": [
+        "t-paidat",
+        "neuleet",
+        "takit",
+        "collegit",
+        "housut"
+      ],
+      "ship": {
+        "from": "Quimper, FR",
+        "lat": 47.99,
+        "lng": -4.1,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          2,
+          7
+        ],
+        "vat": "eu",
+        "returns": "30 pv, asiakas maksaa palautuksen"
+      },
+      "products": [
+        {
+          "name": "Fouesnant fisherman's jumper - wool",
+          "type": "neuleet",
+          "price": 149,
+          "currency": "EUR",
+          "url": "https://www.armorlux.com/en/products/fouesnant-plain-fishermans-jumper-wool-navire-homme-44145",
+          "image": null,
+          "color": "#1e2b4a",
+          "signature": false,
+          "why": "Tiivis 100 % villainen kalastajaneule olkanapituksella"
+        },
+        {
+          "name": "Marinière Héritage - coton épais",
+          "type": "t-paidat",
+          "price": 69,
+          "currency": "EUR",
+          "url": "https://www.armorlux.com/collections/mariniere-homme-10022",
+          "image": null,
+          "color": "#f1ede4",
+          "signature": true,
+          "why": "Merkin tunnetuin paksu raitapaita, lähes 20 000 arviota"
+        },
+        {
+          "name": "Striped original fisherman jumper Fouesnant",
+          "type": "neuleet",
+          "price": 149,
+          "currency": "EUR",
+          "url": "https://www.armorlux.com/en/products/striped-original-fisherman-jumper-fouesnant-wool-nature-rich-navy-homme-44149",
+          "image": null,
+          "color": "#e9e3d3",
+          "signature": false,
+          "why": "Raidallinen villainen merimiesneule, bretagnelainen alkuperäismalli"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.armorlux.com/en/pages/faq",
+        "https://www.armorlux.com/en/pages/terms-conditions-of-sale",
+        "https://www.armorlux.com/en/collections/men",
+        "https://www.armorlux.com/collections/mariniere-homme-10022",
+        "https://www.armorlux.com/en/products/fouesnant-plain-fishermans-jumper-wool-navire-homme-44145",
+        "https://www.armorlux.com/en/collections/caban-men"
+      ],
+      "confidence": "medium",
+      "notes": "Postikulua Suomeen ei julkaista: se lasketaan kassalla tilauksen summan mukaan (cost = null). Ilmainen toimitus yli 100 € koskee Ranskaa; Suomen rajaa ei löytynyt. Eurooppaan 2-7 arkipäivää. Palautus 30 pv; ilmainen vain FR/DE/BE (tuotesivulla myös ES/LU), muualta kulut vähennetään hyvityksestä. Kabanit 249-449 €, kaikki yli rajan. Marinière Héritage -hinta kokoelmasivulta. Pääkonttori/tehdas Quimper; varaston sijaintia ei varmistettu."
+    },
+    {
+      "id": "le-minor",
+      "name": "Le Minor",
+      "country": "FR",
+      "city": "Guidel",
+      "url": "https://leminor.fr",
+      "parent": null,
+      "style": "Bretagnelainen neulomo vuodesta 1922: raitapaidat kudotaan omissa ateljeissa",
+      "tags": [
+        "t-paidat",
+        "neuleet",
+        "takit"
+      ],
+      "ship": {
+        "from": "Guidel, FR",
+        "lat": 47.79,
+        "lng": -3.49,
+        "cost": 12,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          4,
+          6
+        ],
+        "vat": "eu",
+        "returns": "14 pv, asiakas maksaa palautuksen"
+      },
+      "products": [
+        {
+          "name": "Marinière classique blanche et marine",
+          "type": "t-paidat",
+          "price": 85,
+          "currency": "EUR",
+          "url": "https://leminor.fr/products/mariniere-classique-pour-homme-100-coton",
+          "image": null,
+          "color": "#f4f2ec",
+          "signature": true,
+          "why": "Vosgeissa kehrätty, 60-luvun koneilla Guidelissa neulottu raitapaita"
+        },
+        {
+          "name": "Marinière en coton épais écru et bleu marine",
+          "type": "t-paidat",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://leminor.fr/collections/marinieres-homme",
+          "image": null,
+          "color": "#e8e1cf",
+          "signature": false,
+          "why": "Paksu syysraitapaita, lämmin kerrospukeutumiseen"
+        },
+        {
+          "name": "Marinière Henley écru et marine",
+          "type": "t-paidat",
+          "price": 105,
+          "currency": "EUR",
+          "url": "https://leminor.fr/collections/marinieres-homme",
+          "image": null,
+          "color": "#ece6d6",
+          "signature": false,
+          "why": "Henley-kauluksinen raitapaita, raitapaidan rennompi versio"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://leminor.fr/pages/expeditions-et-livraisons",
+        "https://leminor.fr/pages/faq",
+        "https://leminor.fr/collections/marinieres-homme",
+        "https://leminor.fr/products/mariniere-classique-pour-homme-100-coton",
+        "https://leminor.fr/collections/pull-marin-homme"
+      ],
+      "confidence": "high",
+      "notes": "Suomi kuuluu ryhmään 'Reste de l'Europe': 12 € kaikille tilauksille, ei ilmaisen toimituksen rajaa, 4-6 pv Colissimo Europe. Palautus 14 pv; Suomesta palautus aina asiakkaan kustannuksella. Pull marin -neuleet 195-275 €, kaikki yli rajan. Paksun ja Henley-raitapaidan hinnat kokoelmasivulta."
+    }
+  ],
+  "rejected": [
+    {
+      "name": "1083",
+      "reason": "Toimittaa vain Ranskaan, naapurimaihin ja DOM-TOM-alueille, ei Suomeen; selvedge-farkku 210 €"
+    },
+    {
+      "name": "Le Laboureur",
+      "reason": "Ei omaa verkkokauppaa (lelaboureur.com ohjaa jälleenmyyjille); hinnat vain jälleenmyyjiltä"
+    },
+    {
+      "name": "Vetra",
+      "reason": "Työtakit 150-230 € ilman ALV:ta (sivu näyttää veroton hinnan); halvin overshirt 125 € + ALV ylittää 150 €"
+    },
+    {
+      "name": "Atelier Tuffery",
+      "reason": "Farkut 169-260 €, kaikki yli 150 €"
+    }
+  ]
+}
