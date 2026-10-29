@@ -10,7 +10,15 @@
       "url": "https://www.armedangels.com/en-eu",
       "parent": null,
       "style": "Kölniläinen reilun muodin merkki: luomupuuvillaa, kierrätysvillaa ja pehmeitä neuleita",
-      "tags": ["neuleet", "takit", "paidat", "farkut", "housut", "t-paidat", "collegit"],
+      "tags": [
+        "neuleet",
+        "takit",
+        "paidat",
+        "farkut",
+        "housut",
+        "t-paidat",
+        "collegit"
+      ],
       "ship": {
         "from": "Köln, DE",
         "lat": 50.94,
@@ -18,7 +26,10 @@
         "cost": 13.95,
         "currency": "EUR",
         "freeOver": null,
-        "days": [3, 8],
+        "days": [
+          3,
+          8
+        ],
         "vat": "eu",
         "returns": null
       },
@@ -86,7 +97,12 @@
       "url": "https://www.merzbschwanen.com",
       "parent": null,
       "style": "Saksalainen loopwheel-trikoo, henleyt ja vintage-henkiset collegit",
-      "tags": ["t-paidat", "collegit", "neuleet", "housut"],
+      "tags": [
+        "t-paidat",
+        "collegit",
+        "neuleet",
+        "housut"
+      ],
       "ship": {
         "from": "Berliini, DE",
         "lat": 52.52,
@@ -94,7 +110,10 @@
         "cost": 15.5,
         "currency": "EUR",
         "freeOver": 250,
-        "days": [1, 4],
+        "days": [
+          1,
+          4
+        ],
         "vat": "eu",
         "returns": "30 pv, palautuskulu (15,50 €) vähennetään hyvityksestä"
       },
@@ -151,7 +170,16 @@
       "url": "https://www.carhartt-wip.com/en-fi",
       "parent": null,
       "style": "Työvaatteista ammentava katumuotimerkki: canvas-housut, farkut ja collegit",
-      "tags": ["housut", "farkut", "neuleet", "collegit", "takit", "paidat", "t-paidat", "asusteet"],
+      "tags": [
+        "housut",
+        "farkut",
+        "neuleet",
+        "collegit",
+        "takit",
+        "paidat",
+        "t-paidat",
+        "asusteet"
+      ],
       "ship": {
         "from": "Weil am Rhein, DE",
         "lat": 47.59,
@@ -159,7 +187,10 @@
         "cost": 7.9,
         "currency": "EUR",
         "freeOver": 99,
-        "days": [2, 4],
+        "days": [
+          2,
+          4
+        ],
         "vat": "eu",
         "returns": "30 pv, maksuton"
       },
@@ -216,7 +247,14 @@
       "url": "https://www.hessnatur.com/de",
       "parent": null,
       "style": "Saksalainen luonnonkuitupioneeri: luomupuuvillaa, merinoa ja Rhön-villaa",
-      "tags": ["neuleet", "farkut", "paidat", "housut", "takit", "collegit"],
+      "tags": [
+        "neuleet",
+        "farkut",
+        "paidat",
+        "housut",
+        "takit",
+        "collegit"
+      ],
       "ship": {
         "from": "Butzbach, DE",
         "lat": 50.43,
@@ -272,7 +310,552 @@
       ],
       "confidence": "medium",
       "notes": "Suomeen tilataan saksalaisesta verkkokaupasta, DHL, 14,99 € (ohjesivu; AGB:ssä 14,95 €). Ilmaisen toimituksen rajaa EU-maihin ei löytynyt. Toimitusaikaa Suomeen ei löytynyt (AGB: 3–5 päivää yleisesti), siksi days = null. Tuotesivuilla '30 Tage Rückgabe'; palautuksesta peritään kulu, jonka suuruutta Suomeen ei löytynyt. BEN-farkut olivat tarkistushetkellä alessa 69,99 €, normaalihinta 139,99 €. Neuleen hinta on Herren-kategoriasivun otteesta, linkki kategoriaan. Merkki on melko klassinen/perusvaatepainotteinen."
+    },
+    {
+      "id": "zara",
+      "name": "Zara",
+      "country": "ES",
+      "city": "Arteixo",
+      "url": "https://www.zara.com/fi/fi/",
+      "parent": "Inditex",
+      "style": "Espanjalainen pikamuotijätti; miesten villakangastakit ja overshirtit edullisesti",
+      "tags": [
+        "takit",
+        "neuleet",
+        "farkut",
+        "paidat",
+        "housut",
+        "t-paidat",
+        "collegit"
+      ],
+      "ship": {
+        "from": "Arteixo, ES",
+        "lat": 43.3,
+        "lng": -8.51,
+        "cost": 4.95,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          3,
+          5
+        ],
+        "vat": "eu",
+        "returns": "30 pv; myymälään maksuton, noutopisteen kautta 2,95 €"
+      },
+      "products": [
+        {
+          "name": "Villakangastakki, Regular Fit",
+          "type": "takit",
+          "price": 119,
+          "currency": "EUR",
+          "url": "https://www.zara.com/fi/fi/miehet-l534.html",
+          "image": null,
+          "color": "#3b3a38",
+          "signature": true,
+          "why": "Edullinen villakangastakki syksyyn ja talveen"
+        },
+        {
+          "name": "Kaksirivinen villakangastakki vyöllä",
+          "type": "takit",
+          "price": 99.95,
+          "currency": "EUR",
+          "url": "https://www.zara.com/fi/fi/miehet-l534.html",
+          "image": null,
+          "color": "#7b6450",
+          "signature": false,
+          "why": "Kaksirivinen villakangastakki, lähin peacoat-henkinen valinta"
+        },
+        {
+          "name": "Vetoketjullinen vakosamettipäällyspaita",
+          "type": "paidat",
+          "price": 59.95,
+          "currency": "EUR",
+          "url": "https://www.zara.com/fi/fi/miehet-l534.html",
+          "image": null,
+          "color": "#6b5a43",
+          "signature": false,
+          "why": "Vakosamettinen overshirt vetoketjulla kerrospukeutumiseen"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.zara.com/fi/en/help-center/DeliveryMethods",
+        "https://www.zara.com/fi/fi/help-center/HowToReturn",
+        "https://www.zara.com/fi/fi/miehet-l534.html"
+      ],
+      "confidence": "low",
+      "notes": "Zaran sivut palauttavat hakurobotille 403, joten hinnat ovat hakukoneen otteesta Suomen miesten kategoriasivulta (ajankohta tuntematon, otteessa oli myös kesätuotteita); tuotekohtaisia linkkejä ei saatu, linkit kategoriaan. Tuotteiden saatavuus vaihtuu nopeasti. Kotiinkuljetus 4,95 € (3–5 arkipäivää) tai 9,95 € (2–3 pv); toimitus Zara-myymälään maksuton. Ilmaisen toimituksen rajaa ei mainita ohjesivulla. Lähetyspaikka = Inditexin pääkonttori Arteixo, varastoa ei varmistettu. Espanjan sivun otteessa Regular fit 100 % wool overshirt 129 € ja Check wool blend overshirt 79,95 € (ES-hinnat)."
+    },
+    {
+      "id": "nikin",
+      "name": "NIKIN",
+      "country": "CH",
+      "city": "Lenzburg",
+      "url": "https://nikin.com/en-eu",
+      "parent": null,
+      "style": "Sveitsiläinen kestävän muodin merkki: jokaisesta tuotteesta istutetaan puu",
+      "tags": [
+        "t-paidat",
+        "collegit",
+        "paidat",
+        "takit",
+        "neuleet",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Lenzburg, CH (EU-tilaukset Saksan varastosta)",
+        "lat": 47.39,
+        "lng": 8.18,
+        "cost": 12.9,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          2,
+          5
+        ],
+        "vat": "eu",
+        "returns": "20 pv, palautuskulut asiakas maksaa"
+      },
+      "products": [
+        {
+          "name": "TreePlanter Overshirt Corduroy (Grape Leaf)",
+          "type": "takit",
+          "price": 99.9,
+          "currency": "EUR",
+          "url": "https://nikinclothing.com/products/treeplanter-overshirt-corduroy-grape-leaf",
+          "image": null,
+          "color": "#5c6440",
+          "signature": false,
+          "why": "Rento vakosamettinen overshirt, yksi puu istutetaan per tuote"
+        },
+        {
+          "name": "TreePullover Cosy (Anthracite Mel)",
+          "type": "collegit",
+          "price": 129.9,
+          "currency": "EUR",
+          "url": "https://en.nikinclothing.com/products/treepullover-cosy-1",
+          "image": null,
+          "color": "#4a4a4c",
+          "signature": false,
+          "why": "Luomupuuvillainen college, valmistettu kokonaan Sveitsissä"
+        },
+        {
+          "name": "TreePolo (Black)",
+          "type": "t-paidat",
+          "price": 74.9,
+          "currency": "EUR",
+          "url": "https://nikinclothing.com/products/treepolo-black",
+          "image": null,
+          "color": "#1c1c1c",
+          "signature": true,
+          "why": "Merkin myydyimpiä: luomupuuvillapikee kirjailtu puu rinnassa"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://nikin.com/en-eu/pages/faqs",
+        "https://www.lsretail.com/customers/nikin",
+        "https://nikinclothing.com/products/treeplanter-overshirt-corduroy-grape-leaf",
+        "https://en.nikinclothing.com/products/treepullover-cosy-1"
+      ],
+      "confidence": "medium",
+      "notes": "Nykyinen FAQ (nikin.com/en-eu): muut EU-maat 12,90 €, 2–5 arkipäivää, palautus 20 pv omalla kustannuksella. Vanhemmilla nikinclothing.com-tuotesivuilla mainittiin ilmainen toimitus yli 100 € ja 4,90 € muualle Eurooppaan, mutta nykyinen FAQ ei mainitse rajaa, joten freeOver = null. EU-tilaukset lähetetään ulkoisesta varastosta Saksassa (LS Retail -case), joten vat = eu; varaston kaupunkia ei löytynyt, koordinaatit pääkonttorin (Lenzburg). Tuotehinnat vanhemman nikinclothing.com-domainin sivuilta; overshirt oli alessa 79,90 €, normaalihinta 99,90 €."
+    },
+    {
+      "id": "ecoalf",
+      "name": "Ecoalf",
+      "country": "ES",
+      "city": "Madrid",
+      "url": "https://ecoalf.com",
+      "parent": null,
+      "style": "Madridilainen merkki, joka tekee vaatteita kierrätetystä muovista, villasta ja verkoista",
+      "tags": [
+        "takit",
+        "neuleet",
+        "paidat",
+        "housut",
+        "collegit",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Madrid, ES",
+        "lat": 40.42,
+        "lng": -3.7,
+        "cost": 8,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          3,
+          5
+        ],
+        "vat": "eu",
+        "returns": "30 pv, palautus 4 € Euroopassa"
+      },
+      "products": [
+        {
+          "name": "Diluvio Jacket (navy)",
+          "type": "takit",
+          "price": 149.9,
+          "currency": "EUR",
+          "url": "https://ecoalf.com/fr/collections/best-sellers-man",
+          "image": null,
+          "color": "#2e3b55",
+          "signature": true,
+          "why": "Myydyin miesten takki, tehty kierrätysmateriaaleista"
+        },
+        {
+          "name": "Yeclo Sweater (light grey)",
+          "type": "neuleet",
+          "price": 149.9,
+          "currency": "EUR",
+          "url": "https://ecoalf.com/fr/collections/best-sellers-man",
+          "image": null,
+          "color": "#b8b8b4",
+          "signature": false,
+          "why": "Bestseller-neule harmaana melanssina syksyyn"
+        },
+        {
+          "name": "William Shirt (steel blue)",
+          "type": "paidat",
+          "price": 109.9,
+          "currency": "EUR",
+          "url": "https://ecoalf.com/en/products/william-shirt-man-steel-blue-aw26",
+          "image": null,
+          "color": "#4f6d8f",
+          "signature": false,
+          "why": "Paita regeneratiivisesta ja kierrätetystä puuvillasta"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://ecoalf.com/de/products/petrusalf-knit-man-deep-navy-aw24",
+        "https://ecoalf.com/fr/collections/best-sellers-man",
+        "https://ecoalf.com/en/products/william-shirt-man-steel-blue-aw26",
+        "https://ecoalf.com/collections/hombre"
+      ],
+      "confidence": "medium",
+      "notes": "Toimitustiedot saksankieliseltä tuotesivulta: 'Versand in Europa 8 €', 3–5 arkipäivää, palautus 4 € Euroopassa, 30 pv. Ilmainen toimitus mainitaan vain tietyille maille (DE/NL/AT/CH/UK yli 250 €, FR/IT/PT yli 200 €), ei Suomelle, joten freeOver = null. Huom: en-int-kaupan hinnat ovat noin 10 % EU-hintoja korkeampia; tässä EU-hinnat (FR/ES/en). Diluvio ja Yeclo hinnat bestseller-listauksesta, linkki listaukseen. Useimmat takit ja villaneuleet 160–400 €, eli yli rajan. Lähetyspaikka = pääkonttori Madrid, varastoa ei varmistettu."
+    },
+    {
+      "id": "reet-aus",
+      "name": "Reet Aus",
+      "country": "EE",
+      "city": "Tallinna",
+      "url": "https://www.reetaus.com/en-fi",
+      "parent": null,
+      "style": "Tallinnalainen upcycling-merkki: vaatteet tehtaiden ylijäämäkankaista (UPMADE)",
+      "tags": [
+        "t-paidat",
+        "paidat",
+        "farkut",
+        "neuleet",
+        "collegit",
+        "takit"
+      ],
+      "ship": {
+        "from": "Tallinna, EE",
+        "lat": 59.44,
+        "lng": 24.73,
+        "cost": 7.99,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          3,
+          6
+        ],
+        "vat": "eu",
+        "returns": "14 pv"
+      },
+      "products": [
+        {
+          "name": "Up-shirt for Men, Arrow (dark blue / light green)",
+          "type": "t-paidat",
+          "price": 50,
+          "currency": "EUR",
+          "url": "https://www.reetaus.com/collections/men",
+          "image": null,
+          "color": "#1f2b45",
+          "signature": true,
+          "why": "Merkin tunnetuin nuolikuvioinen up-shirt ylijäämäkankaasta"
+        },
+        {
+          "name": "Denim Shirt for Men (dark blue)",
+          "type": "paidat",
+          "price": 120,
+          "currency": "EUR",
+          "url": "https://www.reetaus.com/collections/men",
+          "image": null,
+          "color": "#1e2a44",
+          "signature": false,
+          "why": "Raakadenimpaita ylijäämäkankaasta, tummuu käytössä omaksi"
+        },
+        {
+          "name": "Men's seamless turtleneck sweater (dark blue)",
+          "type": "neuleet",
+          "price": 110,
+          "currency": "EUR",
+          "url": "https://www.reetaus.com/collections/for-men",
+          "image": null,
+          "color": "#1d2740",
+          "signature": false,
+          "why": "Saumaton poolopaitaneule kierrätyslangasta"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ilmainen toimitus yli 130 € tilauksiin AUS Community -jäsenille",
+          "type": "newsletter",
+          "source": "https://www.reetaus.com/en-fi/policies/shipping-policy",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://www.reetaus.com/en-fi/policies/shipping-policy",
+        "https://www.reetaus.com/collections/men",
+        "https://www.reetaus.com/collections/for-men",
+        "https://www.reetaus.com/en-fi/products/up-shirt-for-men-white"
+      ],
+      "confidence": "high",
+      "notes": "Suomi = vyöhyke C: SmartPosti-pakettiautomaatti 7,99 € tai DPD-kotiinkuljetus 19,99 €, 3–4 arkipäivää + 1–2 pv käsittely (days 3–6). Lähetys Tallinnan Studio Storesta. Palautuksesta ilmoitettava 14 pv sisällä; palautuskulua Suomeen ei mainita. Turtleneck-neule oli alessa 95 €, normaalihinta 110 €. Raakadenimfarkut (199–295 €) ovat yli rajan; Flared Jeans for Men 135 € olisi vaihtoehto."
+    },
+    {
+      "id": "portuguese-flannel",
+      "name": "Portuguese Flannel",
+      "country": "PT",
+      "city": "Vila do Conde",
+      "url": "https://www.portugueseflannel.com",
+      "parent": null,
+      "style": "Neljännen polven perheyritys Pohjois-Portugalista: flanellipaidat ja overshirtit",
+      "tags": [
+        "paidat",
+        "takit",
+        "housut"
+      ],
+      "ship": {
+        "from": "Aveleda, Vila do Conde, PT",
+        "lat": 41.37,
+        "lng": -8.7,
+        "cost": 0,
+        "currency": "EUR",
+        "freeOver": 0,
+        "days": null,
+        "vat": "eu",
+        "returns": "Palautus sähköpostilla pyydettävällä lomakkeella, vain merkin palautuslipulla"
+      },
+      "products": [
+        {
+          "name": "Cervo (flanellipaita)",
+          "type": "paidat",
+          "price": 137,
+          "currency": "EUR",
+          "url": "https://www.portugueseflannel.com/",
+          "image": null,
+          "color": "#6e4b33",
+          "signature": true,
+          "why": "Merkin ydintä: portugalilainen flanellipaita, tehty Portugalissa"
+        },
+        {
+          "name": "Cedar – Brown/Blue (flanellipaita)",
+          "type": "paidat",
+          "price": 137,
+          "currency": "EUR",
+          "url": "https://www.portugueseflannel.com/",
+          "image": null,
+          "color": "#5a4636",
+          "signature": false,
+          "why": "Ruskea-sininen ruutuflanelli syksyn kerrospukeutumiseen"
+        },
+        {
+          "name": "Denim Shirt",
+          "type": "paidat",
+          "price": 125,
+          "currency": "EUR",
+          "url": "https://www.portugueseflannel.com/",
+          "image": null,
+          "color": "#2c3e5c",
+          "signature": false,
+          "why": "Klassinen denimpaita, käy myös kevyenä overshirtinä"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.portugueseflannel.com/",
+        "https://www.portugueseflannel.com/products/red-wool",
+        "https://www.portugueseflannel.com/products/cornelius"
+      ],
+      "confidence": "medium",
+      "notes": "Tuotesivujen mukaan 'Express Worldwide Delivery by DPD, DHL and FEDEX – Europe: Free', joten toimitus Suomeen merkitty maksuttomaksi (cost 0, freeOver 0). Toimitusaikaa arkipäivinä ei löytynyt (days = null). Palautusaikaa ei löytynyt; palautus pyydetään sähköpostilla. Lähetyspaikka = palautusosoite Aveleda, Vila do Conde. Tuotteille ei saatu omia URL-osoitteita, hinnat etusivulta. Villaoverhirtit (187–319 €) ja Embroidery Flannel (162 €) ovat yli rajan."
+    },
+    {
+      "id": "brava-fabrics",
+      "name": "Brava Fabrics",
+      "country": "ES",
+      "city": "Barcelona",
+      "url": "https://bravafabrics.com",
+      "parent": null,
+      "style": "Barcelonalainen leikkisä merkki: luomupuuvillaa, kuvioneuleita ja taiteilijayhteistöitä",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "t-paidat",
+        "collegit",
+        "housut",
+        "takit"
+      ],
+      "ship": {
+        "from": "Barcelona, ES",
+        "lat": 41.4,
+        "lng": 2.19,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": 120,
+        "days": null,
+        "vat": "eu",
+        "returns": "EU: palautuslappu, hyvityksestä vähennetään 6,90 €"
+      },
+      "products": [
+        {
+          "name": "Corduroy Overshirt Klein Blue",
+          "type": "takit",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://bravafabrics.com/products/corduroy-overshirt-klein-blue",
+          "image": null,
+          "color": "#1f3fa8",
+          "signature": true,
+          "why": "Kirkkaan sininen luomuvakosamettinen overshirt, merkin klassikko"
+        },
+        {
+          "name": "Wool Sweater Raglan Chocolate",
+          "type": "neuleet",
+          "price": 149,
+          "currency": "EUR",
+          "url": "https://bravafabrics.com/collections/sweaters-man",
+          "image": null,
+          "color": "#4a2f22",
+          "signature": false,
+          "why": "Suklaanruskea raglan-villaneule mulesing-vapaasta villasta"
+        },
+        {
+          "name": "Atari Sweater Monogram Jacquard",
+          "type": "neuleet",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://bravafabrics.com/collections/sweaters-man",
+          "image": null,
+          "color": "#7a2b2b",
+          "signature": false,
+          "why": "Atari-yhteistyön jacquard-neule, luova syysneule"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://bravafabrics.com/policies/shipping-policy",
+        "https://brava-fabrics.gorgias.help/en-US/how-can-i-make-a-return-34233",
+        "https://bravafabrics.com/collections/sweaters-man",
+        "https://bravafabrics.com/products/corduroy-overshirt-klein-blue"
+      ],
+      "confidence": "medium",
+      "notes": "Kaikki tilaukset Barcelonan varastosta. Ilmainen vakiotoimitus yli 120 €; sen alle toimitusmaksu lasketaan kassalla, summaa Suomeen ei löytynyt (cost = null). Toimitusaikaa ei löytynyt. Palautusaikaa ei mainittu ohjesivulla; EU-palautusmaksu 6,90 €. Tarkistushetkellä lähes koko mallisto oli -50 % alessa (esim. overshirt 64,90 €); listatut hinnat ovat normaalihintoja."
+    },
+    {
+      "id": "thinking-mu",
+      "name": "Thinking MU",
+      "country": "ES",
+      "city": "Barcelona",
+      "url": "https://thinkingmu.com/en",
+      "parent": null,
+      "style": "Barcelonalainen kestävän muodin merkki: luomupuuvillaiset overshirtit ja villaneuleet",
+      "tags": [
+        "paidat",
+        "takit",
+        "neuleet",
+        "collegit",
+        "t-paidat",
+        "housut"
+      ],
+      "ship": {
+        "from": "Girona, ES",
+        "lat": 41.98,
+        "lng": 2.82,
+        "cost": 9.9,
+        "currency": "EUR",
+        "freeOver": 150,
+        "days": [
+          2,
+          5
+        ],
+        "vat": "eu",
+        "returns": "30 pv, noutopisteen kautta 9,90 €"
+      },
+      "products": [
+        {
+          "name": "Theo overshirt, beige corduroy",
+          "type": "takit",
+          "price": 139.9,
+          "currency": "EUR",
+          "url": "https://thinkingmu.com/en/products/cloud-cream-corduroy-theo-overshirt",
+          "image": null,
+          "color": "#d8ccb4",
+          "signature": true,
+          "why": "Paksu luomuvakosamettinen overshirt, Theo-malli toistuu kausittain"
+        },
+        {
+          "name": "Lucas overshirt, brown charlie blanket",
+          "type": "takit",
+          "price": 149.9,
+          "currency": "EUR",
+          "url": "https://thinkingmu.com/en/products/charlie-blanket-lucas-overshirt",
+          "image": null,
+          "color": "#6b4a33",
+          "signature": false,
+          "why": "Huopakuvioinen paksu overshirt omalla Thinking MU -designilla"
+        },
+        {
+          "name": "Lucien sweater, navy wool",
+          "type": "neuleet",
+          "price": 119.9,
+          "currency": "EUR",
+          "url": "https://thinkingmu.com/en/collections/man-clothing",
+          "image": null,
+          "color": "#1f2a44",
+          "signature": false,
+          "why": "Villaneule viidessä värissä, helppo syysneule"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://thinkingmu.com/en/pages/envios-costes",
+        "https://thinkingmu.gorgias.help/en-US/how-can-i-return-an-item-from-an-online-order-459964",
+        "https://thinkingmu.com/en/collections/man-clothing",
+        "https://thinkingmu.com/en/products/charlie-blanket-lucas-overshirt"
+      ],
+      "confidence": "high",
+      "notes": "Suomi: 9,90 €, ilmainen yli 150 €, 2–5 arkipäivää, lähetys Gironan varastosta. Palautus 30 pv; noutopiste/kotinouto Suomesta 9,90 € vähennetään hyvityksestä. Theo-overshirt oli tarkistushetkellä alessa 89,90 €, normaalihinta 139,90 €. Lucien-hinta on miesten kategoriasivulta."
     }
   ],
-  "rejected": []
+  "rejected": [
+    {
+      "name": "Roy Roger's",
+      "reason": "Farkut omassa kaupassa 169–262 € (esim. 517 Special 202 €), tunnetuimmat tuotteet yli 150 €"
+    },
+    {
+      "name": "Massimo Dutti",
+      "reason": "Virallinen kauppa estää hakurobotin, joten hintoja ja Suomen toimitusehtoja ei voitu varmistaa omasta kaupasta; villaoverhirtit Zalandossa 190–200 €. Tarkistettava käsin (neuleet n. 60–120 €)"
+    },
+    {
+      "name": "Drykorn",
+      "reason": "Overshirtit 180–280 €, paidat n. 170 € ja neuleet jopa 350 € omassa kaupassa; hintavälille jää lähinnä t-paitoja"
+    },
+    {
+      "name": "Wunderwerk",
+      "reason": "Oman kaupan hinnat eivät näy hakurobotille, joten hintoja ei voitu varmistaa merkin kaupasta (Otto/jälleenmyyjät: farkut ~130 €, merinoneule 129,95 €). Toimitus EU:hun 14,95 €. Todennäköisesti kelpaisi, tarkistettava käsin"
+    },
+    {
+      "name": "La Paz",
+      "reason": "Overshirtit omassa kaupassa n. 167–207 € ja villaneuleet 268 €; hintaväliin osuu vain yksittäisiä tuotteita"
+    }
+  ]
 }

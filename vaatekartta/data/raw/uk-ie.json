@@ -10,7 +10,14 @@
       "url": "https://uskees.com",
       "parent": null,
       "style": "Manchesterilainen workwear-merkki: luomupuuvillaiset chore-takit ja overshirtit",
-      "tags": ["takit", "paidat", "housut", "neuleet", "t-paidat", "collegit"],
+      "tags": [
+        "takit",
+        "paidat",
+        "housut",
+        "neuleet",
+        "t-paidat",
+        "collegit"
+      ],
       "ship": {
         "from": "Manchester, GB",
         "lat": 53.48,
@@ -18,7 +25,10 @@
         "cost": 12.99,
         "currency": "EUR",
         "freeOver": null,
-        "days": [3, 5],
+        "days": [
+          3,
+          5
+        ],
         "vat": "ddp",
         "returns": "30 pv Euroopasta, palautuskulut eivät selvinneet"
       },
@@ -84,7 +94,11 @@
       "url": "https://www.peregrineclothing.co.uk",
       "parent": null,
       "style": "Glover-suvun neulemerkki vuodesta 1796, neuleet tehdään omassa tehtaassa Manchesterissa",
-      "tags": ["neuleet", "takit", "paidat"],
+      "tags": [
+        "neuleet",
+        "takit",
+        "paidat"
+      ],
       "ship": {
         "from": "Manchester, GB",
         "lat": 53.48,
@@ -92,7 +106,10 @@
         "cost": 12.99,
         "currency": "EUR",
         "freeOver": 200,
-        "days": [3, 11],
+        "days": [
+          3,
+          11
+        ],
         "vat": "ddp",
         "returns": "21 pv, Euroopasta palautuksesta vähennetään £15"
       },
@@ -138,7 +155,13 @@
       "url": "https://farafieldclothing.com",
       "parent": null,
       "style": "Brightonilainen merkki: flanellipaidat, kuvioneuleet ja retrohenkiset napit",
-      "tags": ["paidat", "neuleet", "takit", "housut", "asusteet"],
+      "tags": [
+        "paidat",
+        "neuleet",
+        "takit",
+        "housut",
+        "asusteet"
+      ],
       "ship": {
         "from": "Newhaven, East Sussex, GB",
         "lat": 50.79,
@@ -194,9 +217,411 @@
       ],
       "confidence": "medium",
       "notes": "Suomi on Europe 2 -vyöhykkeellä: €18, ilmainen yli €250, FedEx International Connect Plus. Toimitussivun mukaan EU-hinnat sisältävät tullit ja verot, eikä perillä tule lisämaksuja (DDP). Toimitusaikaa EU:hun ei kerrottu (days null). Mod-paidan hinta (£70) on hakutuloksen tiivistelmästä, EUR-hintaa ei nähty. Bagh-neuleen linkki on kokoelmasivulle."
+    },
+    {
+      "id": "aran-woollen-mills",
+      "name": "Aran Woollen Mills",
+      "country": "IE",
+      "city": "Westport",
+      "url": "https://aranwoollenmills.com",
+      "parent": null,
+      "style": "Mayon kreivikunnan perheyritys vuodesta 1965: aidot Aran-neuleet ja tweed-villapaidat",
+      "tags": [
+        "neuleet",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "Westport, Co. Mayo, IE",
+        "lat": 53.8,
+        "lng": -9.52,
+        "cost": 15,
+        "currency": "EUR",
+        "freeOver": 110,
+        "days": [
+          2,
+          5
+        ],
+        "vat": "eu",
+        "returns": null
+      },
+      "products": [
+        {
+          "name": "Inisheer Traditional Merino Aran Sweater",
+          "type": "neuleet",
+          "price": 95,
+          "currency": "EUR",
+          "url": "https://aranwoollenmills.com/products/inisheer-traditional-mens-aran-sweater-navy",
+          "image": null,
+          "color": "#1f2a44",
+          "signature": true,
+          "why": "Klassinen Aran-neule: hunajakenno-, sammal- ja palmikkoneulos"
+        },
+        {
+          "name": "Killary Fjord Merino Aran Cardigan",
+          "type": "neuleet",
+          "price": 125,
+          "currency": "EUR",
+          "url": "https://aranwoollenmills.com/products/killary-charcoal-fjord-aran-cardigan",
+          "image": null,
+          "color": "#3a3a3c",
+          "signature": false,
+          "why": "Huivikauluksinen Aran-jakku syysiltoihin"
+        },
+        {
+          "name": "Setanta Donegal Tweed Crew Sweater",
+          "type": "neuleet",
+          "price": 125,
+          "currency": "EUR",
+          "url": "https://aranwoollenmills.com/collections/new-arrivals-for-him",
+          "image": null,
+          "color": "#c8bba0",
+          "signature": false,
+          "why": "Pilkullinen Donegal-tweedneule"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://aranwoollenmills.com/products/inisheer-traditional-mens-aran-sweater-navy",
+        "https://aranwoollenmills.com/collections/mens-cardigans",
+        "https://aranwoollenmills.com/collections/new-arrivals-for-him",
+        "https://aranwoollenmills.com/pages/about-us"
+      ],
+      "confidence": "high",
+      "notes": "Tuotesivun toimitustaulukko: Other EU Countries 2-5 arkipäivää, €15, ilmainen yli €110. Suomen oletetaan kuuluvan ryhmään Other EU (Ruotsi, Tanska ja Norja ovat omana ryhmänään: €25, ilmainen yli €200). Palautusehtoja ei tarkistettu. Tuotanto on Westportissa ja Belmulletissa; varaston tarkkaa paikkaa ei vahvistettu. Setanta-linkki vie kokoelmasivulle."
+    },
+    {
+      "id": "finisterre",
+      "name": "Finisterre",
+      "country": "GB",
+      "city": "St Agnes",
+      "url": "https://finisterre.com",
+      "parent": null,
+      "style": "Cornwallilainen surffi- ja ulkoilumerkki: villaneuleet, paidat ja kestävät materiaalit",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "t-paidat",
+        "collegit",
+        "takit",
+        "housut",
+        "asusteet"
+      ],
+      "ship": {
+        "from": "St Agnes, Cornwall, GB",
+        "lat": 50.31,
+        "lng": -5.2,
+        "cost": 5,
+        "currency": "EUR",
+        "freeOver": 180,
+        "days": [
+          2,
+          5
+        ],
+        "vat": "ddp",
+        "returns": null
+      },
+      "products": [
+        {
+          "name": "Men's Escall Crew Neck Knit Jumper",
+          "type": "neuleet",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://finisterre.com/products/mens-recycled-escall-crew-neck-knit-jumper-indigo",
+          "image": null,
+          "color": "#2d3a5c",
+          "signature": false,
+          "why": "Kierrätysvillainen neule, rento pudotettu olkasauma"
+        },
+        {
+          "name": "Men's Gylly Shirt",
+          "type": "paidat",
+          "price": 100,
+          "currency": "GBP",
+          "url": "https://finisterre.com/products/mens-organic-cotton-gylly-shirt-indigo-dobby",
+          "image": null,
+          "color": "#2b3a67",
+          "signature": true,
+          "why": "Merkin myydyin rento luomupuuvillapaita"
+        },
+        {
+          "name": "Men's Diamond Logo Long Sleeve T-shirt",
+          "type": "t-paidat",
+          "price": 65,
+          "currency": "EUR",
+          "url": "https://finisterre.com/en-de/collections/mens-shirts",
+          "image": null,
+          "color": "#e8e2d4",
+          "signature": false,
+          "why": "Pitkähihainen logopaita kerrokseksi neuleen alle"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://finisterre.com/pages/shipping",
+        "https://finisterre.com/en-de/pages/terms-conditions/1000",
+        "https://finisterre.com/en-de/collections/mens-knitwear",
+        "https://finisterre.com/products/mens-organic-cotton-gylly-shirt-indigo-dobby"
+      ],
+      "confidence": "medium",
+      "notes": "Europe: €5, ilmainen yli €180, 2-5 arkipäivää. Kaikki tilaukset lähtevät UK:sta, ja EU-hinnat sisältävät tullit ja verot (DDP, ehdot). Tunnetuin Barents-neule maksaa €160 ja jätettiin pois; useimmat neuleet ovat €160-235. Gylly-paidan hinta £100 on hakutuloksen tiivistelmästä, EUR-hintaa ei nähty. Long sleeve -paidan €65 näkyi en-de-etusivun listauksessa, linkki sinne. Varaston sijainti ei selvinnyt, käytetty pääkonttoria St Agnesissa."
+    },
+    {
+      "id": "percival",
+      "name": "Percival",
+      "country": "GB",
+      "city": "Lontoo",
+      "url": "https://www.percivalclo.com",
+      "parent": null,
+      "style": "Hackneyläinen merkki, joka teki neulepaidasta tunnusvaatteensa; neuleet ja overshirtit",
+      "tags": [
+        "neuleet",
+        "paidat",
+        "t-paidat",
+        "collegit",
+        "takit",
+        "housut"
+      ],
+      "ship": {
+        "from": "Lontoo, GB",
+        "lat": 51.55,
+        "lng": -0.06,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": 150,
+        "days": [
+          1,
+          4
+        ],
+        "vat": "ddp",
+        "returns": "21 pv, EU-palautus €10 (vakio) / €15 (express)"
+      },
+      "products": [
+        {
+          "name": "Contrast Trim Regular Knitted Shirt",
+          "type": "neuleet",
+          "price": 100,
+          "currency": "GBP",
+          "url": "https://www.percivalclo.com/collections/knitted-shirts",
+          "image": null,
+          "color": "#1c1c1c",
+          "signature": true,
+          "why": "Percival on neulepaidan edelläkävijä: paidan ja neuleen välimuoto"
+        },
+        {
+          "name": "Laurent Long Sleeve Polo",
+          "type": "neuleet",
+          "price": 90,
+          "currency": "GBP",
+          "url": "https://www.percivalclo.com/collections/knitted-shirts",
+          "image": null,
+          "color": "#5a4632",
+          "signature": false,
+          "why": "Pitkähihainen neulepikee syksyn kerrokseksi"
+        },
+        {
+          "name": "Cable Stripe Knitted Shirt",
+          "type": "neuleet",
+          "price": 120,
+          "currency": "GBP",
+          "url": "https://www.percivalclo.com/collections/knitted-shirts",
+          "image": null,
+          "color": "#efe6d2",
+          "signature": false,
+          "why": "Palmikkoraidallinen neulepaita, retrohenkinen"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "-10 % ensimmäisestä tilauksesta uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.percivalclo.com/pages/international-checkout",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://www.percivalclo.com/pages/international-shipping-returns",
+        "https://www.percivalclo.com/pages/terms-and-conditions",
+        "https://www.percivalclo.com/collections/knitted-shirts",
+        "https://www.percivalclo.com/collections/mens-knitwear-sale"
+      ],
+      "confidence": "medium",
+      "notes": "EU (Suomi mukana): ilmainen toimitus yli €150, express €12-15 1-4 pv, tullit ja verot maksettu (Global-e on myyjä, DDP). Alle €150 vakiotoimituksen hintaa ei taulukossa kerrottu (cost null). Hinnat ovat GBP-normaalihintoja; Global-en EUR-hintoja ei nähty (£100 ≈ 115-120 €). Monet tuotteet olivat alessa. Useimmat neuleet ovat yli £130, ja jotkut tuotteet valmistetaan Kiinassa."
+    },
+    {
+      "id": "folk",
+      "name": "Folk",
+      "country": "GB",
+      "city": "Lontoo",
+      "url": "https://www.folkclothing.com",
+      "parent": null,
+      "style": "Lontoolainen design-merkki: rennot paidat, vakosamettia ja taiteellisia neuleita",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "takit",
+        "housut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Lontoo, GB",
+        "lat": 51.52,
+        "lng": -0.12,
+        "cost": null,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": null,
+        "vat": "ddp",
+        "returns": null
+      },
+      "products": [
+        {
+          "name": "Direction Babycord Shirt",
+          "type": "paidat",
+          "price": 146.95,
+          "currency": "EUR",
+          "url": "https://www.folkclothing.com/collections/25th-anniversary-collection/products/folk-direction-babycord-shirt-dark-navy",
+          "image": null,
+          "color": "#1f2840",
+          "signature": true,
+          "why": "Hienovakoinen, kappalevärjätty vakosamettipaita syksyyn"
+        },
+        {
+          "name": "Herringbone Curve Shirt",
+          "type": "paidat",
+          "price": 134.95,
+          "currency": "EUR",
+          "url": "https://www.folkclothing.com/collections/shirts",
+          "image": null,
+          "color": "#2a2a2a",
+          "signature": false,
+          "why": "Kalanruotokuvioinen paita kaarevalla helmalla"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.folkclothing.com/collections/shirts?currency=EUR",
+        "https://www.folkclothing.com/collections/knitwear?currency=EUR",
+        "https://www.folkclothing.com/pages/delivery",
+        "https://www.folkclothing.com/products/relaxed-fit-shirt-ecru-multi-check"
+      ],
+      "confidence": "low",
+      "notes": "Hintataso on rajalla: useimmat paidat €153-239 ja neuleet €153-428 (EUR-näkymä ?currency=EUR). Tuotesivuilla luvataan, että kassalla maksettu summa sisältää tullit ja verot (DDP), mutta toimitussivun FAQ sanoo vastaanottajan maksavan ne. Ristiriita kannattaa tarkistaa. EU-postikuluja ja -toimitusaikaa ei löytynyt; kansainväliset tilaukset perillä enintään 7 arkipäivässä. Babycord-paita näkyi tuotesivulla €83,95 (todennäköisesti alehinta), kokoelmassa €146,95. Varaston sijainti ei selvinnyt."
+    },
+    {
+      "id": "universal-works",
+      "name": "Universal Works",
+      "country": "GB",
+      "city": "Nottingham",
+      "url": "https://universalworks.com",
+      "parent": null,
+      "style": "Nottinghamilainen workwear-merkki: overshirtit, chore-takit ja flanellipaidat",
+      "tags": [
+        "paidat",
+        "takit",
+        "neuleet",
+        "housut",
+        "t-paidat",
+        "collegit"
+      ],
+      "ship": {
+        "from": "Nottingham, GB",
+        "lat": 52.95,
+        "lng": -1.15,
+        "cost": 7.5,
+        "currency": "EUR",
+        "freeOver": 300,
+        "days": [
+          3,
+          5
+        ],
+        "vat": "ddp",
+        "returns": null
+      },
+      "products": [
+        {
+          "name": "Brushed Flannel Square Pocket Shirt",
+          "type": "paidat",
+          "price": 114.95,
+          "currency": "EUR",
+          "url": "https://universalworks.com/collections/shirts",
+          "image": null,
+          "color": "#6b4a32",
+          "signature": false,
+          "why": "Harjattu flanellipaita, syksyn perusvaate"
+        },
+        {
+          "name": "Work Denim Fatigue Shirt",
+          "type": "paidat",
+          "price": 109.95,
+          "currency": "EUR",
+          "url": "https://universalworks.com/collections/overshirts",
+          "image": null,
+          "color": "#243a5e",
+          "signature": true,
+          "why": "Indigodenimistä tehty fatigue-paita, merkin workwear-klassikko"
+        },
+        {
+          "name": "Prince Chambray Daybrook Shirt",
+          "type": "paidat",
+          "price": 105.95,
+          "currency": "EUR",
+          "url": "https://universalworks.com/collections/shirts",
+          "image": null,
+          "color": "#5f7da6",
+          "signature": false,
+          "why": "Chambray-button down, sopii overshirtin alle"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://universalworks.com/pages/delivery-and-shipping",
+        "https://universalworks.com/pages/faqs",
+        "https://universalworks.com/collections/shirts?currency=EUR",
+        "https://universalworks.com/collections/overshirts?currency=EUR",
+        "https://universalworks.com/collections/overshirts"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi kuuluu euromaiden ryhmään: vakiotoimitus €7,50 (plus vero), FedEx 3-5 arkipäivää lähetyksestä, ilmainen yli €300, DDP. TÄRKEÄÄ: EUR-hinnat (esim. Bakers Overshirt €122,95 vs UK £140) näyttävät olevan ilman ALV:tä, ja sivun mukaan kassalla lisätään oman maan ALV ja €3 tulli per tuotekategoria (EU-sääntö 1.7.2026 alkaen). Suomen 25,5 %:n ALV:llä hinnat olisivat noin €133-144, eli valitut tuotteet pysyvät rajan alla. Tunnetuin Fine Cord Bakers Overshirt (€122,95, ALV:n kanssa noin €154) jätettiin siksi pois. Neuleet £150-270. Tuotelinkit vievät kokoelmasivuille."
     }
   ],
   "rejected": [
-    { "name": "Community Clothing", "reason": "Toimittaa vain Isoon-Britanniaan (ja kanaalisaarille/USA:han), ei Suomeen. Selvedge-farkut £142 ylittäisivät myös 150 € rajan." }
+    {
+      "name": "Community Clothing",
+      "reason": "Toimittaa vain Isoon-Britanniaan, kanaalisaarille ja Mansaarelle (FAQ:n mukaan myös USA:han, mutta se on tauolla), ei Suomeen. Selvedge-farkut £142 ylittäisivät myös 150 € rajan"
+    },
+    {
+      "name": "Harley of Scotland",
+      "reason": "Ei myy suoraan omasta verkkokaupasta (vain jälleenmyyjät); Shetland-neuleet jälleenmyyjillä £132-135 / €165"
+    },
+    {
+      "name": "Fisherman Out of Ireland",
+      "reason": "Neuleet maksavat jälleenmyyjillä €216-280, yli 150 €"
+    },
+    {
+      "name": "Jamieson's of Shetland",
+      "reason": "Oma kauppa myy lähinnä lankaa; neulehinnat löytyivät vain jälleenmyyjiltä (Fair Isle £155-179 eli yli rajan, sileä £125). ALV ja tulli maksetaan perillä"
+    },
+    {
+      "name": "Albam",
+      "reason": "Paidat £145 ja enemmän (yli 150 €), EU-toimitus £19,99 DDU: UK:n ALV sisältyy hintaan ja Suomen ALV ja tulli maksetaan lisäksi perillä"
+    },
+    {
+      "name": "Rapanui",
+      "reason": "Lähinnä painettuja t-paitoja ja huppareita, ei vastaa syystyyliä; EU-tilauksissa ALV ja tulli maksetaan perillä"
+    },
+    {
+      "name": "Barbour",
+      "reason": "Virallinen verkkokauppa toimittaa vain Isoon-Britanniaan ja saksalainen kauppa vain Saksaan ja Itävaltaan, ei Suomeen"
+    },
+    {
+      "name": "Kestin",
+      "reason": "Paidat €146-232, lähes kaikki yli 150 € (EUR-näkymä); muuten DDP, ilmainen toimitus yli €250"
+    },
+    {
+      "name": "Lavenham",
+      "reason": "Tikkitakit ja liivit £215-455, kaikki yli 150 €"
+    }
   ]
 }

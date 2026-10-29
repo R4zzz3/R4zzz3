@@ -371,6 +371,705 @@
       ],
       "confidence": "high",
       "notes": "Suomi kuuluu ryhmään 'Reste de l'Europe': 12 € kaikille tilauksille, ei ilmaisen toimituksen rajaa, 4-6 pv Colissimo Europe. Palautus 14 pv; Suomesta palautus aina asiakkaan kustannuksella. Pull marin -neuleet 195-275 €, kaikki yli rajan. Paksun ja Henley-raitapaidan hinnat kokoelmasivulta."
+    },
+    {
+      "id": "hast",
+      "name": "Hast",
+      "country": "FR",
+      "city": "Paris",
+      "url": "https://www.hastparis.com/en",
+      "parent": null,
+      "style": "Pariisilainen paitamerkki: flanellit, villaoverhirtit ja merinoneuleet Euroopasta",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "takit",
+        "housut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Paris, FR",
+        "lat": 48.87,
+        "lng": 2.35,
+        "cost": 6,
+        "currency": "EUR",
+        "freeOver": 200,
+        "days": [
+          2,
+          6
+        ],
+        "vat": "eu",
+        "returns": "14 pv, palautustarra 8 €"
+      },
+      "products": [
+        {
+          "name": "Navy wool overshirt",
+          "type": "paidat",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.hastparis.com/en/products/surchemise-en-laine-marine-1",
+          "image": null,
+          "color": "#1f2740",
+          "signature": false,
+          "why": "260 g portugalilaista villaa, kevyen takin ja paidan välimuoto"
+        },
+        {
+          "name": "Grey flannel overshirt",
+          "type": "paidat",
+          "price": 110,
+          "currency": "EUR",
+          "url": "https://www.hastparis.com/en/products/surchemise-en-flanelle-grise",
+          "image": null,
+          "color": "#8a8d91",
+          "signature": false,
+          "why": "Harjattu puuvillaflanelli, rento syyskerros"
+        },
+        {
+          "name": "Marl grey herringbone flannel shirt",
+          "type": "paidat",
+          "price": 89,
+          "currency": "EUR",
+          "url": "https://www.hastparis.com/en/collections/automne-hiver",
+          "image": null,
+          "color": "#9a9a96",
+          "signature": true,
+          "why": "Merkin ydin on paidat: kalanruotoflanelli syksyyn"
+        },
+        {
+          "name": "Navy merino wool crew neck jumper",
+          "type": "neuleet",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://www.hastparis.com/en/collections/automne-hiver-drop-1",
+          "image": null,
+          "color": "#1e2a45",
+          "signature": false,
+          "why": "Extrafine-merinoneule, helppo perusneule paidan päälle"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.hastparis.com/en/pages/livraisons-et-retours",
+        "https://www.hastparis.com/en/pages/faq",
+        "https://www.hastparis.com/en/collections/automne-hiver",
+        "https://www.hastparis.com/en/collections/automne-hiver-drop-1",
+        "https://www.hastparis.com/en/products/surchemise-en-laine-marine-1",
+        "https://www.hastparis.com/de/products/surchemise-en-flanelle-grise"
+      ],
+      "confidence": "high",
+      "notes": "Suomi: Chronopost International 6 € (<200 €), ilmainen yli 200 €, 2-6 arkipäivää lähetyksestä. Palautus 14 pv; EU:sta palautustarra 8 € vähennetään hyvityksestä. Grey flannel overshirt -hinta saksankieliseltä tuotesivulta (110 €), URL muutettu /en-poluksi (sama Shopify-handle). Flanellipaidan ja merinoneuleen hinnat kokoelmasivuilta. Varaston sijaintia ei löytynyt, käytetty Pariisia. Työtakit (180 €) ja farkkutakki (195 €) yli rajan."
+    },
+    {
+      "id": "maison-labiche",
+      "name": "Maison Labiche",
+      "country": "FR",
+      "city": "Paris",
+      "url": "https://www.maisonlabiche.com",
+      "parent": null,
+      "style": "Pariisilainen kirjontamerkki: luomupuuvillacollegit pienillä brodeerauksilla",
+      "tags": [
+        "collegit",
+        "t-paidat",
+        "neuleet",
+        "paidat",
+        "takit"
+      ],
+      "ship": {
+        "from": "Paris, FR",
+        "lat": 48.86,
+        "lng": 2.36,
+        "cost": 5,
+        "currency": "EUR",
+        "freeOver": 200,
+        "days": [
+          3,
+          5
+        ],
+        "vat": "eu",
+        "returns": "30 pv kansainvälisille tilauksille"
+      },
+      "products": [
+        {
+          "name": "\"French Touch\" Charonne sweatshirt",
+          "type": "collegit",
+          "price": 130,
+          "currency": "EUR",
+          "url": "https://www.maisonlabiche.com/products/french-touch-charonne-sweatshirt",
+          "image": null,
+          "color": "#c9c4b8",
+          "signature": true,
+          "why": "Merkin klassikkocollege, 300 g GOTS-luomupuuvillaa ja brodeeraus"
+        },
+        {
+          "name": "Placide sweatshirt Mini Manufacture",
+          "type": "collegit",
+          "price": 145,
+          "currency": "EUR",
+          "url": "https://www.maisonlabiche.com/collections/mens-sweatshirts-hoodies",
+          "image": null,
+          "color": "#3b3f46",
+          "signature": false,
+          "why": "Väljä vetoketjukauluksinen trucker-college syksyyn"
+        },
+        {
+          "name": "Boissonade cardigan Heart Patch",
+          "type": "neuleet",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.maisonlabiche.com/collections/mens-sweatshirts-hoodies",
+          "image": null,
+          "color": "#3a3a3c",
+          "signature": false,
+          "why": "Neuletakki merkin sydänmerkillä, cozy-kerros"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.maisonlabiche.com/policies/shipping-policy",
+        "https://www.maisonlabiche.com/collections/mens-sweatshirts-hoodies",
+        "https://www.maisonlabiche.com/products/french-touch-charonne-sweatshirt"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi kuuluu ryhmään 'Europe': 5 € vakio / 12 € express, ilmainen yli 200 €. EU: Chronopost 2-3 pv lähetyksestä + käsittely 24 h, siksi days [3,5] on arvio. Palautus 30 pv kansainvälisille; palautusmaksu mainittu vain UK/DE/BE/ES/LU/NL/PT (5 €), Suomen palautuksen hintaa ei löytynyt. Placide- ja Boissonade-hinnat kokoelmasivulta. Neuleet pääosin 180-250 €."
+    },
+    {
+      "id": "kings-of-indigo",
+      "name": "Kings Of Indigo",
+      "country": "NL",
+      "city": "Amsterdam",
+      "url": "https://kingsofindigo.com/en-eu",
+      "parent": null,
+      "style": "Amsterdamilainen kestävä denim: luomu- ja kierrätyspuuvillaa, japanilaisvaikutteita",
+      "tags": [
+        "farkut",
+        "paidat",
+        "neuleet",
+        "collegit",
+        "t-paidat",
+        "takit"
+      ],
+      "ship": {
+        "from": "Apeldoorn, NL",
+        "lat": 52.21,
+        "lng": 5.94,
+        "cost": 5,
+        "currency": "EUR",
+        "freeOver": 100,
+        "days": [
+          1,
+          5
+        ],
+        "vat": "eu",
+        "returns": "30 pv, palautus 5-15 €"
+      },
+      "products": [
+        {
+          "name": "SILVIO SELVAGE | Clean Platino Organic Dry",
+          "type": "farkut",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://kingsofindigo.com/en-eu/products/silvio-selvage-clean-platino-organic-dry",
+          "image": null,
+          "color": "#1a2236",
+          "signature": false,
+          "why": "Raaka luomu-selvedge 150 eurolla, harvinainen hintaluokassaan"
+        },
+        {
+          "name": "RYAN | Rinse",
+          "type": "farkut",
+          "price": 140,
+          "currency": "EUR",
+          "url": "https://kingsofindigo.com/en-eu/collections/mens-jeans",
+          "image": null,
+          "color": "#22304f",
+          "signature": true,
+          "why": "Merkin perusfarkku tummana rinse-pesuna"
+        },
+        {
+          "name": "ARTHUR | Ceky Blue Tint",
+          "type": "farkut",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://kingsofindigo.com/en-eu/products/arthur-ceky-blue-tint",
+          "image": null,
+          "color": "#4a6283",
+          "signature": false,
+          "why": "Jäykkä 100 % luomupuuvillafarkku suoralla lahkeella"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://kingsofindigo.com/pages/faq",
+        "https://kingsofindigo.com/en-eu/policies/shipping-policy",
+        "https://kingsofindigo.com/en-eu/policies/refund-policy",
+        "https://kingsofindigo.com/en-eu/collections/mens-jeans",
+        "https://kingsofindigo.com/en-eu/products/silvio-selvage-clean-platino-organic-dry",
+        "https://kingsofindigo.com/en-eu/products/arthur-ceky-blue-tint"
+      ],
+      "confidence": "medium",
+      "notes": "EU 5 €, ilmainen yli 100 €; Suomeen 1-5 arkipäivää (FAQ mainitsee Suomen erikseen). Palautus 30 pv: shipping policy sanoo EU 5 €, refund policy sanoo muu EU 15 € (ristiriita). Varasto/palautusosoite Apeldoorn (GWL Twee B.V.). Silvio Selvage oli tarkistushetkellä loppu varastosta. RYAN Rinse -hinta kokoelmasivulta. Huom: kingofindigo.com / kingsofindigo.fr / kingofindigo.de näyttävät epävirallisilta kopiosivuilta (88 €), niitä ei käytetty. Ei-denimituotteita ei tarkistettu."
+    },
+    {
+      "id": "mud-jeans",
+      "name": "MUD Jeans",
+      "country": "NL",
+      "city": "Almere",
+      "url": "https://mudjeans.com",
+      "parent": null,
+      "style": "Hollantilainen kiertotalousdenim: kierrätetty ja luomupuuvilla, B Corp",
+      "tags": [
+        "farkut",
+        "housut",
+        "neuleet",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Netherlands",
+        "lat": 52.37,
+        "lng": 5.21,
+        "cost": 9.95,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          3,
+          6
+        ],
+        "vat": "eu",
+        "returns": "30 pv, palautusmaksu alk. 9,95 €"
+      },
+      "products": [
+        {
+          "name": "Rick Mid Slim - Dry",
+          "type": "farkut",
+          "price": 129.95,
+          "currency": "EUR",
+          "url": "https://mudjeans.com/products/rick-mid-slim-dry",
+          "image": null,
+          "color": "#1b2440",
+          "signature": false,
+          "why": "Käsittelemätön 13 oz dry-denim kierrätyspuuvillasta"
+        },
+        {
+          "name": "Bryce Mid Straight - Authentic Indigo",
+          "type": "farkut",
+          "price": 139.95,
+          "currency": "EUR",
+          "url": "https://mudjeans.com/collections/men-buy-jeans",
+          "image": null,
+          "color": "#283a63",
+          "signature": true,
+          "why": "Suora perusmalli, kierrätetty ja luomupuuvilla"
+        },
+        {
+          "name": "Hank Mid Tapered - Rustic Blue",
+          "type": "farkut",
+          "price": 149.95,
+          "currency": "EUR",
+          "url": "https://mudjeans.com/collections/men-buy-jeans",
+          "image": null,
+          "color": "#3d5a80",
+          "signature": false,
+          "why": "Väljempi kapeneva malli vintage-henkisenä pesuna"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://mudjeans.com/pages/shipping-information-mud-jeans",
+        "https://mudjeans.com/pages/returns-exchanges-mud-jeans",
+        "https://mudjeans.com/pages/faq-mud-jeans",
+        "https://mudjeans.com/collections/men-buy-jeans",
+        "https://mudjeans.com/products/rick-mid-slim-dry"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi: 9,95 €, 3-6 pv; ilmainen toimitus yli 100 € vain NL/BE/DE/FR/AT/LU (tuotesivun 'Free shipping for EU' -teksti on ristiriidassa toimitussivun kanssa). Palautus 30 pv, muista maista alk. 9,95 €; koonvaihto maksuton. Rick Dry on 1 % elastaania (comfort stretch), ei täysin raaka. Bryce- ja Hank-hinnat kokoelmasivulta (normaalihinnat). Varaston tarkkaa paikkaa ei löytynyt; koordinaatit Almere (pääkonttori)."
+    },
+    {
+      "id": "g-star-raw",
+      "name": "G-Star RAW",
+      "country": "NL",
+      "city": "Amsterdam",
+      "url": "https://www.g-star.com/en_fi",
+      "parent": null,
+      "style": "Amsterdamilainen denimjätti: raw denim -perintö ja 3301-farkku",
+      "tags": [
+        "farkut",
+        "paidat",
+        "neuleet",
+        "takit",
+        "collegit",
+        "t-paidat",
+        "housut"
+      ],
+      "ship": {
+        "from": "Amsterdam, NL",
+        "lat": 52.4,
+        "lng": 4.84,
+        "cost": 5.95,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          5,
+          6
+        ],
+        "vat": "eu",
+        "returns": "30 pv, maksuton normaalihintaisille"
+      },
+      "products": [
+        {
+          "name": "3301 Straight Jeans (rigid, dark aged)",
+          "type": "farkut",
+          "price": 120,
+          "currency": "EUR",
+          "url": "https://www.g-star.com/en_fi/shop/men/jeans/51002-4639-89",
+          "image": null,
+          "color": "#1f2a40",
+          "signature": true,
+          "why": "Merkin ikoninen 3301, jäykkä 100 % puuvilla 12 oz"
+        },
+        {
+          "name": "3301 Straight Jeans (Worn In Blue Storm)",
+          "type": "farkut",
+          "price": 140,
+          "currency": "EUR",
+          "url": "https://www.g-star.com/en_fi/shop/men/jeans/51002-e856-b188",
+          "image": null,
+          "color": "#2c3a55",
+          "signature": false,
+          "why": "Painava 458 g/m² denim western-henkisellä rakenteella"
+        },
+        {
+          "name": "Premium Core Half Zip Knit",
+          "type": "neuleet",
+          "price": 150,
+          "currency": "EUR",
+          "url": "https://www.g-star.com/en_fi/shop/men/knitwear/d27710-b692-995",
+          "image": null,
+          "color": "#5a5c5f",
+          "signature": false,
+          "why": "Paksu 100 % merinovillainen puolivetoketjuneule"
+        }
+      ],
+      "coupons": [
+        {
+          "code": null,
+          "deal": "Ilmainen toimitus uutiskirjeen tilaajille",
+          "type": "newsletter",
+          "source": "https://www.g-star.com/en_fi/customer-service",
+          "checked": "2026-10-29",
+          "verified": true
+        }
+      ],
+      "sources": [
+        "https://www.g-star.com/en_fi/customer-service",
+        "https://www.g-star.com/en_fi/terms-conditions",
+        "https://www.g-star.com/en_fi/shop/men/jeans/51002-4639-89",
+        "https://www.g-star.com/en_fi/shop/men/jeans/51002-e856-b188",
+        "https://www.g-star.com/en_fi/shop/men/knitwear/d27710-b692-995"
+      ],
+      "confidence": "high",
+      "notes": "Oma Suomen verkkokauppa (en_fi): toimitus 5,95 €, 5-6 arkipäivää, nouto Posti/Budbee. Uutiskirjeen tilaajille aina ilmainen toimitus. Palautus 30 pv maksuton normaalihintaisille tilauksille (bannerissa välillä 60 pv). Hinnat = RRP; tarkistushetkellä tuotteet alessa (-30...-50 %). Lähtöpaikka Amsterdam = palautusvarasto CBW, Casablancaweg."
+    },
+    {
+      "id": "kuyichi",
+      "name": "Kuyichi",
+      "country": "NL",
+      "city": "Amsterdam",
+      "url": "https://kuyichi.com",
+      "parent": null,
+      "style": "Hollantilainen luomudenimin pioneeri vuodesta 2001, ei alennusmyyntejä",
+      "tags": [
+        "farkut",
+        "t-paidat",
+        "neuleet",
+        "paidat"
+      ],
+      "ship": {
+        "from": "Netherlands",
+        "lat": 52.37,
+        "lng": 4.9,
+        "cost": 5,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          5,
+          10
+        ],
+        "vat": "eu",
+        "returns": "30 pv, palautusmaksu 10 €"
+      },
+      "products": [
+        {
+          "name": "Scott Regular Dark Rinse",
+          "type": "farkut",
+          "price": 119.95,
+          "currency": "EUR",
+          "url": "https://kuyichi.com/men/jeans",
+          "image": null,
+          "color": "#1e2740",
+          "signature": false,
+          "why": "Tumma rinse-farkku luomupuuvillasta, suora rento malli"
+        },
+        {
+          "name": "Nick Straight Basic Blue",
+          "type": "farkut",
+          "price": 119.95,
+          "currency": "EUR",
+          "url": "https://kuyichi.com/men/jeans/nick-straight",
+          "image": null,
+          "color": "#3a5582",
+          "signature": true,
+          "why": "Merkin suosituin suora farkkumalli, ei sesonkimallistoja"
+        },
+        {
+          "name": "Larry Loose Rinse",
+          "type": "farkut",
+          "price": 129.95,
+          "currency": "EUR",
+          "url": "https://kuyichi.com/men/jeans",
+          "image": null,
+          "color": "#202b45",
+          "signature": false,
+          "why": "Väljä työvaatehenkinen farkku tummana pesuna"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://kuyichi.com/shipping-returns",
+        "https://kuyichi.com/contact-faq/",
+        "https://kuyichi.com/men/jeans",
+        "https://kuyichi.com/men/jeans/nick-straight",
+        "https://kuyichi.com/k25-relaxed-straight-dry-selvedge-silver-edition"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi kuuluu vyöhykkeeseen 2: 5 € (ilmainen yli 100 € vain vyöhyke 1: BE/FR/DE/LU/NL). Toimitus 'other' 5-10 arkipäivää. Palautus 30 pv, Suomesta 10 €. Hinnat kokoelmasivuilta. Merkki ilmoittaa luopuneensa alennusmyynneistä. K25 dry selvedge (Candiani, 14,25 oz) maksaa 225 € ja Jim Orange Selvedge 150 € näkyi vain fit guide -sivulla, siksi ei listattu. Varaston tarkkaa sijaintia ei kerrottu (vain 'Netherlands'), koordinaatit Amsterdam."
+    },
+    {
+      "id": "dstrezzed",
+      "name": "Dstrezzed",
+      "country": "NL",
+      "city": "Amsterdam",
+      "url": "https://www.dstrezzed.com",
+      "parent": null,
+      "style": "Hollantilainen miestenmerkki: rennot overshirtit, neuleet ja kerrospukeutuminen",
+      "tags": [
+        "paidat",
+        "neuleet",
+        "housut",
+        "takit",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Netherlands",
+        "lat": 52.37,
+        "lng": 4.9,
+        "cost": 19.95,
+        "currency": "EUR",
+        "freeOver": 150,
+        "days": [
+          6,
+          7
+        ],
+        "vat": "eu",
+        "returns": "30 pv palautus tai vaihto"
+      },
+      "products": [
+        {
+          "name": "Ulrik Overshirt",
+          "type": "paidat",
+          "price": 129.95,
+          "currency": "EUR",
+          "url": "https://www.dstrezzed.com/products/ulrik-overshirt-3",
+          "image": null,
+          "color": "#5b4a3a",
+          "signature": true,
+          "why": "Merkin bestseller: harjattu pinta ja lämmin jersey-vuori"
+        },
+        {
+          "name": "Josiah Skipper (zip-up chenille knit)",
+          "type": "neuleet",
+          "price": 139.95,
+          "currency": "EUR",
+          "url": "https://www.dstrezzed.com/collections/knitwear",
+          "image": null,
+          "color": "#6b6a5c",
+          "signature": false,
+          "why": "Pehmeä chenilleneule vetoketjukauluksella, cozy-syyskerros"
+        },
+        {
+          "name": "Soren Overshirt",
+          "type": "takit",
+          "price": 149.95,
+          "currency": "EUR",
+          "url": "https://www.dstrezzed.com/products/soren-overshirt-1",
+          "image": null,
+          "color": "#c4b597",
+          "signature": false,
+          "why": "Vetoketjullinen twill-overshirt pukukankaasta, siisti välitakki"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.dstrezzed.com/pages/shipping",
+        "https://www.dstrezzed.com/pages/faq-orders-delivery",
+        "https://www.dstrezzed.com/collections/overshirts-1",
+        "https://www.dstrezzed.com/collections/knitwear",
+        "https://www.dstrezzed.com/products/ulrik-overshirt-3",
+        "https://www.dstrezzed.com/products/soren-overshirt-1"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi: 19,95 € alle 150 €, ilmainen yli 150 €, 6-7 arkipäivää. Palautus/vaihto 30 pv; palautuksen hintaa Suomesta ei löytynyt. Josiah-hinta kokoelmasivulta. Varaston ja pääkonttorin sijaintia ei varmistettu (koordinaatit Amsterdam). Korkea postikulu pienille tilauksille."
+    },
+    {
+      "id": "cuisse-de-grenouille",
+      "name": "Cuisse de Grenouille",
+      "country": "FR",
+      "city": "Paris",
+      "url": "https://www.cuissedegrenouille.com",
+      "parent": null,
+      "style": "Pariisilaisveljesten merkki: workwear-takit, paksu twill ja luomupuuvillacollegit",
+      "tags": [
+        "takit",
+        "paidat",
+        "collegit",
+        "neuleet",
+        "housut",
+        "t-paidat"
+      ],
+      "ship": {
+        "from": "Paris, FR",
+        "lat": 48.86,
+        "lng": 2.36,
+        "cost": 15,
+        "currency": "EUR",
+        "freeOver": null,
+        "days": [
+          2,
+          4
+        ],
+        "vat": "eu",
+        "returns": "Asiakas maksaa palautuksen ulkomailta"
+      },
+      "products": [
+        {
+          "name": "Bruce — la veste worker",
+          "type": "takit",
+          "price": 149,
+          "currency": "EUR",
+          "url": "https://www.cuissedegrenouille.com/products/bruce-la-veste-worker-stock-1",
+          "image": null,
+          "color": "#2b3446",
+          "signature": true,
+          "why": "Klassinen työtakki 395 g twillistä, kolme taskua ja paitakaulus"
+        },
+        {
+          "name": "Rodney — la surchemise twill",
+          "type": "paidat",
+          "price": 129,
+          "currency": "EUR",
+          "url": "https://www.cuissedegrenouille.com/products/rodney-la-surchemise-twill-mai-stock",
+          "image": null,
+          "color": "#8a7b66",
+          "signature": false,
+          "why": "Paksu 435 g luomutwill-overshirt, myös denimversiona"
+        },
+        {
+          "name": "Alex — le sweat trucker",
+          "type": "collegit",
+          "price": 99,
+          "currency": "EUR",
+          "url": "https://www.cuissedegrenouille.com/collections/all",
+          "image": null,
+          "color": "#2a3550",
+          "signature": false,
+          "why": "Vetoketjukauluksinen trucker-college luomupuuvillasta"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://www.cuissedegrenouille.com/en-us/pages/guide-des-tailles-chemises",
+        "https://www.cuissedegrenouille.com/pages/faq",
+        "https://www.cuissedegrenouille.com/collections/all",
+        "https://www.cuissedegrenouille.com/products/bruce-la-veste-worker-stock-1",
+        "https://www.cuissedegrenouille.com/products/rodney-la-surchemise-twill-mai-stock"
+      ],
+      "confidence": "medium",
+      "notes": "EU: Colissimo Europe 15 €, 2-4 arkipäivää lähetyksestä (lähetys 24-48 h). Ilmainen toimitus yli 150 € mainitaan vain Ranskalle, EU-rajaa ei löytynyt. Palautukset ulkomailta asiakkaan kustannuksella; FAQ:ssa palautusaika 45 pv, Ranskan ohjeessa 14 pv (ristiriita). Bruce-takki näkyy myös forlife-paris.com-sivustolla samoilla perustajilla (Lucas & Séverin), joten merkki saattaa olla nimeämässä itseään uudelleen 'forlife'-nimelle. Alex-hinta kokoelmasivulta. Lähtöpaikka = Pariisin myymälä/pääkonttori, varastoa ei varmistettu."
+    },
+    {
+      "id": "daily-paper",
+      "name": "Daily Paper",
+      "country": "NL",
+      "city": "Amsterdam",
+      "url": "https://dailypaperclothing.com",
+      "parent": null,
+      "style": "Amsterdamilainen streetwear-merkki afrikkalaisvaikutteilla: unisex-hupparit ja neuleet",
+      "tags": [
+        "collegit",
+        "neuleet",
+        "t-paidat",
+        "takit",
+        "housut",
+        "paidat"
+      ],
+      "ship": {
+        "from": "Amsterdam, NL",
+        "lat": 52.37,
+        "lng": 4.9,
+        "cost": 10,
+        "currency": "EUR",
+        "freeOver": 99,
+        "days": [
+          7,
+          10
+        ],
+        "vat": "eu",
+        "returns": "14 pv, asiakas maksaa (alennettu tarra)"
+      },
+      "products": [
+        {
+          "name": "Grey Dias Knit Sweater",
+          "type": "neuleet",
+          "price": 139.95,
+          "currency": "EUR",
+          "url": "https://dailypaperclothing.com/products/dias-knit-sweater-dp-dark-gull-grey",
+          "image": null,
+          "color": "#8d9093",
+          "signature": false,
+          "why": "Unisex jacquard-puuvillaneule Dias-logolla"
+        },
+        {
+          "name": "Mole Alias Dias Hoodie",
+          "type": "collegit",
+          "price": 119.95,
+          "currency": "EUR",
+          "url": "https://dailypaperclothing.com/collections/hoodies-sweaters",
+          "image": null,
+          "color": "#6e5f52",
+          "signature": true,
+          "why": "Merkin tunnistettava Alias-huppari maanläheisessä sävyssä"
+        },
+        {
+          "name": "Hawaiian Sunset Origami Shield Sweater",
+          "type": "collegit",
+          "price": 119.95,
+          "currency": "EUR",
+          "url": "https://dailypaperclothing.com/collections/hoodies-sweaters",
+          "image": null,
+          "color": "#c4673d",
+          "signature": false,
+          "why": "Shield-kuvioinen college lämpimässä auringonlaskun sävyssä"
+        }
+      ],
+      "coupons": [],
+      "sources": [
+        "https://dailypaperclothing.com/pages/shipping",
+        "https://dailypaperclothing.com/policies/shipping-policy",
+        "https://dailypaperclothing.com/pages/faq",
+        "https://dailypaperclothing.com/collections/hoodies-sweaters",
+        "https://dailypaperclothing.com/products/dias-knit-sweater-dp-dark-gull-grey"
+      ],
+      "confidence": "medium",
+      "notes": "Suomi = Europe Zone 2: 10 €, ilmainen yli 99 €, 7-10 arkipäivää (ale-aikoina pidempi). Palautus 14 pv, asiakas maksaa; portaalista saa alennetun palautustarran. Alessa ostetut hyvitetään vain lahjakorttina. Hupparin ja Origami-collegen hinnat kokoelmasivulta. Streetwear, ei varsinaista syys-/workwear-tyyliä, mutta unisex-neuleet sopivat. Varaston sijaintia ei löytynyt, koordinaatit Amsterdam."
     }
   ],
   "rejected": [
@@ -384,11 +1083,39 @@
     },
     {
       "name": "Vetra",
-      "reason": "Työtakit 150-230 € ilman ALV:ta (sivu näyttää veroton hinnan); halvin overshirt 125 € + ALV ylittää 150 €"
+      "reason": "Työtakit sivulla 150-262 €, ja hinnat näyttävät verottomilta (esim. 165,83 = 199/1,2); vain overshirt 1G/97 (125 €) voisi mahtua rajaan, joten alle 2 tuotetta"
     },
     {
       "name": "Atelier Tuffery",
       "reason": "Farkut 169-260 €, kaikki yli 150 €"
+    },
+    {
+      "name": "Loom",
+      "reason": "Ei toimita Suomeen (toimitusmaat FR, BE, DE, AT, DK, ES, IT, IE, LU, NL, PT, SE, UK, CH)"
+    },
+    {
+      "name": "Bleu de Paname",
+      "reason": "Ikoninen työtakki 165-210 €; muut syystuotteet (liivi, housut) yli 150 €"
+    },
+    {
+      "name": "Le Slip Français",
+      "reason": "Pääosin alusvaatteita; villaneuleet 150-295 €, vain yksi syystuote (neule 99 €) varmistettu hintavälillä"
+    },
+    {
+      "name": "Scotch & Soda",
+      "reason": "EU-verkkokauppa ei toimita Suomeen (toimitusmaalistassa ei Suomea)"
+    },
+    {
+      "name": "Butcher of Blue",
+      "reason": "Toimitusta Suomeen ei voitu varmistaa: ehdoissa ei kansainvälisiä toimitushintoja, myyntipisteet vain NL/DE/AT/CH/BE"
+    },
+    {
+      "name": "Howlin' (ent. Morrison)",
+      "reason": "Shetland-neuleet 220-250 €, kaikki yli 150 €"
+    },
+    {
+      "name": "Petrol Industries",
+      "reason": "Villasekoitepeacoat 169,99 € (yli rajan); muuten geneeristä mid-market-valikoimaa"
     }
   ]
 }
