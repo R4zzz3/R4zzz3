@@ -12,17 +12,106 @@
       }
     ],
     "asket": [],
-    "dedicated": [],
+    "dedicated": [
+      {
+        "code": null,
+        "deal": "Ale ympäri vuoden: -30–60 % aiemmista mallistoista",
+        "type": "sale",
+        "source": "https://www.dedicatedbrand.com/gb/men/sale",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": "FAVORITE20",
+        "deal": "-20 % koko tilauksesta (käyttäjän testaama 23.10.)",
+        "type": "code",
+        "source": "https://www.dontpayfull.com/at/dedicatedbrand.com",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
     "dr-denim": [],
-    "resterods": [],
-    "fjallraven": [],
+    "resterods": [
+      {
+        "code": null,
+        "deal": "Ale: jopa -50 % edellisen kauden tuotteista",
+        "type": "sale",
+        "source": "https://resterods.com/sale",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "fjallraven": [
+      {
+        "code": null,
+        "deal": "Jäsenten outlet -30–40 % (ilm. Forever-klubi)",
+        "type": "app",
+        "source": "https://www.fjallraven.com/eu/en-gb/members-only-outlet/",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "nn07": [],
-    "les-deux": [],
-    "makia": [],
-    "r-collection": [],
-    "pure-waste": [],
-    "billebeino": [],
-    "arket": [],
+    "les-deux": [
+      {
+        "code": null,
+        "deal": "-15 % ensitilauksesta, uutiskirjeen tilaajille",
+        "type": "newsletter",
+        "source": "https://lesdeux.com/pages/partner-home",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "makia": [
+      {
+        "code": null,
+        "deal": "Outlet: jopa -60 % aiemmista mallistoista",
+        "type": "sale",
+        "source": "https://makia.com/fi/collections/outlet",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "r-collection": [
+      {
+        "code": null,
+        "deal": "-10 % normaalihintaisista, uutiskirjeen tilaajille",
+        "type": "newsletter",
+        "source": "https://www.r-collection.fi/page/67/tilaa-uutiskirjeemme",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "pure-waste": [
+      {
+        "code": null,
+        "deal": "Outlet: jopa -50 % aiemmista mallistoista",
+        "type": "sale",
+        "source": "https://purewaste.com/language/fi/tuoteryhma/outlet/",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "billebeino": [
+      {
+        "code": null,
+        "deal": "Last Chance -80 % (esim. huppari 99 € → 20 €)",
+        "type": "sale",
+        "source": "https://eu.billebeino.com/collections/all-last-chance-80",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "arket": [
+      {
+        "code": null,
+        "deal": "-14 % opiskelijoille, myös alennetuista",
+        "type": "student",
+        "source": "https://www.arket.com/en-eu/customer-service/student-discount/",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "cos": [
       {
         "code": null,
@@ -43,23 +132,155 @@
         "verified": true
       }
     ],
-    "samsoe-samsoe": [],
-    "mads-norgaard": [],
-    "wood-wood": [],
+    "samsoe-samsoe": [
+      {
+        "code": null,
+        "deal": "Søciety-jäsen: syntymäpäivä -10 % + aleen etuajo",
+        "type": "app",
+        "source": "https://www.samsoe.com/en-US/samsoe-society",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "mads-norgaard": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje (ei aleen)",
+        "type": "newsletter",
+        "source": "https://www.madsnorgaard.com/pages/sign-up",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "wood-wood": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirjeen tilaajille",
+        "type": "newsletter",
+        "source": "https://www.woodwood.com/en-us/newsletter-sign-up",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "rains": [],
-    "revolution": [],
-    "varusteleka": [],
+    "revolution": [
+      {
+        "code": null,
+        "deal": "Vanha RVLT-vaate takaisin: 12–20 € lahjakortti",
+        "type": "app",
+        "source": "https://revolution.eu/pages/faq",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "varusteleka": [
+      {
+        "code": null,
+        "deal": "Poistomyynti: jopa -50 % vanhoista versioista",
+        "type": "sale",
+        "source": "https://varusteleka.com/en/collections/clearance-sale",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "Support Squad: pisteitä ostoista, kk-tarjoukset",
+        "type": "app",
+        "source": "https://varusteleka.com/en/pages/support-squad",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "uskees": [],
-    "peregrine": [],
+    "peregrine": [
+      {
+        "code": "FLASHFRIDAY",
+        "deal": "-50 % yhdestä tuotteesta kk:n viim. pe (30.10.)",
+        "type": "code",
+        "source": "https://www.peregrineclothing.co.uk/pages/terms",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje (ei aleen)",
+        "type": "newsletter",
+        "source": "https://www.peregrineclothing.co.uk/pages/newsletter-sign-up",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "far-afield": [],
     "aran-woollen-mills": [],
-    "finisterre": [],
-    "percival": [],
-    "folk": [],
-    "universal-works": [],
+    "finisterre": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta (uutiskirje), täyshintaiset",
+        "type": "newsletter",
+        "source": "https://finisterre.com/pages/terms-conditions",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "percival": [
+      {
+        "code": null,
+        "deal": "-20 % opiskelijoille (Student Beans UK)",
+        "type": "student",
+        "source": "https://www.studentbeans.com/student-discount/uk/percival",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "folk": [
+      {
+        "code": null,
+        "deal": "Ale: jopa -50 % aiempien kausien tuotteista",
+        "type": "sale",
+        "source": "https://www.folkclothing.com/collections/sale",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "universal-works": [
+      {
+        "code": "FAMILY",
+        "deal": "-45 % koodilla (koodisivuston mukaan toimii)",
+        "type": "code",
+        "source": "https://uk.hotdeals.com/brands/universal-works-discount-codes",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
     "howies": [],
-    "moleskin-jeans-co": [],
+    "moleskin-jeans-co": [
+      {
+        "code": null,
+        "deal": "Monipakkaus: 3 farkut 200 £ / 2 denimiä 100 £",
+        "type": "sale",
+        "source": "https://themoleskinjeansco.uk/shop-all/",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "passenger": [],
-    "superdry": []
+    "superdry": [
+      {
+        "code": null,
+        "deal": "Ale jopa -50 % (miehet ja naiset)",
+        "type": "sale",
+        "source": "https://www.superdry.fi/ale/",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 % opiskelijoille (UNiDAYS)",
+        "type": "student",
+        "source": "https://www.myunidays.com/GB/fi-FI/partners/superdry/view",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ]
   }
 }

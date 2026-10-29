@@ -74,7 +74,16 @@
         "verified": true
       }
     ],
-    "hast": [],
+    "hast": [
+      {
+        "code": null,
+        "deal": "Hast Club: 1 € = 1 p, 250 p = -10 € (tili)",
+        "type": "app",
+        "source": "https://www.hastparis.com/en/pages/conditions-dutilisation",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "maison-labiche": [
       {
         "code": null,
@@ -103,25 +112,217 @@
         "verified": true
       }
     ],
-    "mud-jeans": [],
-    "g-star-raw": [],
-    "kuyichi": [],
-    "dstrezzed": [],
+    "mud-jeans": [
+      {
+        "code": null,
+        "deal": "-10 % ensiostoksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://mudjeans.com/products/bryce-mid-straight-authentic-indigo",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 € uusille, kun lähetät vanhat farkut",
+        "type": "firstorder",
+        "source": "https://mudjeans.com/pages/about-us-mud-jeans",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "g-star-raw": [
+      {
+        "code": null,
+        "deal": "-20 % opiskelijoille (UNiDAYS), FI ei varmistettu",
+        "type": "student",
+        "source": "https://www.myunidays.com/GB/en-GB/partners/gstar/view",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "kuyichi": [
+      {
+        "code": null,
+        "deal": "-15 € ensitilauksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://tripeditions.com/coupons/view/Kuyichi",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
+    "dstrezzed": [
+      {
+        "code": null,
+        "deal": "Jäsenklubi: jäsenalennukset ja ale-ennakko",
+        "type": "app",
+        "source": "https://www.dstrezzed.com/pages/rewards",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "cuisse-de-grenouille": [],
-    "daily-paper": [],
-    "armedangels": [],
-    "merz-b-schwanen": [],
-    "carhartt-wip": [],
-    "hessnatur": [],
+    "daily-paper": [
+      {
+        "code": null,
+        "deal": "Ale: n. -30 % valikoiduista tuotteista",
+        "type": "sale",
+        "source": "https://dailypaperclothing.com",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://uk.hotdeals.com/brands/daily-paper-discount-codes",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
+    "armedangels": [
+      {
+        "code": null,
+        "deal": "-10 % alennuskoodi uutiskirjeen tilaajille",
+        "type": "newsletter",
+        "source": "https://www.armedangels.com/en/pages/newsletter-confirmed",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-15 % opiskelijoille (UNiDAYS), FI ei varmistettu",
+        "type": "student",
+        "source": "https://www.myunidays.com/DE/de-DE/partners/armedangels/view",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "merz-b-schwanen": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://www.hotdeals.com/coupons/merz-b-schwanen-promo-codes",
+        "checked": "2026-10-29",
+        "verified": false
+      }
+    ],
+    "carhartt-wip": [
+      {
+        "code": null,
+        "deal": "Ale: -30–40 % valikoiduista tuotteista",
+        "type": "sale",
+        "source": "https://www.carhartt-wip.com/en-fi",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "hessnatur": [
+      {
+        "code": null,
+        "deal": "-20 € uutiskirjeen tervetuliaislahja (min. 99 €)",
+        "type": "newsletter",
+        "source": "https://www.hessnatur.com/de/newsletter-registrierung",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "Kanta-asiakkaat: 500 pistettä = 5 € lahjakortti",
+        "type": "app",
+        "source": "https://www.hessnatur.com/de/hessnatur-friends",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "zara": [],
-    "nikin": [],
-    "ecoalf": [],
-    "reet-aus": [],
+    "nikin": [
+      {
+        "code": "NIKIN-FRIENDS20",
+        "deal": "-20 % ensitilauksesta ystäväkoodilla",
+        "type": "firstorder",
+        "source": "https://nikinclothing.com/pages/refer-a-friend",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "ecoalf": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje (ei aletuotteet)",
+        "type": "newsletter",
+        "source": "https://ecoalf.com/en-int/pages/subscribe-newsletter-ecoalf",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "reet-aus": [
+      {
+        "code": null,
+        "deal": "-5 % ensitilauksesta AUS Community -jäsenille",
+        "type": "firstorder",
+        "source": "https://www.reetaus.com/en-fi/pages/aus-community",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": null,
+        "deal": "-15 % syntymäpäiväalennus jäsenille",
+        "type": "app",
+        "source": "https://www.reetaus.com/en-fi/pages/aus-community",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "portuguese-flannel": [],
-    "brava-fabrics": [],
-    "thinking-mu": [],
-    "kopyto": [],
-    "silbon": [],
+    "brava-fabrics": [
+      {
+        "code": null,
+        "deal": "Archive sale: -50 % valikoiduista tuotteista",
+        "type": "sale",
+        "source": "https://bravafabrics.com/",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "thinking-mu": [
+      {
+        "code": null,
+        "deal": "-10 % seuraavasta ostoksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://thinkingmu.gorgias.help/en-US/how-can-i-receive-the-newsletter-459989",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "kopyto": [
+      {
+        "code": null,
+        "deal": "-10 % ensitilauksesta, uutiskirje",
+        "type": "newsletter",
+        "source": "https://kopyto.com/strona/o-nas",
+        "checked": "2026-10-29",
+        "verified": true
+      },
+      {
+        "code": "BUNDLEDEAL",
+        "deal": "-10 %, kun korissa kaulahuivi + muu tuote",
+        "type": "code",
+        "source": "https://kopyto.com/en/pages/terms-and-conditions-cheaper-in-a-bundle",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
+    "silbon": [
+      {
+        "code": null,
+        "deal": "-10 € ensitilaus yli 59 €, Club People (ehkä ES)",
+        "type": "firstorder",
+        "source": "https://help.silbonshop.com/hc/es-es/articles/40179237091986-C%C3%B3digos-de-descuento-bienvenida-newsletter-y-cumplea%C3%B1os",
+        "checked": "2026-10-29",
+        "verified": true
+      }
+    ],
     "replay": []
   }
 }
